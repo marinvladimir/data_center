@@ -1,0 +1,37 @@
+.container
+{
+    font-style: normal; 
+    font-size: 15px;
+    position:relative;
+}
+
+.linkz{
+    color: rgb(18, 59, 92);
+}
+
+.linkz:active{
+    color: rgb(18, 59, 92);
+}
+
+.link1
+{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(231, 231, 185);
+    background-color: rgb(255, 255, 255);
+    height: 105px;
+    width: 120px;
+    font-size: 11px;
+    margin-bottom: 125px;
+    margin-left: 5px;
+    background-color: rgb(49, 94, 160);
+}
+
+.link1:hover
+{
+    background-color: rgb(0, 0, 95);
+}
+
+.link1:active
+{
+    background-color: blue;
+}

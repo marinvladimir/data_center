@@ -1,0 +1,380 @@
+
+
+.chart{
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+ }
+
+.chart2{
+   margin-top: 30px;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   justify-content: center;
+}
+
+.chart3{
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+ }
+
+ .bar{
+     text-align: center;
+     width: 1300px;
+     height: 650px;
+     border-style: outset;
+     border-color: cadetblue;
+     border-radius: 5px;
+     border-width: 8px;
+     background-color:rgba(255, 255, 255, 0.945);
+ }
+
+
+ .line{
+    text-align: center;
+    width: 1300px;
+    height: 650px;
+    border-style: outset;
+    border-color: cadetblue;
+    border-radius: 5px;
+    border-width: 8px;
+    background-color:rgba(255, 255, 255, 0.945);
+}
+
+.temp{
+    text-align: center;
+    width: 1800px;
+    height: 950px;
+    border-style: outset;
+    border-color: cadetblue;
+    border-radius: 5px;
+    border-width: 8px;
+    background-color:rgba(255, 255, 255, 0.945);
+}
+
+#legendMenu{
+    border-style: outset;
+    border-color: cadetblue;
+    border-radius: 150px;
+    border-width: 8px;
+    position: absolute;
+    left: 150px;
+    top: 700px;
+    display: none;
+    height: 180px;
+    width: 180px;
+    background-color:rgb(59, 90, 104);
+    color: lightblue;
+}
+
+#legendMenu2{
+    border-style: outset;
+    border-color: cadetblue;
+    border-radius: 150px;
+    border-width: 8px;
+    position: absolute;
+    left: 150px;
+    top: 2680px;
+    display: none;
+    height: 180px;
+    width: 180px;
+    background-color:rgb(59, 90, 104);
+    color: lightblue;
+}
+
+#legendCtrl{
+    border-style: outset;
+    border-color: rgb(194, 223, 140);
+    border-radius: 20px;
+    border-width: 8px;
+    display: none;
+    position: absolute;
+    left: 180px;
+    top: 450px;
+    height: 220px;
+    width: 130px;
+    background-color:rgb(133, 106, 65);
+    color: rgb(221, 220, 175);
+}
+
+#legendCtrl2{
+    border-style: outset;
+    border-color: rgb(194, 223, 140);
+    border-radius: 20px;
+    border-width: 8px;
+    display: none;
+    position: absolute;
+    left: 180px;
+    top: 2550px;
+    height: 100px;
+    width: 130px;
+    background-color:rgb(133, 106, 65);
+    color: rgb(221, 220, 175);
+}
+
+#main{
+    position: absolute;
+    margin-left: -1665px;
+}
+
+#main2{
+    position: absolute;
+    margin-top: -1407px;
+    margin-left: -1665px;
+}
+
+#menuList{
+    position:relative;
+    top: -300px;
+    right: 1020px;
+}
+
+#mainMenu{
+    position: relative;
+    height: 60px;
+    width: 80px;
+    left: 900px;
+    top: -230px;
+    background-color:#e76a6a;
+    border-color: #8c1717;
+    border-radius: 5px;
+    border-width: 8px;
+}
+
+#mainMenu2{
+    position: relative;
+    height: 60px;
+    width: 80px;
+    left: 900px;
+    top: 1860px;
+    background-color:#e76a6a;
+    border-color: #8c1717;
+    border-radius: 5px;
+    border-width: 8px;
+}
+
+#showMenu{
+    border-style: outset;
+    border-color: cadetblue;
+    border-radius: 5px;
+    border-width: 8px;
+    position: absolute;
+    right: 0px;
+    top: 550px;
+    height: 230px;
+    width: 180px;
+    background-color:rgb(31, 106, 109);
+}
+
+#showMenu2{
+    border-style: outset;
+    border-color: cadetblue;
+    border-radius: 5px;
+    border-width: 8px;
+    position: absolute;
+    right: 0px;
+    top: 550px;
+    height: 280px;
+    width: 180px;
+    background-color:rgb(31, 106, 109);
+}
+
+#showMenu3{
+    border-style: outset;
+    border-color: cadetblue;
+    border-radius: 5px;
+    border-width: 8px;
+    position: absolute;
+    right: 0px;
+    top: 550px;
+    height: 190px;
+    width: 180px;
+    background-color:rgb(31, 106, 109);
+}
+
+#ClickMe1{
+    position: absolute;
+    color: rgb(202, 235, 230);
+    right: 40px;
+    width: 100px;
+    margin-top: 40px;
+    background-color:rgba(125, 160, 189, 0.664);
+}
+#ClickMe2{
+    position: absolute;
+    color: rgb(202, 235, 230);
+    right: 40px;
+    margin-top: 80px;
+    width: 100px;
+    background-color:rgba(125, 160, 189, 0.664);
+}
+#ClickMe3{
+    position: absolute;
+    color: rgb(202, 235, 230);
+    right: 40px;
+    margin-top: 120px;
+    width: 100px;
+    background-color:rgba(125, 160, 189, 0.664);
+}
+#ClickMe4{
+    position: absolute;
+    color: rgb(202, 235, 230);
+    right: 40px;
+    margin-top: 160px;
+    width: 100px;
+    background-color:rgba(125, 160, 189, 0.664);
+}
+
+
+#ClickMe11{
+    position: absolute;
+    color: rgb(202, 235, 230);
+    right: 14px;
+    margin-top: 10px;
+    width: 150px;
+    background-color:rgba(125, 160, 189, 0.664);
+}
+#ClickMe12{
+    position: absolute;
+    color: rgb(202, 235, 230);
+    right: 14px;
+    margin-top: 40px;
+    width: 150px;
+    background-color:rgba(125, 160, 189, 0.664);
+}
+#ClickMe13{
+    position: absolute;
+    color: rgb(202, 235, 230);
+    right: 14px;
+    margin-top: 70px;
+    width: 150px;
+    background-color:rgba(125, 160, 189, 0.664);
+}
+#ClickMe14{
+    position: absolute;
+    color: rgb(202, 235, 230);
+    right: 14px;
+    margin-top: 100px;
+    width: 150px;
+    background-color:rgba(125, 160, 189, 0.664);
+}
+#ClickMe15{
+    position: absolute;
+    color: rgb(202, 235, 230);
+    right: 14px;
+    margin-top: 130px;
+    width: 150px;
+    background-color:rgba(125, 160, 189, 0.664);
+}
+#ClickMe16{
+    position: absolute;
+    color: rgb(202, 235, 230);
+    right: 14px;
+    margin-top: 160px;
+    width: 150px;
+    background-color:rgba(125, 160, 189, 0.664);
+}
+#ClickMe17{
+    position: absolute;
+    color: rgb(202, 235, 230);
+    right: 14px;
+    margin-top: 190px;
+    width: 150px;
+    background-color:rgba(125, 160, 189, 0.664);
+}
+#ClickMe18{
+    position: absolute;
+    color: rgb(202, 235, 230);
+    right: 14px;
+    margin-top: 220px;
+    width: 150px;
+    background-color:rgba(125, 160, 189, 0.664);
+}
+#ClickMe19{
+    position: absolute;
+    color: rgb(202, 235, 230);
+    right: 14px;
+    margin-top: 250px;
+    width: 150px;
+    background-color:rgba(125, 160, 189, 0.664);
+}
+
+#Btn_Leg{
+    position: absolute;
+    color: rgb(202, 235, 230);
+    border-radius: 35px;
+    right: 40px;
+    width: 100px;
+    margin-top: 30px;
+    background-color:rgba(132, 206, 193, 0.664);
+}
+#Btn_Leg2{
+    position: absolute;
+    color: rgb(202, 235, 230);
+    border-radius: 35px;
+    right: 40px;
+    margin-top: 60px;
+    width: 100px;
+    background-color:rgba(132, 206, 193, 0.664);
+}
+#Btn_Leg3{
+    position: absolute;
+    color: rgb(202, 235, 230);
+    border-radius: 35px;
+    right: 40px;
+    margin-top: 90px;
+    width: 100px;
+    background-color:rgba(132, 206, 193, 0.664);
+}
+#Btn_Leg4{
+    position: absolute;
+    color: rgb(202, 235, 230);
+    border-radius: 35px;
+    right: 40px;
+    margin-top: 120px;
+    width: 100px;
+    background-color:rgba(132, 206, 193, 0.664);
+}
+
+#Btn_Leg5{
+    position: absolute;
+    color: rgb(134, 60, 57);
+    border-radius: 14px;
+    right: 15px;
+    width: 100px;
+    margin-top: 35px;
+    background-color:rgba(206, 149, 132, 0.664);
+}
+#Btn_Leg6{
+    position: absolute;
+    color: rgb(134, 60, 57);
+    border-radius: 14px;
+    right: 15px;
+    margin-top: 80px;
+    width: 100px;
+    background-color:rgba(206, 149, 132, 0.664);
+}
+#Btn_Leg7{
+    position: absolute;
+    color: rgb(134, 60, 57);
+    border-radius: 14px;
+    right: 15px;
+    margin-top: 125px;
+    width: 100px;
+    background-color:rgba(206, 149, 132, 0.664);
+}
+#Btn_Leg8{
+    position: absolute;
+    color: rgb(134, 60, 57);
+    border-radius: 14px;
+    right: 15px;
+    margin-top: 170px;
+    width: 100px;
+    background-color:rgba(206, 149, 132, 0.664);
+}

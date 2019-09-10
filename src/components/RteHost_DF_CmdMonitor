@@ -1,0 +1,1579 @@
+Timestamp: 1552782178797 || Data: Sun Mar 17 01:22:58 CET 2019
+Filesystem                               1K-blocks     Used Available Use% Mounted on
+udev                                     197935644        0 197935644   0% /dev
+tmpfs                                     39592892    26452  39566440   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088  1681628  11587160  13% /
+tmpfs                                    197964448    54624 197909824   1% /dev/shm
+tmpfs                                         5120        0      5120   0% /run/lock
+tmpfs                                    197964448        0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036    72829    374836  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912    20092   7923552   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880   469740  66886416   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912    21632   7922012   1% /home
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   910744  66445412   2% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log          71175880    59940  67296216   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644    22044   8703300   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912    20836   7922808   1% /var/log/audit
+cgmfs                                          100        0       100   0% /run/cgmanager/fs
+/dev/drbd0                               226251284 20848516 193886808  10% /opt/ericsson/virtualmachines
+tmpfs                                     39592892        0  39592892   0% /run/user/1000
+
+Timestamp: 1552782778803 || Data: Sun Mar 17 01:32:58 CET 2019
+Filesystem                               1K-blocks     Used Available Use% Mounted on
+udev                                     197935644        0 197935644   0% /dev
+tmpfs                                     39592892    26284  39566608   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088  1681632  11587156  13% /
+tmpfs                                    197964448    54624 197909824   1% /dev/shm
+tmpfs                                         5120        0      5120   0% /run/lock
+tmpfs                                    197964448        0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036    72829    374836  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912    20092   7923552   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880   469740  66886416   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912    21636   7922008   1% /home
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   910744  66445412   2% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log          71175880    59952  67296204   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644    22044   8703300   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912    20856   7922788   1% /var/log/audit
+cgmfs                                          100        0       100   0% /run/cgmanager/fs
+/dev/drbd0                               226251284 20854412 193880912  10% /opt/ericsson/virtualmachines
+tmpfs                                     39592892        0  39592892   0% /run/user/1000
+
+Timestamp: 1552783378808 || Data: Sun Mar 17 01:42:58 CET 2019
+Filesystem                               1K-blocks     Used Available Use% Mounted on
+udev                                     197935644        0 197935644   0% /dev
+tmpfs                                     39592892    26284  39566608   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088  1681632  11587156  13% /
+tmpfs                                    197964448    54624 197909824   1% /dev/shm
+tmpfs                                         5120        0      5120   0% /run/lock
+tmpfs                                    197964448        0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036    72829    374836  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912    20092   7923552   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880   469740  66886416   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912    21636   7922008   1% /home
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   910744  66445412   2% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log          71175880    59956  67296200   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644    22044   8703300   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912    20856   7922788   1% /var/log/audit
+cgmfs                                          100        0       100   0% /run/cgmanager/fs
+/dev/drbd0                               226251284 20857188 193878136  10% /opt/ericsson/virtualmachines
+tmpfs                                     39592892        0  39592892   0% /run/user/1000
+
+Timestamp: 1552783978814 || Data: Sun Mar 17 01:52:58 CET 2019
+Filesystem                               1K-blocks     Used Available Use% Mounted on
+udev                                     197935644        0 197935644   0% /dev
+tmpfs                                     39592892    26284  39566608   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088  1681632  11587156  13% /
+tmpfs                                    197964448    54624 197909824   1% /dev/shm
+tmpfs                                         5120        0      5120   0% /run/lock
+tmpfs                                    197964448        0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036    72829    374836  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912    20092   7923552   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880   469740  66886416   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912    21636   7922008   1% /home
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   910744  66445412   2% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log          71175880    59964  67296192   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644    22044   8703300   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912    20860   7922784   1% /var/log/audit
+cgmfs                                          100        0       100   0% /run/cgmanager/fs
+/dev/drbd0                               226251284 20863024 193872300  10% /opt/ericsson/virtualmachines
+tmpfs                                     39592892        0  39592892   0% /run/user/1000
+
+Timestamp: 1552784578819 || Data: Sun Mar 17 02:02:58 CET 2019
+Filesystem                               1K-blocks     Used Available Use% Mounted on
+udev                                     197935644        0 197935644   0% /dev
+tmpfs                                     39592892    26284  39566608   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088  1681632  11587156  13% /
+tmpfs                                    197964448    54624 197909824   1% /dev/shm
+tmpfs                                         5120        0      5120   0% /run/lock
+tmpfs                                    197964448        0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036    72829    374836  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912    20092   7923552   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880   469740  66886416   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912    21636   7922008   1% /home
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   910744  66445412   2% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log          71175880    59968  67296188   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644    22044   8703300   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912    20860   7922784   1% /var/log/audit
+cgmfs                                          100        0       100   0% /run/cgmanager/fs
+/dev/drbd0                               226251284 20866980 193868344  10% /opt/ericsson/virtualmachines
+tmpfs                                     39592892        0  39592892   0% /run/user/1000
+
+Timestamp: 1552785178825 || Data: Sun Mar 17 02:12:58 CET 2019
+Filesystem                               1K-blocks     Used Available Use% Mounted on
+udev                                     197935644        0 197935644   0% /dev
+tmpfs                                     39592892    26284  39566608   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088  1681632  11587156  13% /
+tmpfs                                    197964448    54624 197909824   1% /dev/shm
+tmpfs                                         5120        0      5120   0% /run/lock
+tmpfs                                    197964448        0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036    72829    374836  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912    20092   7923552   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880   469740  66886416   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912    21636   7922008   1% /home
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   910744  66445412   2% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log          71175880    59976  67296180   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644    22044   8703300   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912    20860   7922784   1% /var/log/audit
+cgmfs                                          100        0       100   0% /run/cgmanager/fs
+/dev/drbd0                               226251284 20872104 193863220  10% /opt/ericsson/virtualmachines
+tmpfs                                     39592892        0  39592892   0% /run/user/1000
+
+Timestamp: 1552785778830 || Data: Sun Mar 17 02:22:58 CET 2019
+Filesystem                               1K-blocks     Used Available Use% Mounted on
+udev                                     197935644        0 197935644   0% /dev
+tmpfs                                     39592892    26284  39566608   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088  1681632  11587156  13% /
+tmpfs                                    197964448    54624 197909824   1% /dev/shm
+tmpfs                                         5120        0      5120   0% /run/lock
+tmpfs                                    197964448        0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036    72829    374836  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912    20092   7923552   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880   469740  66886416   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912    21636   7922008   1% /home
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   910744  66445412   2% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log          71175880    59980  67296176   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644    22044   8703300   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912    20864   7922780   1% /var/log/audit
+cgmfs                                          100        0       100   0% /run/cgmanager/fs
+/dev/drbd0                               226251284 20876396 193858928  10% /opt/ericsson/virtualmachines
+tmpfs                                     39592892        0  39592892   0% /run/user/1000
+
+Timestamp: 1552786378836 || Data: Sun Mar 17 02:32:58 CET 2019
+Filesystem                               1K-blocks     Used Available Use% Mounted on
+udev                                     197935644        0 197935644   0% /dev
+tmpfs                                     39592892    26284  39566608   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088  1681632  11587156  13% /
+tmpfs                                    197964448    54624 197909824   1% /dev/shm
+tmpfs                                         5120        0      5120   0% /run/lock
+tmpfs                                    197964448        0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036    72829    374836  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912    20092   7923552   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880   469740  66886416   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912    21636   7922008   1% /home
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   910744  66445412   2% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log          71175880    59980  67296176   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644    22044   8703300   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912    20864   7922780   1% /var/log/audit
+cgmfs                                          100        0       100   0% /run/cgmanager/fs
+/dev/drbd0                               226251284 20880332 193854992  10% /opt/ericsson/virtualmachines
+tmpfs                                     39592892        0  39592892   0% /run/user/1000
+
+Timestamp: 1552786978842 || Data: Sun Mar 17 02:42:58 CET 2019
+Filesystem                               1K-blocks     Used Available Use% Mounted on
+udev                                     197935644        0 197935644   0% /dev
+tmpfs                                     39592892    26284  39566608   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088  1681632  11587156  13% /
+tmpfs                                    197964448    54624 197909824   1% /dev/shm
+tmpfs                                         5120        0      5120   0% /run/lock
+tmpfs                                    197964448        0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036    72829    374836  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912    20092   7923552   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880   469740  66886416   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912    21636   7922008   1% /home
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   910744  66445412   2% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log          71175880    59988  67296168   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644    22044   8703300   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912    20864   7922780   1% /var/log/audit
+cgmfs                                          100        0       100   0% /run/cgmanager/fs
+/dev/drbd0                               226251284 20884148 193851176  10% /opt/ericsson/virtualmachines
+tmpfs                                     39592892        0  39592892   0% /run/user/1000
+
+Timestamp: 1552787578848 || Data: Sun Mar 17 02:52:58 CET 2019
+Filesystem                               1K-blocks     Used Available Use% Mounted on
+udev                                     197935644        0 197935644   0% /dev
+tmpfs                                     39592892    26284  39566608   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088  1681632  11587156  13% /
+tmpfs                                    197964448    54624 197909824   1% /dev/shm
+tmpfs                                         5120        0      5120   0% /run/lock
+tmpfs                                    197964448        0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036    72829    374836  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912    20092   7923552   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880   469740  66886416   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912    21636   7922008   1% /home
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   910744  66445412   2% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log          71175880    60000  67296156   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644    22044   8703300   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912    20864   7922780   1% /var/log/audit
+cgmfs                                          100        0       100   0% /run/cgmanager/fs
+/dev/drbd0                               226251284 20888304 193847020  10% /opt/ericsson/virtualmachines
+tmpfs                                     39592892        0  39592892   0% /run/user/1000
+
+Timestamp: 1552788178854 || Data: Sun Mar 17 03:02:58 CET 2019
+Filesystem                               1K-blocks     Used Available Use% Mounted on
+udev                                     197935644        0 197935644   0% /dev
+tmpfs                                     39592892    26284  39566608   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088  1681632  11587156  13% /
+tmpfs                                    197964448    54624 197909824   1% /dev/shm
+tmpfs                                         5120        0      5120   0% /run/lock
+tmpfs                                    197964448        0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036    72829    374836  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912    20092   7923552   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880   469740  66886416   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912    21636   7922008   1% /home
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   910744  66445412   2% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log          71175880    60000  67296156   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644    22044   8703300   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912    20868   7922776   1% /var/log/audit
+cgmfs                                          100        0       100   0% /run/cgmanager/fs
+/dev/drbd0                               226251284 20894336 193840988  10% /opt/ericsson/virtualmachines
+tmpfs                                     39592892        0  39592892   0% /run/user/1000
+
+Timestamp: 1552788778868 || Data: Sun Mar 17 03:12:58 CET 2019
+Filesystem                               1K-blocks     Used Available Use% Mounted on
+udev                                     197935644        0 197935644   0% /dev
+tmpfs                                     39592892    26284  39566608   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088  1681632  11587156  13% /
+tmpfs                                    197964448    54624 197909824   1% /dev/shm
+tmpfs                                         5120        0      5120   0% /run/lock
+tmpfs                                    197964448        0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036    72829    374836  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912    20092   7923552   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880   469740  66886416   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912    21636   7922008   1% /home
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   910744  66445412   2% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log          71175880    60008  67296148   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644    22044   8703300   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912    20868   7922776   1% /var/log/audit
+cgmfs                                          100        0       100   0% /run/cgmanager/fs
+/dev/drbd0                               226251284 20898928 193836396  10% /opt/ericsson/virtualmachines
+tmpfs                                     39592892        0  39592892   0% /run/user/1000
+
+Timestamp: 1552789378874 || Data: Sun Mar 17 03:22:58 CET 2019
+Filesystem                               1K-blocks     Used Available Use% Mounted on
+udev                                     197935644        0 197935644   0% /dev
+tmpfs                                     39592892    26284  39566608   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088  1681632  11587156  13% /
+tmpfs                                    197964448    54624 197909824   1% /dev/shm
+tmpfs                                         5120        0      5120   0% /run/lock
+tmpfs                                    197964448        0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036    72829    374836  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912    20092   7923552   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880   469740  66886416   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912    21636   7922008   1% /home
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   910744  66445412   2% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log          71175880    60012  67296144   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644    22044   8703300   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912    20872   7922772   1% /var/log/audit
+cgmfs                                          100        0       100   0% /run/cgmanager/fs
+/dev/drbd0                               226251284 20924296 193811028  10% /opt/ericsson/virtualmachines
+tmpfs                                     39592892        0  39592892   0% /run/user/1000
+
+Timestamp: 1552789978879 || Data: Sun Mar 17 03:32:58 CET 2019
+Filesystem                               1K-blocks     Used Available Use% Mounted on
+udev                                     197935644        0 197935644   0% /dev
+tmpfs                                     39592892    26284  39566608   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088  1681632  11587156  13% /
+tmpfs                                    197964448    54624 197909824   1% /dev/shm
+tmpfs                                         5120        0      5120   0% /run/lock
+tmpfs                                    197964448        0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036    72829    374836  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912    20092   7923552   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880   469740  66886416   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912    21636   7922008   1% /home
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   910744  66445412   2% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log          71175880    60012  67296144   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644    22044   8703300   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912    20872   7922772   1% /var/log/audit
+cgmfs                                          100        0       100   0% /run/cgmanager/fs
+/dev/drbd0                               226251284 20929624 193805700  10% /opt/ericsson/virtualmachines
+tmpfs                                     39592892        0  39592892   0% /run/user/1000
+
+Timestamp: 1552790578885 || Data: Sun Mar 17 03:42:58 CET 2019
+Filesystem                               1K-blocks     Used Available Use% Mounted on
+udev                                     197935644        0 197935644   0% /dev
+tmpfs                                     39592892    26284  39566608   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088  1681632  11587156  13% /
+tmpfs                                    197964448    54624 197909824   1% /dev/shm
+tmpfs                                         5120        0      5120   0% /run/lock
+tmpfs                                    197964448        0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036    72829    374836  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912    20092   7923552   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880   469740  66886416   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912    21636   7922008   1% /home
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   910744  66445412   2% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log          71175880    60016  67296140   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644    22044   8703300   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912    20872   7922772   1% /var/log/audit
+cgmfs                                          100        0       100   0% /run/cgmanager/fs
+/dev/drbd0                               226251284 20934896 193800428  10% /opt/ericsson/virtualmachines
+tmpfs                                     39592892        0  39592892   0% /run/user/1000
+
+Timestamp: 1552791178889 || Data: Sun Mar 17 03:52:58 CET 2019
+Filesystem                               1K-blocks     Used Available Use% Mounted on
+udev                                     197935644        0 197935644   0% /dev
+tmpfs                                     39592892    26284  39566608   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088  1681632  11587156  13% /
+tmpfs                                    197964448    54624 197909824   1% /dev/shm
+tmpfs                                         5120        0      5120   0% /run/lock
+tmpfs                                    197964448        0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036    72829    374836  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912    20092   7923552   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880   469740  66886416   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912    21636   7922008   1% /home
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   910744  66445412   2% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log          71175880    60028  67296128   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644    22044   8703300   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912    20872   7922772   1% /var/log/audit
+cgmfs                                          100        0       100   0% /run/cgmanager/fs
+/dev/drbd0                               226251284 20941180 193794144  10% /opt/ericsson/virtualmachines
+tmpfs                                     39592892        0  39592892   0% /run/user/1000
+
+Timestamp: 1552791778895 || Data: Sun Mar 17 04:02:58 CET 2019
+Filesystem                               1K-blocks     Used Available Use% Mounted on
+udev                                     197935644        0 197935644   0% /dev
+tmpfs                                     39592892    26284  39566608   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088  1681632  11587156  13% /
+tmpfs                                    197964448    54624 197909824   1% /dev/shm
+tmpfs                                         5120        0      5120   0% /run/lock
+tmpfs                                    197964448        0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036    72829    374836  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912    20092   7923552   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880   469740  66886416   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912    21636   7922008   1% /home
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   910744  66445412   2% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log          71175880    60028  67296128   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644    22044   8703300   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912    20876   7922768   1% /var/log/audit
+cgmfs                                          100        0       100   0% /run/cgmanager/fs
+/dev/drbd0                               226251284 20946188 193789136  10% /opt/ericsson/virtualmachines
+tmpfs                                     39592892        0  39592892   0% /run/user/1000
+
+Timestamp: 1552792378900 || Data: Sun Mar 17 04:12:58 CET 2019
+Filesystem                               1K-blocks     Used Available Use% Mounted on
+udev                                     197935644        0 197935644   0% /dev
+tmpfs                                     39592892    26284  39566608   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088  1681632  11587156  13% /
+tmpfs                                    197964448    54624 197909824   1% /dev/shm
+tmpfs                                         5120        0      5120   0% /run/lock
+tmpfs                                    197964448        0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036    72829    374836  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912    20092   7923552   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880   469740  66886416   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912    21636   7922008   1% /home
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   910744  66445412   2% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log          71175880    60032  67296124   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644    22044   8703300   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912    20876   7922768   1% /var/log/audit
+cgmfs                                          100        0       100   0% /run/cgmanager/fs
+/dev/drbd0                               226251284 20951128 193784196  10% /opt/ericsson/virtualmachines
+tmpfs                                     39592892        0  39592892   0% /run/user/1000
+
+Timestamp: 1552792978906 || Data: Sun Mar 17 04:22:58 CET 2019
+Filesystem                               1K-blocks     Used Available Use% Mounted on
+udev                                     197935644        0 197935644   0% /dev
+tmpfs                                     39592892    26284  39566608   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088  1681632  11587156  13% /
+tmpfs                                    197964448    54624 197909824   1% /dev/shm
+tmpfs                                         5120        0      5120   0% /run/lock
+tmpfs                                    197964448        0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036    72829    374836  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912    20092   7923552   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880   469740  66886416   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912    21636   7922008   1% /home
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   910744  66445412   2% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log          71175880    60036  67296120   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644    22044   8703300   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912    20876   7922768   1% /var/log/audit
+cgmfs                                          100        0       100   0% /run/cgmanager/fs
+/dev/drbd0                               226251284 20956876 193778448  10% /opt/ericsson/virtualmachines
+tmpfs                                     39592892        0  39592892   0% /run/user/1000
+
+Timestamp: 1552793578911 || Data: Sun Mar 17 04:32:58 CET 2019
+Filesystem                               1K-blocks     Used Available Use% Mounted on
+udev                                     197935644        0 197935644   0% /dev
+tmpfs                                     39592892    26284  39566608   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088  1681632  11587156  13% /
+tmpfs                                    197964448    54624 197909824   1% /dev/shm
+tmpfs                                         5120        0      5120   0% /run/lock
+tmpfs                                    197964448        0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036    72829    374836  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912    20092   7923552   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880   469740  66886416   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912    21636   7922008   1% /home
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   910744  66445412   2% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log          71175880    60036  67296120   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644    22044   8703300   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912    20880   7922764   1% /var/log/audit
+cgmfs                                          100        0       100   0% /run/cgmanager/fs
+/dev/drbd0                               226251284 20964976 193770348  10% /opt/ericsson/virtualmachines
+tmpfs                                     39592892        0  39592892   0% /run/user/1000
+
+Timestamp: 1552794178916 || Data: Sun Mar 17 04:42:58 CET 2019
+Filesystem                               1K-blocks     Used Available Use% Mounted on
+udev                                     197935644        0 197935644   0% /dev
+tmpfs                                     39592892    26284  39566608   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088  1681632  11587156  13% /
+tmpfs                                    197964448    54624 197909824   1% /dev/shm
+tmpfs                                         5120        0      5120   0% /run/lock
+tmpfs                                    197964448        0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036    72829    374836  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912    20092   7923552   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880   469740  66886416   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912    21636   7922008   1% /home
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   910744  66445412   2% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log          71175880    60052  67296104   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644    22044   8703300   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912    20880   7922764   1% /var/log/audit
+cgmfs                                          100        0       100   0% /run/cgmanager/fs
+/dev/drbd0                               226251284 20970816 193764508  10% /opt/ericsson/virtualmachines
+tmpfs                                     39592892        0  39592892   0% /run/user/1000
+
+Timestamp: 1552794778921 || Data: Sun Mar 17 04:52:58 CET 2019
+Filesystem                               1K-blocks     Used Available Use% Mounted on
+udev                                     197935644        0 197935644   0% /dev
+tmpfs                                     39592892    26284  39566608   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088  1681632  11587156  13% /
+tmpfs                                    197964448    54624 197909824   1% /dev/shm
+tmpfs                                         5120        0      5120   0% /run/lock
+tmpfs                                    197964448        0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036    72829    374836  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912    20092   7923552   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880   469740  66886416   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912    21636   7922008   1% /home
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   910744  66445412   2% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log          71175880    60056  67296100   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644    22044   8703300   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912    20880   7922764   1% /var/log/audit
+cgmfs                                          100        0       100   0% /run/cgmanager/fs
+/dev/drbd0                               226251284 20976752 193758572  10% /opt/ericsson/virtualmachines
+tmpfs                                     39592892        0  39592892   0% /run/user/1000
+
+Timestamp: 1552795378926 || Data: Sun Mar 17 05:02:58 CET 2019
+Filesystem                               1K-blocks     Used Available Use% Mounted on
+udev                                     197935644        0 197935644   0% /dev
+tmpfs                                     39592892    26284  39566608   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088  1681632  11587156  13% /
+tmpfs                                    197964448    54624 197909824   1% /dev/shm
+tmpfs                                         5120        0      5120   0% /run/lock
+tmpfs                                    197964448        0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036    72829    374836  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912    20092   7923552   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880   469740  66886416   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912    21636   7922008   1% /home
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   910744  66445412   2% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log          71175880    60056  67296100   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644    22044   8703300   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912    20880   7922764   1% /var/log/audit
+cgmfs                                          100        0       100   0% /run/cgmanager/fs
+/dev/drbd0                               226251284 20982376 193752948  10% /opt/ericsson/virtualmachines
+tmpfs                                     39592892        0  39592892   0% /run/user/1000
+
+Timestamp: 1552798378953 || Data: Sun Mar 17 05:52:58 CET 2019
+Filesystem                               1K-blocks     Used Available Use% Mounted on
+udev                                     197935644        0 197935644   0% /dev
+tmpfs                                     39592892    26284  39566608   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088  1681632  11587156  13% /
+tmpfs                                    197964448    54624 197909824   1% /dev/shm
+tmpfs                                         5120        0      5120   0% /run/lock
+tmpfs                                    197964448        0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036    72829    374836  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912    20092   7923552   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880   469740  66886416   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912    21636   7922008   1% /home
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   910744  66445412   2% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log          71175880    60084  67296072   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644    22044   8703300   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912    20888   7922756   1% /var/log/audit
+cgmfs                                          100        0       100   0% /run/cgmanager/fs
+/dev/drbd0                               226251284 21015196 193720128  10% /opt/ericsson/virtualmachines
+tmpfs                                     39592892        0  39592892   0% /run/user/1000
+
+Timestamp: 1552798978958 || Data: Sun Mar 17 06:02:58 CET 2019
+Filesystem                               1K-blocks     Used Available Use% Mounted on
+udev                                     197935644        0 197935644   0% /dev
+tmpfs                                     39592892    26284  39566608   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088  1681632  11587156  13% /
+tmpfs                                    197964448    54624 197909824   1% /dev/shm
+tmpfs                                         5120        0      5120   0% /run/lock
+tmpfs                                    197964448        0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036    72829    374836  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912    20092   7923552   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880   469740  66886416   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912    21636   7922008   1% /home
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   910744  66445412   2% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log          71175880    60084  67296072   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644    22044   8703300   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912    20888   7922756   1% /var/log/audit
+cgmfs                                          100        0       100   0% /run/cgmanager/fs
+/dev/drbd0                               226251284 21019988 193715336  10% /opt/ericsson/virtualmachines
+tmpfs                                     39592892        0  39592892   0% /run/user/1000
+
+Timestamp: 1552799578964 || Data: Sun Mar 17 06:12:58 CET 2019
+Filesystem                               1K-blocks     Used Available Use% Mounted on
+udev                                     197935644        0 197935644   0% /dev
+tmpfs                                     39592892    26284  39566608   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088  1681632  11587156  13% /
+tmpfs                                    197964448    54624 197909824   1% /dev/shm
+tmpfs                                         5120        0      5120   0% /run/lock
+tmpfs                                    197964448        0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036    72829    374836  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912    20092   7923552   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880   469740  66886416   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912    21636   7922008   1% /home
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   910744  66445412   2% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log          71175880    60092  67296064   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644    22044   8703300   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912    20888   7922756   1% /var/log/audit
+cgmfs                                          100        0       100   0% /run/cgmanager/fs
+/dev/drbd0                               226251284 21024860 193710464  10% /opt/ericsson/virtualmachines
+tmpfs                                     39592892        0  39592892   0% /run/user/1000
+
+Timestamp: 1552802578991 || Data: Sun Mar 17 07:02:58 CET 2019
+Filesystem                               1K-blocks     Used Available Use% Mounted on
+udev                                     197935644        0 197935644   0% /dev
+tmpfs                                     39592892    26284  39566608   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088  1680956  11587832  13% /
+tmpfs                                    197964448    54624 197909824   1% /dev/shm
+tmpfs                                         5120        0      5120   0% /run/lock
+tmpfs                                    197964448        0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036    72829    374836  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912    20092   7923552   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880   470144  66886012   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912    21636   7922008   1% /home
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   910744  66445412   2% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log          71175880    60136  67296020   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644    22044   8703300   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912    20900   7922744   1% /var/log/audit
+cgmfs                                          100        0       100   0% /run/cgmanager/fs
+/dev/drbd0                               226251284 21052980 193682344  10% /opt/ericsson/virtualmachines
+tmpfs                                     39592892        0  39592892   0% /run/user/1000
+
+Timestamp: 1552803178996 || Data: Sun Mar 17 07:12:58 CET 2019
+Filesystem                               1K-blocks     Used Available Use% Mounted on
+udev                                     197935644        0 197935644   0% /dev
+tmpfs                                     39592892    26284  39566608   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088  1680956  11587832  13% /
+tmpfs                                    197964448    54624 197909824   1% /dev/shm
+tmpfs                                         5120        0      5120   0% /run/lock
+tmpfs                                    197964448        0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036    72829    374836  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912    20092   7923552   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880   470144  66886012   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912    21636   7922008   1% /home
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   910744  66445412   2% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log          71175880    60144  67296012   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644    22044   8703300   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912    20900   7922744   1% /var/log/audit
+cgmfs                                          100        0       100   0% /run/cgmanager/fs
+/dev/drbd0                               226251284 21056992 193678332  10% /opt/ericsson/virtualmachines
+tmpfs                                     39592892        0  39592892   0% /run/user/1000
+
+Timestamp: 1552803779002 || Data: Sun Mar 17 07:22:58 CET 2019
+Filesystem                               1K-blocks     Used Available Use% Mounted on
+udev                                     197935644        0 197935644   0% /dev
+tmpfs                                     39592892    26284  39566608   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088  1680956  11587832  13% /
+tmpfs                                    197964448    54624 197909824   1% /dev/shm
+tmpfs                                         5120        0      5120   0% /run/lock
+tmpfs                                    197964448        0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036    72829    374836  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912    20092   7923552   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880   470144  66886012   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912    21636   7922008   1% /home
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   910744  66445412   2% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log          71175880    60152  67296004   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644    22044   8703300   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912    20900   7922744   1% /var/log/audit
+cgmfs                                          100        0       100   0% /run/cgmanager/fs
+/dev/drbd0                               226251284 21060460 193674864  10% /opt/ericsson/virtualmachines
+tmpfs                                     39592892        0  39592892   0% /run/user/1000
+
+Timestamp: 1552807379033 || Data: Sun Mar 17 08:22:59 CET 2019
+Filesystem                               1K-blocks     Used Available Use% Mounted on
+udev                                     197935644        0 197935644   0% /dev
+tmpfs                                     39592892    26284  39566608   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088  1680956  11587832  13% /
+tmpfs                                    197964448    54624 197909824   1% /dev/shm
+tmpfs                                         5120        0      5120   0% /run/lock
+tmpfs                                    197964448        0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036    72829    374836  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912    20092   7923552   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880   470144  66886012   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912    21636   7922008   1% /home
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   910744  66445412   2% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log          71175880    60180  67295976   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644    22044   8703300   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912    20908   7922736   1% /var/log/audit
+cgmfs                                          100        0       100   0% /run/cgmanager/fs
+/dev/drbd0                               226251284 21088236 193647088  10% /opt/ericsson/virtualmachines
+tmpfs                                     39592892        0  39592892   0% /run/user/1000
+
+Timestamp: 1552807979039 || Data: Sun Mar 17 08:32:59 CET 2019
+Filesystem                               1K-blocks     Used Available Use% Mounted on
+udev                                     197935644        0 197935644   0% /dev
+tmpfs                                     39592892    26284  39566608   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088  1680956  11587832  13% /
+tmpfs                                    197964448    54624 197909824   1% /dev/shm
+tmpfs                                         5120        0      5120   0% /run/lock
+tmpfs                                    197964448        0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036    72829    374836  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912    20092   7923552   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880   470144  66886012   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912    21636   7922008   1% /home
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   910744  66445412   2% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log          71175880    60180  67295976   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644    22044   8703300   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912    20908   7922736   1% /var/log/audit
+cgmfs                                          100        0       100   0% /run/cgmanager/fs
+/dev/drbd0                               226251284 21092176 193643148  10% /opt/ericsson/virtualmachines
+tmpfs                                     39592892        0  39592892   0% /run/user/1000
+
+Timestamp: 1552808579044 || Data: Sun Mar 17 08:42:59 CET 2019
+Filesystem                               1K-blocks     Used Available Use% Mounted on
+udev                                     197935644        0 197935644   0% /dev
+tmpfs                                     39592892    26284  39566608   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088  1680956  11587832  13% /
+tmpfs                                    197964448    54624 197909824   1% /dev/shm
+tmpfs                                         5120        0      5120   0% /run/lock
+tmpfs                                    197964448        0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036    72829    374836  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912    20092   7923552   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880   470144  66886012   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912    21636   7922008   1% /home
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   910744  66445412   2% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log          71175880    60188  67295968   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644    22044   8703300   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912    20912   7922732   1% /var/log/audit
+cgmfs                                          100        0       100   0% /run/cgmanager/fs
+/dev/drbd0                               226251284 21096944 193638380  10% /opt/ericsson/virtualmachines
+tmpfs                                     39592892        0  39592892   0% /run/user/1000
+
+Timestamp: 1552809179050 || Data: Sun Mar 17 08:52:59 CET 2019
+Filesystem                               1K-blocks     Used Available Use% Mounted on
+udev                                     197935644        0 197935644   0% /dev
+tmpfs                                     39592892    26284  39566608   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088  1680956  11587832  13% /
+tmpfs                                    197964448    54624 197909824   1% /dev/shm
+tmpfs                                         5120        0      5120   0% /run/lock
+tmpfs                                    197964448        0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036    72829    374836  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912    20092   7923552   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880   470144  66886012   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912    21636   7922008   1% /home
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   910744  66445412   2% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log          71175880    60192  67295964   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644    22044   8703300   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912    20912   7922732   1% /var/log/audit
+cgmfs                                          100        0       100   0% /run/cgmanager/fs
+/dev/drbd0                               226251284 21101936 193633388  10% /opt/ericsson/virtualmachines
+tmpfs                                     39592892        0  39592892   0% /run/user/1000
+
+Timestamp: 1552813379087 || Data: Sun Mar 17 10:02:59 CET 2019
+Filesystem                               1K-blocks     Used Available Use% Mounted on
+udev                                     197935644        0 197935644   0% /dev
+tmpfs                                     39592892    26284  39566608   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088  1680956  11587832  13% /
+tmpfs                                    197964448    54624 197909824   1% /dev/shm
+tmpfs                                         5120        0      5120   0% /run/lock
+tmpfs                                    197964448        0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036    72829    374836  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912    20092   7923552   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880   470144  66886012   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912    21636   7922008   1% /home
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   910744  66445412   2% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log          71175880    60224  67295932   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644    22044   8703300   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912    20920   7922724   1% /var/log/audit
+cgmfs                                          100        0       100   0% /run/cgmanager/fs
+/dev/drbd0                               226251284 21149640 193585684  10% /opt/ericsson/virtualmachines
+tmpfs                                     39592892        0  39592892   0% /run/user/1000
+
+Timestamp: 1552813979092 || Data: Sun Mar 17 10:12:59 CET 2019
+Filesystem                               1K-blocks     Used Available Use% Mounted on
+udev                                     197935644        0 197935644   0% /dev
+tmpfs                                     39592892    26284  39566608   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088  1680956  11587832  13% /
+tmpfs                                    197964448    54624 197909824   1% /dev/shm
+tmpfs                                         5120        0      5120   0% /run/lock
+tmpfs                                    197964448        0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036    72829    374836  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912    20092   7923552   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880   470144  66886012   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912    21636   7922008   1% /home
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   910744  66445412   2% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log          71175880    60240  67295916   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644    22044   8703300   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912    20940   7922704   1% /var/log/audit
+cgmfs                                          100        0       100   0% /run/cgmanager/fs
+/dev/drbd0                               226251284 21164140 193571184  10% /opt/ericsson/virtualmachines
+tmpfs                                     39592892        0  39592892   0% /run/user/1000
+
+Timestamp: 1552814579097 || Data: Sun Mar 17 10:22:59 CET 2019
+Filesystem                               1K-blocks     Used Available Use% Mounted on
+udev                                     197935644        0 197935644   0% /dev
+tmpfs                                     39592892    26284  39566608   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088  1680956  11587832  13% /
+tmpfs                                    197964448    54624 197909824   1% /dev/shm
+tmpfs                                         5120        0      5120   0% /run/lock
+tmpfs                                    197964448        0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036    72829    374836  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912    20092   7923552   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880   470144  66886012   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912    21636   7922008   1% /home
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   910744  66445412   2% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log          71175880    60248  67295908   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644    22044   8703300   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912    20944   7922700   1% /var/log/audit
+cgmfs                                          100        0       100   0% /run/cgmanager/fs
+/dev/drbd0                               226251284 21190324 193545000  10% /opt/ericsson/virtualmachines
+tmpfs                                     39592892        0  39592892   0% /run/user/1000
+
+Timestamp: 1552819379135 || Data: Sun Mar 17 11:42:59 CET 2019
+Filesystem                               1K-blocks     Used Available Use% Mounted on
+udev                                     197935644        0 197935644   0% /dev
+tmpfs                                     39592892    26284  39566608   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088  1680956  11587832  13% /
+tmpfs                                    197964448    54624 197909824   1% /dev/shm
+tmpfs                                         5120        0      5120   0% /run/lock
+tmpfs                                    197964448        0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036    72829    374836  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912    20092   7923552   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880   470144  66886012   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912    21636   7922008   1% /home
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   910744  66445412   2% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log          71175880    60284  67295872   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644    22044   8703300   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912    20952   7922692   1% /var/log/audit
+cgmfs                                          100        0       100   0% /run/cgmanager/fs
+/dev/drbd0                               226251284 21290692 193444632  10% /opt/ericsson/virtualmachines
+tmpfs                                     39592892        0  39592892   0% /run/user/1000
+
+Timestamp: 1552819979140 || Data: Sun Mar 17 11:52:59 CET 2019
+Filesystem                               1K-blocks     Used Available Use% Mounted on
+udev                                     197935644        0 197935644   0% /dev
+tmpfs                                     39592892    26284  39566608   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088  1680956  11587832  13% /
+tmpfs                                    197964448    54624 197909824   1% /dev/shm
+tmpfs                                         5120        0      5120   0% /run/lock
+tmpfs                                    197964448        0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036    72829    374836  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912    20092   7923552   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880   470144  66886012   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912    21636   7922008   1% /home
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   910744  66445412   2% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log          71175880    60296  67295860   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644    22044   8703300   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912    20952   7922692   1% /var/log/audit
+cgmfs                                          100        0       100   0% /run/cgmanager/fs
+/dev/drbd0                               226251284 21303992 193431332  10% /opt/ericsson/virtualmachines
+tmpfs                                     39592892        0  39592892   0% /run/user/1000
+
+Timestamp: 1552820579146 || Data: Sun Mar 17 12:02:59 CET 2019
+Filesystem                               1K-blocks     Used Available Use% Mounted on
+udev                                     197935644        0 197935644   0% /dev
+tmpfs                                     39592892    26284  39566608   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088  1680956  11587832  13% /
+tmpfs                                    197964448    54624 197909824   1% /dev/shm
+tmpfs                                         5120        0      5120   0% /run/lock
+tmpfs                                    197964448        0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036    72829    374836  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912    20092   7923552   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880   470144  66886012   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912    21636   7922008   1% /home
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   910744  66445412   2% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log          71175880    60296  67295860   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644    22044   8703300   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912    20952   7922692   1% /var/log/audit
+cgmfs                                          100        0       100   0% /run/cgmanager/fs
+/dev/drbd0                               226251284 21317844 193417480  10% /opt/ericsson/virtualmachines
+tmpfs                                     39592892        0  39592892   0% /run/user/1000
+
+Timestamp: 1552821179151 || Data: Sun Mar 17 12:12:59 CET 2019
+Filesystem                               1K-blocks     Used Available Use% Mounted on
+udev                                     197935644        0 197935644   0% /dev
+tmpfs                                     39592892    26284  39566608   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088  1680956  11587832  13% /
+tmpfs                                    197964448    54624 197909824   1% /dev/shm
+tmpfs                                         5120        0      5120   0% /run/lock
+tmpfs                                    197964448        0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036    72829    374836  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912    20092   7923552   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880   470144  66886012   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912    21636   7922008   1% /home
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   910744  66445412   2% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log          71175880    60300  67295856   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644    22044   8703300   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912    20956   7922688   1% /var/log/audit
+cgmfs                                          100        0       100   0% /run/cgmanager/fs
+/dev/drbd0                               226251284 21331816 193403508  10% /opt/ericsson/virtualmachines
+tmpfs                                     39592892        0  39592892   0% /run/user/1000
+
+Timestamp: 1552826579205 || Data: Sun Mar 17 13:42:59 CET 2019
+Filesystem                               1K-blocks     Used Available Use% Mounted on
+udev                                     197935644        0 197935644   0% /dev
+tmpfs                                     39592892    26284  39566608   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088  1680956  11587832  13% /
+tmpfs                                    197964448    54624 197909824   1% /dev/shm
+tmpfs                                         5120        0      5120   0% /run/lock
+tmpfs                                    197964448        0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036    72829    374836  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912    20092   7923552   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880   470144  66886012   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912    21636   7922008   1% /home
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   910744  66445412   2% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log          71175880    60344  67295812   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644    22044   8703300   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912    20964   7922680   1% /var/log/audit
+cgmfs                                          100        0       100   0% /run/cgmanager/fs
+/dev/drbd0                               226251284 21464088 193271236  10% /opt/ericsson/virtualmachines
+tmpfs                                     39592892        0  39592892   0% /run/user/1000
+
+Timestamp: 1552827179210 || Data: Sun Mar 17 13:52:59 CET 2019
+Filesystem                               1K-blocks     Used Available Use% Mounted on
+udev                                     197935644        0 197935644   0% /dev
+tmpfs                                     39592892    26284  39566608   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088  1680956  11587832  13% /
+tmpfs                                    197964448    54624 197909824   1% /dev/shm
+tmpfs                                         5120        0      5120   0% /run/lock
+tmpfs                                    197964448        0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036    72829    374836  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912    20092   7923552   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880   470144  66886012   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912    21636   7922008   1% /home
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   910744  66445412   2% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log          71175880    60352  67295804   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644    22044   8703300   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912    20968   7922676   1% /var/log/audit
+cgmfs                                          100        0       100   0% /run/cgmanager/fs
+/dev/drbd0                               226251284 21479592 193255732  11% /opt/ericsson/virtualmachines
+tmpfs                                     39592892        0  39592892   0% /run/user/1000
+
+Timestamp: 1552827779215 || Data: Sun Mar 17 14:02:59 CET 2019
+Filesystem                               1K-blocks     Used Available Use% Mounted on
+udev                                     197935644        0 197935644   0% /dev
+tmpfs                                     39592892    26284  39566608   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088  1680956  11587832  13% /
+tmpfs                                    197964448    54624 197909824   1% /dev/shm
+tmpfs                                         5120        0      5120   0% /run/lock
+tmpfs                                    197964448        0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036    72829    374836  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912    20092   7923552   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880   470144  66886012   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912    21636   7922008   1% /home
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   910744  66445412   2% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log          71175880    60352  67295804   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644    22044   8703300   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912    20968   7922676   1% /var/log/audit
+cgmfs                                          100        0       100   0% /run/cgmanager/fs
+/dev/drbd0                               226251284 21490672 193244652  11% /opt/ericsson/virtualmachines
+tmpfs                                     39592892        0  39592892   0% /run/user/1000
+
+Timestamp: 1552833779268 || Data: Sun Mar 17 15:42:59 CET 2019
+Filesystem                               1K-blocks     Used Available Use% Mounted on
+udev                                     197935644        0 197935644   0% /dev
+tmpfs                                     39592892    26284  39566608   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088  1680956  11587832  13% /
+tmpfs                                    197964448    54624 197909824   1% /dev/shm
+tmpfs                                         5120        0      5120   0% /run/lock
+tmpfs                                    197964448        0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036    72829    374836  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912    20092   7923552   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880   470144  66886012   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912    21636   7922008   1% /home
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   910744  66445412   2% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log          71175880    60404  67295752   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644    22044   8703300   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912    20980   7922664   1% /var/log/audit
+cgmfs                                          100        0       100   0% /run/cgmanager/fs
+/dev/drbd0                               226251284 21623124 193112200  11% /opt/ericsson/virtualmachines
+tmpfs                                     39592892        0  39592892   0% /run/user/1000
+
+Timestamp: 1552834379273 || Data: Sun Mar 17 15:52:59 CET 2019
+Filesystem                               1K-blocks     Used Available Use% Mounted on
+udev                                     197935644        0 197935644   0% /dev
+tmpfs                                     39592892    26284  39566608   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088  1680956  11587832  13% /
+tmpfs                                    197964448    54624 197909824   1% /dev/shm
+tmpfs                                         5120        0      5120   0% /run/lock
+tmpfs                                    197964448        0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036    72829    374836  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912    20092   7923552   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880   470144  66886012   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912    21636   7922008   1% /home
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   910744  66445412   2% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log          71175880    60408  67295748   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644    22044   8703300   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912    20980   7922664   1% /var/log/audit
+cgmfs                                          100        0       100   0% /run/cgmanager/fs
+/dev/drbd0                               226251284 21636380 193098944  11% /opt/ericsson/virtualmachines
+tmpfs                                     39592892        0  39592892   0% /run/user/1000
+
+Timestamp: 1552834979277 || Data: Sun Mar 17 16:02:59 CET 2019
+Filesystem                               1K-blocks     Used Available Use% Mounted on
+udev                                     197935644        0 197935644   0% /dev
+tmpfs                                     39592892    26284  39566608   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088  1680956  11587832  13% /
+tmpfs                                    197964448    54624 197909824   1% /dev/shm
+tmpfs                                         5120        0      5120   0% /run/lock
+tmpfs                                    197964448        0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036    72829    374836  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912    20092   7923552   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880   470144  66886012   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912    21636   7922008   1% /home
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   910744  66445412   2% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log          71175880    60408  67295748   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644    22044   8703300   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912    20984   7922660   1% /var/log/audit
+cgmfs                                          100        0       100   0% /run/cgmanager/fs
+/dev/drbd0                               226251284 21647388 193087936  11% /opt/ericsson/virtualmachines
+tmpfs                                     39592892        0  39592892   0% /run/user/1000
+
+Timestamp: 1552835579283 || Data: Sun Mar 17 16:12:59 CET 2019
+Filesystem                               1K-blocks     Used Available Use% Mounted on
+udev                                     197935644        0 197935644   0% /dev
+tmpfs                                     39592892    26284  39566608   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088  1680956  11587832  13% /
+tmpfs                                    197964448    54624 197909824   1% /dev/shm
+tmpfs                                         5120        0      5120   0% /run/lock
+tmpfs                                    197964448        0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036    72829    374836  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912    20092   7923552   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880   470144  66886012   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912    21636   7922008   1% /home
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   910744  66445412   2% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log          71175880    60416  67295740   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644    22044   8703300   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912    20984   7922660   1% /var/log/audit
+cgmfs                                          100        0       100   0% /run/cgmanager/fs
+/dev/drbd0                               226251284 21663784 193071540  11% /opt/ericsson/virtualmachines
+tmpfs                                     39592892        0  39592892   0% /run/user/1000
+
+Timestamp: 1552836179288 || Data: Sun Mar 17 16:22:59 CET 2019
+Filesystem                               1K-blocks     Used Available Use% Mounted on
+udev                                     197935644        0 197935644   0% /dev
+tmpfs                                     39592892    26284  39566608   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088  1680956  11587832  13% /
+tmpfs                                    197964448    54624 197909824   1% /dev/shm
+tmpfs                                         5120        0      5120   0% /run/lock
+tmpfs                                    197964448        0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036    72829    374836  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912    20092   7923552   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880   470144  66886012   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912    21636   7922008   1% /home
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   910744  66445412   2% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log          71175880    60420  67295736   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644    22044   8703300   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912    20984   7922660   1% /var/log/audit
+cgmfs                                          100        0       100   0% /run/cgmanager/fs
+/dev/drbd0                               226251284 21683460 193051864  11% /opt/ericsson/virtualmachines
+tmpfs                                     39592892        0  39592892   0% /run/user/1000
+
+Timestamp: 1552836779293 || Data: Sun Mar 17 16:32:59 CET 2019
+Filesystem                               1K-blocks     Used Available Use% Mounted on
+udev                                     197935644        0 197935644   0% /dev
+tmpfs                                     39592892    26284  39566608   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088  1680956  11587832  13% /
+tmpfs                                    197964448    54624 197909824   1% /dev/shm
+tmpfs                                         5120        0      5120   0% /run/lock
+tmpfs                                    197964448        0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036    72829    374836  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912    20092   7923552   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880   470144  66886012   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912    21636   7922008   1% /home
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   910744  66445412   2% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log          71175880    60424  67295732   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644    22044   8703300   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912    20988   7922656   1% /var/log/audit
+cgmfs                                          100        0       100   0% /run/cgmanager/fs
+/dev/drbd0                               226251284 21692924 193042400  11% /opt/ericsson/virtualmachines
+tmpfs                                     39592892        0  39592892   0% /run/user/1000
+
+Timestamp: 1552837379299 || Data: Sun Mar 17 16:42:59 CET 2019
+Filesystem                               1K-blocks     Used Available Use% Mounted on
+udev                                     197935644        0 197935644   0% /dev
+tmpfs                                     39592892    26284  39566608   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088  1680956  11587832  13% /
+tmpfs                                    197964448    54624 197909824   1% /dev/shm
+tmpfs                                         5120        0      5120   0% /run/lock
+tmpfs                                    197964448        0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036    72829    374836  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912    20092   7923552   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880   470144  66886012   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912    21636   7922008   1% /home
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   910744  66445412   2% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log          71175880    60432  67295724   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644    22044   8703300   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912    20988   7922656   1% /var/log/audit
+cgmfs                                          100        0       100   0% /run/cgmanager/fs
+/dev/drbd0                               226251284 21702400 193032924  11% /opt/ericsson/virtualmachines
+tmpfs                                     39592892        0  39592892   0% /run/user/1000
+
+Timestamp: 1552837979304 || Data: Sun Mar 17 16:52:59 CET 2019
+Filesystem                               1K-blocks     Used Available Use% Mounted on
+udev                                     197935644        0 197935644   0% /dev
+tmpfs                                     39592892    26284  39566608   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088  1680956  11587832  13% /
+tmpfs                                    197964448    54624 197909824   1% /dev/shm
+tmpfs                                         5120        0      5120   0% /run/lock
+tmpfs                                    197964448        0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036    72829    374836  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912    20092   7923552   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880   470144  66886012   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912    21636   7922008   1% /home
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   910744  66445412   2% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log          71175880    60440  67295716   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644    22044   8703300   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912    20988   7922656   1% /var/log/audit
+cgmfs                                          100        0       100   0% /run/cgmanager/fs
+/dev/drbd0                               226251284 21707804 193027520  11% /opt/ericsson/virtualmachines
+tmpfs                                     39592892        0  39592892   0% /run/user/1000
+
+Timestamp: 1552838579309 || Data: Sun Mar 17 17:02:59 CET 2019
+Filesystem                               1K-blocks     Used Available Use% Mounted on
+udev                                     197935644        0 197935644   0% /dev
+tmpfs                                     39592892    26284  39566608   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088  1680956  11587832  13% /
+tmpfs                                    197964448    54624 197909824   1% /dev/shm
+tmpfs                                         5120        0      5120   0% /run/lock
+tmpfs                                    197964448        0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036    72829    374836  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912    20092   7923552   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880   470144  66886012   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912    21636   7922008   1% /home
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   910744  66445412   2% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log          71175880    60440  67295716   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644    22044   8703300   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912    20988   7922656   1% /var/log/audit
+cgmfs                                          100        0       100   0% /run/cgmanager/fs
+/dev/drbd0                               226251284 21713496 193021828  11% /opt/ericsson/virtualmachines
+tmpfs                                     39592892        0  39592892   0% /run/user/1000
+
+Timestamp: 1552839179314 || Data: Sun Mar 17 17:12:59 CET 2019
+Filesystem                               1K-blocks     Used Available Use% Mounted on
+udev                                     197935644        0 197935644   0% /dev
+tmpfs                                     39592892    26284  39566608   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088  1680956  11587832  13% /
+tmpfs                                    197964448    54624 197909824   1% /dev/shm
+tmpfs                                         5120        0      5120   0% /run/lock
+tmpfs                                    197964448        0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036    72829    374836  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912    20092   7923552   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880   470144  66886012   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912    21636   7922008   1% /home
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   910744  66445412   2% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log          71175880    60444  67295712   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644    22044   8703300   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912    20992   7922652   1% /var/log/audit
+cgmfs                                          100        0       100   0% /run/cgmanager/fs
+/dev/drbd0                               226251284 21718616 193016708  11% /opt/ericsson/virtualmachines
+tmpfs                                     39592892        0  39592892   0% /run/user/1000
+
+Timestamp: 1552839779319 || Data: Sun Mar 17 17:22:59 CET 2019
+Filesystem                               1K-blocks     Used Available Use% Mounted on
+udev                                     197935644        0 197935644   0% /dev
+tmpfs                                     39592892    26284  39566608   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088  1680956  11587832  13% /
+tmpfs                                    197964448    54624 197909824   1% /dev/shm
+tmpfs                                         5120        0      5120   0% /run/lock
+tmpfs                                    197964448        0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036    72829    374836  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912    20092   7923552   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880   470144  66886012   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912    21636   7922008   1% /home
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   910744  66445412   2% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log          71175880    60452  67295704   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644    22044   8703300   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912    20992   7922652   1% /var/log/audit
+cgmfs                                          100        0       100   0% /run/cgmanager/fs
+/dev/drbd0                               226251284 21727880 193007444  11% /opt/ericsson/virtualmachines
+tmpfs                                     39592892        0  39592892   0% /run/user/1000
+
+Timestamp: 1552840379324 || Data: Sun Mar 17 17:32:59 CET 2019
+Filesystem                               1K-blocks     Used Available Use% Mounted on
+udev                                     197935644        0 197935644   0% /dev
+tmpfs                                     39592892    26284  39566608   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088  1680956  11587832  13% /
+tmpfs                                    197964448    54624 197909824   1% /dev/shm
+tmpfs                                         5120        0      5120   0% /run/lock
+tmpfs                                    197964448        0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036    72829    374836  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912    20092   7923552   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880   470144  66886012   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912    21636   7922008   1% /home
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   910744  66445412   2% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log          71175880    60452  67295704   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644    22044   8703300   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912    20992   7922652   1% /var/log/audit
+cgmfs                                          100        0       100   0% /run/cgmanager/fs
+/dev/drbd0                               226251284 21733860 193001464  11% /opt/ericsson/virtualmachines
+tmpfs                                     39592892        0  39592892   0% /run/user/1000
+
+Timestamp: 1552840979330 || Data: Sun Mar 17 17:42:59 CET 2019
+Filesystem                               1K-blocks     Used Available Use% Mounted on
+udev                                     197935644        0 197935644   0% /dev
+tmpfs                                     39592892    26284  39566608   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088  1680956  11587832  13% /
+tmpfs                                    197964448    54624 197909824   1% /dev/shm
+tmpfs                                         5120        0      5120   0% /run/lock
+tmpfs                                    197964448        0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036    72829    374836  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912    20092   7923552   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880   470144  66886012   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912    21636   7922008   1% /home
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   910744  66445412   2% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log          71175880    60460  67295696   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644    22044   8703300   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912    20996   7922648   1% /var/log/audit
+cgmfs                                          100        0       100   0% /run/cgmanager/fs
+/dev/drbd0                               226251284 21738852 192996472  11% /opt/ericsson/virtualmachines
+tmpfs                                     39592892        0  39592892   0% /run/user/1000
+
+Timestamp: 1552841579335 || Data: Sun Mar 17 17:52:59 CET 2019
+Filesystem                               1K-blocks     Used Available Use% Mounted on
+udev                                     197935644        0 197935644   0% /dev
+tmpfs                                     39592892    26284  39566608   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088  1680956  11587832  13% /
+tmpfs                                    197964448    54624 197909824   1% /dev/shm
+tmpfs                                         5120        0      5120   0% /run/lock
+tmpfs                                    197964448        0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036    72829    374836  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912    20092   7923552   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880   470144  66886012   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912    21636   7922008   1% /home
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   910744  66445412   2% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log          71175880    60468  67295688   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644    22044   8703300   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912    20996   7922648   1% /var/log/audit
+cgmfs                                          100        0       100   0% /run/cgmanager/fs
+/dev/drbd0                               226251284 21745148 192990176  11% /opt/ericsson/virtualmachines
+tmpfs                                     39592892        0  39592892   0% /run/user/1000
+
+Timestamp: 1552842179339 || Data: Sun Mar 17 18:02:59 CET 2019
+Filesystem                               1K-blocks     Used Available Use% Mounted on
+udev                                     197935644        0 197935644   0% /dev
+tmpfs                                     39592892    26284  39566608   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088  1680956  11587832  13% /
+tmpfs                                    197964448    54624 197909824   1% /dev/shm
+tmpfs                                         5120        0      5120   0% /run/lock
+tmpfs                                    197964448        0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036    72829    374836  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912    20092   7923552   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880   470144  66886012   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912    21636   7922008   1% /home
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   910744  66445412   2% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log          71175880    60468  67295688   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644    22044   8703300   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912    20996   7922648   1% /var/log/audit
+cgmfs                                          100        0       100   0% /run/cgmanager/fs
+/dev/drbd0                               226251284 21750404 192984920  11% /opt/ericsson/virtualmachines
+tmpfs                                     39592892        0  39592892   0% /run/user/1000
+
+Timestamp: 1552842779345 || Data: Sun Mar 17 18:12:59 CET 2019
+Filesystem                               1K-blocks     Used Available Use% Mounted on
+udev                                     197935644        0 197935644   0% /dev
+tmpfs                                     39592892    26284  39566608   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088  1680956  11587832  13% /
+tmpfs                                    197964448    54624 197909824   1% /dev/shm
+tmpfs                                         5120        0      5120   0% /run/lock
+tmpfs                                    197964448        0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036    72829    374836  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912    20092   7923552   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880   470144  66886012   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912    21636   7922008   1% /home
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   910744  66445412   2% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log          71175880    60472  67295684   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644    22044   8703300   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912    20996   7922648   1% /var/log/audit
+cgmfs                                          100        0       100   0% /run/cgmanager/fs
+/dev/drbd0                               226251284 21756032 192979292  11% /opt/ericsson/virtualmachines
+tmpfs                                     39592892        0  39592892   0% /run/user/1000
+
+Timestamp: 1552843379350 || Data: Sun Mar 17 18:22:59 CET 2019
+Filesystem                               1K-blocks     Used Available Use% Mounted on
+udev                                     197935644        0 197935644   0% /dev
+tmpfs                                     39592892    26284  39566608   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088  1680956  11587832  13% /
+tmpfs                                    197964448    54624 197909824   1% /dev/shm
+tmpfs                                         5120        0      5120   0% /run/lock
+tmpfs                                    197964448        0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036    72829    374836  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912    20092   7923552   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880   470144  66886012   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912    21636   7922008   1% /home
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   910744  66445412   2% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log          71175880    60484  67295672   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644    22044   8703300   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912    21000   7922644   1% /var/log/audit
+cgmfs                                          100        0       100   0% /run/cgmanager/fs
+/dev/drbd0                               226251284 21761928 192973396  11% /opt/ericsson/virtualmachines
+tmpfs                                     39592892        0  39592892   0% /run/user/1000
+
+Timestamp: 1552843979355 || Data: Sun Mar 17 18:32:59 CET 2019
+Filesystem                               1K-blocks     Used Available Use% Mounted on
+udev                                     197935644        0 197935644   0% /dev
+tmpfs                                     39592892    26284  39566608   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088  1680956  11587832  13% /
+tmpfs                                    197964448    54624 197909824   1% /dev/shm
+tmpfs                                         5120        0      5120   0% /run/lock
+tmpfs                                    197964448        0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036    72829    374836  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912    20092   7923552   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880   470144  66886012   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912    21636   7922008   1% /home
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   910744  66445412   2% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log          71175880    60484  67295672   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644    22044   8703300   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912    21000   7922644   1% /var/log/audit
+cgmfs                                          100        0       100   0% /run/cgmanager/fs
+/dev/drbd0                               226251284 21770580 192964744  11% /opt/ericsson/virtualmachines
+tmpfs                                     39592892        0  39592892   0% /run/user/1000
+
+Timestamp: 1552844579359 || Data: Sun Mar 17 18:42:59 CET 2019
+Filesystem                               1K-blocks     Used Available Use% Mounted on
+udev                                     197935644        0 197935644   0% /dev
+tmpfs                                     39592892    26284  39566608   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088  1680956  11587832  13% /
+tmpfs                                    197964448    54624 197909824   1% /dev/shm
+tmpfs                                         5120        0      5120   0% /run/lock
+tmpfs                                    197964448        0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036    72829    374836  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912    20092   7923552   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880   470144  66886012   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912    21636   7922008   1% /home
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   910744  66445412   2% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log          71175880    60488  67295668   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644    22044   8703300   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912    21004   7922640   1% /var/log/audit
+cgmfs                                          100        0       100   0% /run/cgmanager/fs
+/dev/drbd0                               226251284 21776436 192958888  11% /opt/ericsson/virtualmachines
+tmpfs                                     39592892        0  39592892   0% /run/user/1000
+
+Timestamp: 1552845179365 || Data: Sun Mar 17 18:52:59 CET 2019
+Filesystem                               1K-blocks     Used Available Use% Mounted on
+udev                                     197935644        0 197935644   0% /dev
+tmpfs                                     39592892    26284  39566608   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088  1680956  11587832  13% /
+tmpfs                                    197964448    54624 197909824   1% /dev/shm
+tmpfs                                         5120        0      5120   0% /run/lock
+tmpfs                                    197964448        0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036    72829    374836  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912    20092   7923552   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880   470144  66886012   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912    21636   7922008   1% /home
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   910744  66445412   2% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log          71175880    60492  67295664   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644    22044   8703300   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912    21004   7922640   1% /var/log/audit
+cgmfs                                          100        0       100   0% /run/cgmanager/fs
+/dev/drbd0                               226251284 21781880 192953444  11% /opt/ericsson/virtualmachines
+tmpfs                                     39592892        0  39592892   0% /run/user/1000
+
+Timestamp: 1552845779370 || Data: Sun Mar 17 19:02:59 CET 2019
+Filesystem                               1K-blocks     Used Available Use% Mounted on
+udev                                     197935644        0 197935644   0% /dev
+tmpfs                                     39592892    26284  39566608   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088  1680956  11587832  13% /
+tmpfs                                    197964448    54624 197909824   1% /dev/shm
+tmpfs                                         5120        0      5120   0% /run/lock
+tmpfs                                    197964448        0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036    72829    374836  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912    20092   7923552   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880   470144  66886012   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912    21636   7922008   1% /home
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   910744  66445412   2% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log          71175880    60492  67295664   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644    22044   8703300   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912    21004   7922640   1% /var/log/audit
+cgmfs                                          100        0       100   0% /run/cgmanager/fs
+/dev/drbd0                               226251284 21787024 192948300  11% /opt/ericsson/virtualmachines
+tmpfs                                     39592892        0  39592892   0% /run/user/1000
+
+Timestamp: 1552846379375 || Data: Sun Mar 17 19:12:59 CET 2019
+Filesystem                               1K-blocks     Used Available Use% Mounted on
+udev                                     197935644        0 197935644   0% /dev
+tmpfs                                     39592892    26284  39566608   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088  1680956  11587832  13% /
+tmpfs                                    197964448    54624 197909824   1% /dev/shm
+tmpfs                                         5120        0      5120   0% /run/lock
+tmpfs                                    197964448        0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036    72829    374836  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912    20092   7923552   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880   470144  66886012   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912    21636   7922008   1% /home
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   910744  66445412   2% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log          71175880    60504  67295652   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644    22044   8703300   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912    21004   7922640   1% /var/log/audit
+cgmfs                                          100        0       100   0% /run/cgmanager/fs
+/dev/drbd0                               226251284 21792216 192943108  11% /opt/ericsson/virtualmachines
+tmpfs                                     39592892        0  39592892   0% /run/user/1000
+
+Timestamp: 1552846979381 || Data: Sun Mar 17 19:22:59 CET 2019
+Filesystem                               1K-blocks     Used Available Use% Mounted on
+udev                                     197935644        0 197935644   0% /dev
+tmpfs                                     39592892    26284  39566608   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088  1680956  11587832  13% /
+tmpfs                                    197964448    54624 197909824   1% /dev/shm
+tmpfs                                         5120        0      5120   0% /run/lock
+tmpfs                                    197964448        0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036    72829    374836  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912    20092   7923552   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880   470144  66886012   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912    21636   7922008   1% /home
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   910744  66445412   2% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log          71175880    60512  67295644   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644    22044   8703300   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912    21008   7922636   1% /var/log/audit
+cgmfs                                          100        0       100   0% /run/cgmanager/fs
+/dev/drbd0                               226251284 21796860 192938464  11% /opt/ericsson/virtualmachines
+tmpfs                                     39592892        0  39592892   0% /run/user/1000
+
+Timestamp: 1552847579385 || Data: Sun Mar 17 19:32:59 CET 2019
+Filesystem                               1K-blocks     Used Available Use% Mounted on
+udev                                     197935644        0 197935644   0% /dev
+tmpfs                                     39592892    26284  39566608   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088  1680956  11587832  13% /
+tmpfs                                    197964448    54624 197909824   1% /dev/shm
+tmpfs                                         5120        0      5120   0% /run/lock
+tmpfs                                    197964448        0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036    72829    374836  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912    20092   7923552   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880   470144  66886012   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912    21636   7922008   1% /home
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   910744  66445412   2% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log          71175880    60512  67295644   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644    22044   8703300   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912    21008   7922636   1% /var/log/audit
+cgmfs                                          100        0       100   0% /run/cgmanager/fs
+/dev/drbd0                               226251284 21801836 192933488  11% /opt/ericsson/virtualmachines
+tmpfs                                     39592892        0  39592892   0% /run/user/1000
+
+Timestamp: 1552849979406 || Data: Sun Mar 17 20:12:59 CET 2019
+Filesystem                               1K-blocks     Used Available Use% Mounted on
+udev                                     197935644        0 197935644   0% /dev
+tmpfs                                     39592892    26284  39566608   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088  1680956  11587832  13% /
+tmpfs                                    197964448    54624 197909824   1% /dev/shm
+tmpfs                                         5120        0      5120   0% /run/lock
+tmpfs                                    197964448        0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036    72829    374836  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912    20092   7923552   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880   470144  66886012   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912    21636   7922008   1% /home
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   910744  66445412   2% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log          71175880    60536  67295620   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644    22044   8703300   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912    21012   7922632   1% /var/log/audit
+cgmfs                                          100        0       100   0% /run/cgmanager/fs
+/dev/drbd0                               226251284 21825440 192909884  11% /opt/ericsson/virtualmachines
+tmpfs                                     39592892        0  39592892   0% /run/user/1000
+
+Timestamp: 1552850579411 || Data: Sun Mar 17 20:22:59 CET 2019
+Filesystem                               1K-blocks     Used Available Use% Mounted on
+udev                                     197935644        0 197935644   0% /dev
+tmpfs                                     39592892    26284  39566608   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088  1680956  11587832  13% /
+tmpfs                                    197964448    54624 197909824   1% /dev/shm
+tmpfs                                         5120        0      5120   0% /run/lock
+tmpfs                                    197964448        0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036    72829    374836  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912    20092   7923552   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880   470144  66886012   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912    21636   7922008   1% /home
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   910744  66445412   2% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log          71175880    60540  67295616   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644    22044   8703300   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912    21016   7922628   1% /var/log/audit
+cgmfs                                          100        0       100   0% /run/cgmanager/fs
+/dev/drbd0                               226251284 21831688 192903636  11% /opt/ericsson/virtualmachines
+tmpfs                                     39592892        0  39592892   0% /run/user/1000
+
+Timestamp: 1552851179416 || Data: Sun Mar 17 20:32:59 CET 2019
+Filesystem                               1K-blocks     Used Available Use% Mounted on
+udev                                     197935644        0 197935644   0% /dev
+tmpfs                                     39592892    26284  39566608   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088  1680956  11587832  13% /
+tmpfs                                    197964448    54624 197909824   1% /dev/shm
+tmpfs                                         5120        0      5120   0% /run/lock
+tmpfs                                    197964448        0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036    72829    374836  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912    20092   7923552   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880   470144  66886012   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912    21636   7922008   1% /home
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   910744  66445412   2% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log          71175880    60540  67295616   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644    22044   8703300   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912    21016   7922628   1% /var/log/audit
+cgmfs                                          100        0       100   0% /run/cgmanager/fs
+/dev/drbd0                               226251284 21837380 192897944  11% /opt/ericsson/virtualmachines
+tmpfs                                     39592892        0  39592892   0% /run/user/1000
+
+Timestamp: 1552854179441 || Data: Sun Mar 17 21:22:59 CET 2019
+Filesystem                               1K-blocks     Used Available Use% Mounted on
+udev                                     197935644        0 197935644   0% /dev
+tmpfs                                     39592892    26284  39566608   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088  1680956  11587832  13% /
+tmpfs                                    197964448    54624 197909824   1% /dev/shm
+tmpfs                                         5120        0      5120   0% /run/lock
+tmpfs                                    197964448        0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036    72829    374836  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912    20092   7923552   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880   470152  66886004   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912    21636   7922008   1% /home
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   910744  66445412   2% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log          71175880    60568  67295588   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644    22044   8703300   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912    21024   7922620   1% /var/log/audit
+cgmfs                                          100        0       100   0% /run/cgmanager/fs
+/dev/drbd0                               226251284 21865024 192870300  11% /opt/ericsson/virtualmachines
+tmpfs                                     39592892        0  39592892   0% /run/user/1000
+
+Timestamp: 1552854779446 || Data: Sun Mar 17 21:32:59 CET 2019
+Filesystem                               1K-blocks     Used Available Use% Mounted on
+udev                                     197935644        0 197935644   0% /dev
+tmpfs                                     39592892    26284  39566608   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088  1680956  11587832  13% /
+tmpfs                                    197964448    54624 197909824   1% /dev/shm
+tmpfs                                         5120        0      5120   0% /run/lock
+tmpfs                                    197964448        0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036    72829    374836  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912    20092   7923552   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880   470152  66886004   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912    21636   7922008   1% /home
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   910744  66445412   2% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log          71175880    60568  67295588   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644    22044   8703300   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912    21024   7922620   1% /var/log/audit
+cgmfs                                          100        0       100   0% /run/cgmanager/fs
+/dev/drbd0                               226251284 21871492 192863832  11% /opt/ericsson/virtualmachines
+tmpfs                                     39592892        0  39592892   0% /run/user/1000
+
+Timestamp: 1552855379451 || Data: Sun Mar 17 21:42:59 CET 2019
+Filesystem                               1K-blocks     Used Available Use% Mounted on
+udev                                     197935644        0 197935644   0% /dev
+tmpfs                                     39592892    26284  39566608   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088  1680956  11587832  13% /
+tmpfs                                    197964448    54624 197909824   1% /dev/shm
+tmpfs                                         5120        0      5120   0% /run/lock
+tmpfs                                    197964448        0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036    72829    374836  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912    20092   7923552   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880   470152  66886004   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912    21636   7922008   1% /home
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   910744  66445412   2% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log          71175880    60576  67295580   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644    22044   8703300   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912    21024   7922620   1% /var/log/audit
+cgmfs                                          100        0       100   0% /run/cgmanager/fs
+/dev/drbd0                               226251284 21882072 192853252  11% /opt/ericsson/virtualmachines
+tmpfs                                     39592892        0  39592892   0% /run/user/1000
+
+Timestamp: 1552855979456 || Data: Sun Mar 17 21:52:59 CET 2019
+Filesystem                               1K-blocks     Used Available Use% Mounted on
+udev                                     197935644        0 197935644   0% /dev
+tmpfs                                     39592892    26284  39566608   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088  1680956  11587832  13% /
+tmpfs                                    197964448    54624 197909824   1% /dev/shm
+tmpfs                                         5120        0      5120   0% /run/lock
+tmpfs                                    197964448        0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036    72829    374836  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912    20092   7923552   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880   470152  66886004   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912    21636   7922008   1% /home
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   910744  66445412   2% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log          71175880    60584  67295572   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644    22044   8703300   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912    21024   7922620   1% /var/log/audit
+cgmfs                                          100        0       100   0% /run/cgmanager/fs
+/dev/drbd0                               226251284 21894768 192840556  11% /opt/ericsson/virtualmachines
+tmpfs                                     39592892        0  39592892   0% /run/user/1000
+
+Timestamp: 1552859579486 || Data: Sun Mar 17 22:52:59 CET 2019
+Filesystem                               1K-blocks     Used Available Use% Mounted on
+udev                                     197935644        0 197935644   0% /dev
+tmpfs                                     39592892    26284  39566608   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088  1680956  11587832  13% /
+tmpfs                                    197964448    54624 197909824   1% /dev/shm
+tmpfs                                         5120        0      5120   0% /run/lock
+tmpfs                                    197964448        0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036    72829    374836  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912    20092   7923552   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880   470152  66886004   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912    21636   7922008   1% /home
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   910744  66445412   2% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log          71175880    60624  67295532   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644    22044   8703300   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912    21048   7922596   1% /var/log/audit
+cgmfs                                          100        0       100   0% /run/cgmanager/fs
+/dev/drbd0                               226251284 21999804 192735520  11% /opt/ericsson/virtualmachines
+tmpfs                                     39592892        0  39592892   0% /run/user/1000
+
+Timestamp: 1552860179491 || Data: Sun Mar 17 23:02:59 CET 2019
+Filesystem                               1K-blocks     Used Available Use% Mounted on
+udev                                     197935644        0 197935644   0% /dev
+tmpfs                                     39592892    26284  39566608   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088  1680956  11587832  13% /
+tmpfs                                    197964448    54624 197909824   1% /dev/shm
+tmpfs                                         5120        0      5120   0% /run/lock
+tmpfs                                    197964448        0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036    72829    374836  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912    20092   7923552   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880   470152  66886004   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912    21636   7922008   1% /home
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   910744  66445412   2% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log          71175880    60624  67295532   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644    22044   8703300   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912    21052   7922592   1% /var/log/audit
+cgmfs                                          100        0       100   0% /run/cgmanager/fs
+/dev/drbd0                               226251284 22014864 192720460  11% /opt/ericsson/virtualmachines
+tmpfs                                     39592892        0  39592892   0% /run/user/1000
+
+Timestamp: 1552860779495 || Data: Sun Mar 17 23:12:59 CET 2019
+Filesystem                               1K-blocks     Used Available Use% Mounted on
+udev                                     197935644        0 197935644   0% /dev
+tmpfs                                     39592892    26284  39566608   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088  1680956  11587832  13% /
+tmpfs                                    197964448    54624 197909824   1% /dev/shm
+tmpfs                                         5120        0      5120   0% /run/lock
+tmpfs                                    197964448        0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036    72829    374836  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912    20092   7923552   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880   470152  66886004   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912    21636   7922008   1% /home
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   910744  66445412   2% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log          71175880    60632  67295524   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644    22044   8703300   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912    21052   7922592   1% /var/log/audit
+cgmfs                                          100        0       100   0% /run/cgmanager/fs
+/dev/drbd0                               226251284 22033004 192702320  11% /opt/ericsson/virtualmachines
+tmpfs                                     39592892        0  39592892   0% /run/user/1000
+
+Timestamp: 1552864979532 || Data: Mon Mar 18 00:22:59 CET 2019
+Filesystem                               1K-blocks     Used Available Use% Mounted on
+udev                                     197935644        0 197935644   0% /dev
+tmpfs                                     39592892    26284  39566608   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088  1680956  11587832  13% /
+tmpfs                                    197964448    54624 197909824   1% /dev/shm
+tmpfs                                         5120        0      5120   0% /run/lock
+tmpfs                                    197964448        0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036    72829    374836  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912    20092   7923552   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880   470152  66886004   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912    21636   7922008   1% /home
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   910744  66445412   2% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log          71175880    60668  67295488   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644    22044   8703300   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912    21064   7922580   1% /var/log/audit
+cgmfs                                          100        0       100   0% /run/cgmanager/fs
+/dev/drbd0                               226251284 22143172 192592152  11% /opt/ericsson/virtualmachines
+tmpfs                                     39592892        0  39592892   0% /run/user/1000
+
+Timestamp: 1552865579537 || Data: Mon Mar 18 00:32:59 CET 2019
+Filesystem                               1K-blocks     Used Available Use% Mounted on
+udev                                     197935644        0 197935644   0% /dev
+tmpfs                                     39592892    26284  39566608   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088  1680956  11587832  13% /
+tmpfs                                    197964448    54624 197909824   1% /dev/shm
+tmpfs                                         5120        0      5120   0% /run/lock
+tmpfs                                    197964448        0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036    72829    374836  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912    20092   7923552   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880   470152  66886004   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912    21636   7922008   1% /home
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   910744  66445412   2% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log          71175880    60668  67295488   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644    22044   8703300   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912    21064   7922580   1% /var/log/audit
+cgmfs                                          100        0       100   0% /run/cgmanager/fs
+/dev/drbd0                               226251284 22156700 192578624  11% /opt/ericsson/virtualmachines
+tmpfs                                     39592892        0  39592892   0% /run/user/1000

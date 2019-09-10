@@ -1,0 +1,583 @@
+Timestamp: 1552782181891 || Data: Sun Mar 17 01:23:01 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2616     98472   3% /var/fs
+
+Timestamp: 1552782782340 || Data: Sun Mar 17 01:33:01 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2616     98472   3% /var/fs
+
+Timestamp: 1552783382550 || Data: Sun Mar 17 01:43:02 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2615     98473   3% /var/fs
+
+Timestamp: 1552783982958 || Data: Sun Mar 17 01:53:02 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2616     98472   3% /var/fs
+
+Timestamp: 1552784583222 || Data: Sun Mar 17 02:03:02 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2616     98472   3% /var/fs
+
+Timestamp: 1552785183436 || Data: Sun Mar 17 02:13:03 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2616     98472   3% /var/fs
+
+Timestamp: 1552785783720 || Data: Sun Mar 17 02:23:03 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2616     98472   3% /var/fs
+
+Timestamp: 1552786384110 || Data: Sun Mar 17 02:33:03 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2615     98473   3% /var/fs
+
+Timestamp: 1552786984350 || Data: Sun Mar 17 02:43:04 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2615     98473   3% /var/fs
+
+Timestamp: 1552787584603 || Data: Sun Mar 17 02:53:04 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2616     98472   3% /var/fs
+
+Timestamp: 1552788184825 || Data: Sun Mar 17 03:03:04 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2616     98472   3% /var/fs
+
+Timestamp: 1552788785059 || Data: Sun Mar 17 03:13:04 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2616     98472   3% /var/fs
+
+Timestamp: 1552789385273 || Data: Sun Mar 17 03:23:05 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2615     98473   3% /var/fs
+
+Timestamp: 1552789985529 || Data: Sun Mar 17 03:33:05 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2615     98473   3% /var/fs
+
+Timestamp: 1552790585800 || Data: Sun Mar 17 03:43:05 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2615     98473   3% /var/fs
+
+Timestamp: 1552791186169 || Data: Sun Mar 17 03:53:05 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2616     98472   3% /var/fs
+
+Timestamp: 1552791786299 || Data: Sun Mar 17 04:03:06 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2616     98472   3% /var/fs
+
+Timestamp: 1552792386553 || Data: Sun Mar 17 04:13:06 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2616     98472   3% /var/fs
+
+Timestamp: 1552792986788 || Data: Sun Mar 17 04:23:06 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2615     98473   3% /var/fs
+
+Timestamp: 1552793587026 || Data: Sun Mar 17 04:33:06 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2615     98473   3% /var/fs
+
+Timestamp: 1552794187245 || Data: Sun Mar 17 04:43:07 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2615     98473   3% /var/fs
+
+Timestamp: 1552794787744 || Data: Sun Mar 17 04:53:07 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2616     98472   3% /var/fs
+
+Timestamp: 1552795387858 || Data: Sun Mar 17 05:03:07 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2616     98472   3% /var/fs
+
+Timestamp: 1552795987977 || Data: Sun Mar 17 05:13:07 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2615     98473   3% /var/fs
+
+Timestamp: 1552796588373 || Data: Sun Mar 17 05:23:07 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2615     98473   3% /var/fs
+
+Timestamp: 1552797188535 || Data: Sun Mar 17 05:33:08 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2615     98473   3% /var/fs
+
+Timestamp: 1552797788681 || Data: Sun Mar 17 05:43:08 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2615     98473   3% /var/fs
+
+Timestamp: 1552798388847 || Data: Sun Mar 17 05:53:08 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2616     98472   3% /var/fs
+
+Timestamp: 1552798989037 || Data: Sun Mar 17 06:03:08 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2614     98474   3% /var/fs
+
+Timestamp: 1552799589267 || Data: Sun Mar 17 06:13:09 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2613     98475   3% /var/fs
+
+Timestamp: 1552800189533 || Data: Sun Mar 17 06:23:09 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2613     98475   3% /var/fs
+
+Timestamp: 1552800789666 || Data: Sun Mar 17 06:33:09 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2613     98475   3% /var/fs
+
+Timestamp: 1552801389921 || Data: Sun Mar 17 06:43:09 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2614     98474   3% /var/fs
+
+Timestamp: 1552801990104 || Data: Sun Mar 17 06:53:09 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2614     98474   3% /var/fs
+
+Timestamp: 1552802590337 || Data: Sun Mar 17 07:03:10 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2610     98478   3% /var/fs
+
+Timestamp: 1552803190528 || Data: Sun Mar 17 07:13:10 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2610     98478   3% /var/fs
+
+Timestamp: 1552803790713 || Data: Sun Mar 17 07:23:10 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2610     98478   3% /var/fs
+
+Timestamp: 1552804390845 || Data: Sun Mar 17 07:33:10 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2610     98478   3% /var/fs
+
+Timestamp: 1552804991078 || Data: Sun Mar 17 07:43:10 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2611     98477   3% /var/fs
+
+Timestamp: 1552805591278 || Data: Sun Mar 17 07:53:11 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2610     98478   3% /var/fs
+
+Timestamp: 1552806191447 || Data: Sun Mar 17 08:03:11 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2610     98478   3% /var/fs
+
+Timestamp: 1552806791613 || Data: Sun Mar 17 08:13:11 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2610     98478   3% /var/fs
+
+Timestamp: 1552807391779 || Data: Sun Mar 17 08:23:11 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2610     98478   3% /var/fs
+
+Timestamp: 1552807992072 || Data: Sun Mar 17 08:33:11 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2610     98478   3% /var/fs
+
+Timestamp: 1552808592387 || Data: Sun Mar 17 08:43:12 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2611     98477   3% /var/fs
+
+Timestamp: 1552809192512 || Data: Sun Mar 17 08:53:12 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2610     98478   3% /var/fs
+
+Timestamp: 1552809792702 || Data: Sun Mar 17 09:03:12 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2610     98478   3% /var/fs
+
+Timestamp: 1552810392862 || Data: Sun Mar 17 09:13:12 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2610     98478   3% /var/fs
+
+Timestamp: 1552810993202 || Data: Sun Mar 17 09:23:12 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2610     98478   3% /var/fs
+
+Timestamp: 1552811593374 || Data: Sun Mar 17 09:33:13 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2610     98478   3% /var/fs
+
+Timestamp: 1552812193548 || Data: Sun Mar 17 09:43:13 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2610     98478   3% /var/fs
+
+Timestamp: 1552812793667 || Data: Sun Mar 17 09:53:13 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2610     98478   3% /var/fs
+
+Timestamp: 1552813393847 || Data: Sun Mar 17 10:03:13 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2610     98478   3% /var/fs
+
+Timestamp: 1552813994027 || Data: Sun Mar 17 10:13:13 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2610     98478   3% /var/fs
+
+Timestamp: 1552814594189 || Data: Sun Mar 17 10:23:14 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2610     98478   3% /var/fs
+
+Timestamp: 1552815194487 || Data: Sun Mar 17 10:33:14 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2609     98479   3% /var/fs
+
+Timestamp: 1552815794741 || Data: Sun Mar 17 10:43:14 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2610     98478   3% /var/fs
+
+Timestamp: 1552816394994 || Data: Sun Mar 17 10:53:14 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2610     98478   3% /var/fs
+
+Timestamp: 1552816995210 || Data: Sun Mar 17 11:03:14 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2610     98478   3% /var/fs
+
+Timestamp: 1552817595324 || Data: Sun Mar 17 11:13:15 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2610     98478   3% /var/fs
+
+Timestamp: 1552818195456 || Data: Sun Mar 17 11:23:15 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2610     98478   3% /var/fs
+
+Timestamp: 1552818795696 || Data: Sun Mar 17 11:33:15 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2609     98479   3% /var/fs
+
+Timestamp: 1552819395804 || Data: Sun Mar 17 11:43:15 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2610     98478   3% /var/fs
+
+Timestamp: 1552819996057 || Data: Sun Mar 17 11:53:15 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2610     98478   3% /var/fs
+
+Timestamp: 1552820596185 || Data: Sun Mar 17 12:03:16 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2610     98478   3% /var/fs
+
+Timestamp: 1552821196352 || Data: Sun Mar 17 12:13:16 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2610     98478   3% /var/fs
+
+Timestamp: 1552821796652 || Data: Sun Mar 17 12:23:16 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2609     98479   3% /var/fs
+
+Timestamp: 1552822396765 || Data: Sun Mar 17 12:33:16 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2610     98478   3% /var/fs
+
+Timestamp: 1552822996911 || Data: Sun Mar 17 12:43:16 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2610     98478   3% /var/fs
+
+Timestamp: 1552823597141 || Data: Sun Mar 17 12:53:16 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2610     98478   3% /var/fs
+
+Timestamp: 1552824197428 || Data: Sun Mar 17 13:03:17 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2610     98478   3% /var/fs
+
+Timestamp: 1552824797546 || Data: Sun Mar 17 13:13:17 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2609     98479   3% /var/fs
+
+Timestamp: 1552825397665 || Data: Sun Mar 17 13:23:17 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2609     98479   3% /var/fs
+
+Timestamp: 1552825997782 || Data: Sun Mar 17 13:33:17 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2610     98478   3% /var/fs
+
+Timestamp: 1552826597925 || Data: Sun Mar 17 13:43:17 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2610     98478   3% /var/fs
+
+Timestamp: 1552827198102 || Data: Sun Mar 17 13:53:17 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2610     98478   3% /var/fs
+
+Timestamp: 1552827798256 || Data: Sun Mar 17 14:03:18 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2610     98478   3% /var/fs
+
+Timestamp: 1552828398521 || Data: Sun Mar 17 14:13:18 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2609     98479   3% /var/fs
+
+Timestamp: 1552828998745 || Data: Sun Mar 17 14:23:18 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2609     98479   3% /var/fs
+
+Timestamp: 1552829598885 || Data: Sun Mar 17 14:33:18 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2610     98478   3% /var/fs
+
+Timestamp: 1552830199005 || Data: Sun Mar 17 14:43:18 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2610     98478   3% /var/fs
+
+Timestamp: 1552830799422 || Data: Sun Mar 17 14:53:19 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2610     98478   3% /var/fs
+
+Timestamp: 1552831399534 || Data: Sun Mar 17 15:03:19 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2609     98479   3% /var/fs
+
+Timestamp: 1552831999857 || Data: Sun Mar 17 15:13:19 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2609     98479   3% /var/fs
+
+Timestamp: 1552832600162 || Data: Sun Mar 17 15:23:19 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2609     98479   3% /var/fs
+
+Timestamp: 1552833200381 || Data: Sun Mar 17 15:33:20 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2610     98478   3% /var/fs
+
+Timestamp: 1552833800511 || Data: Sun Mar 17 15:43:20 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2610     98478   3% /var/fs
+
+Timestamp: 1552834400818 || Data: Sun Mar 17 15:53:20 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2610     98478   3% /var/fs
+
+Timestamp: 1552835000954 || Data: Sun Mar 17 16:03:20 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2607     98481   3% /var/fs
+
+Timestamp: 1552835601081 || Data: Sun Mar 17 16:13:20 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2607     98481   3% /var/fs
+
+Timestamp: 1552836201278 || Data: Sun Mar 17 16:23:21 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2607     98481   3% /var/fs
+
+Timestamp: 1552836801395 || Data: Sun Mar 17 16:33:21 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2608     98480   3% /var/fs
+
+Timestamp: 1552837401525 || Data: Sun Mar 17 16:43:21 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2608     98480   3% /var/fs
+
+Timestamp: 1552838001819 || Data: Sun Mar 17 16:53:21 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2607     98481   3% /var/fs
+
+Timestamp: 1552838602036 || Data: Sun Mar 17 17:03:21 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2607     98481   3% /var/fs
+
+Timestamp: 1552839202155 || Data: Sun Mar 17 17:13:22 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2607     98481   3% /var/fs
+
+Timestamp: 1552839802366 || Data: Sun Mar 17 17:23:22 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2607     98481   3% /var/fs
+
+Timestamp: 1552840402487 || Data: Sun Mar 17 17:33:22 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2608     98480   3% /var/fs
+
+Timestamp: 1552841002630 || Data: Sun Mar 17 17:43:22 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2607     98481   3% /var/fs
+
+Timestamp: 1552841602804 || Data: Sun Mar 17 17:53:22 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2607     98481   3% /var/fs
+
+Timestamp: 1552842203012 || Data: Sun Mar 17 18:03:22 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2605     98483   3% /var/fs
+
+Timestamp: 1552842803184 || Data: Sun Mar 17 18:13:23 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2605     98483   3% /var/fs
+
+Timestamp: 1552843403305 || Data: Sun Mar 17 18:23:23 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2606     98482   3% /var/fs
+
+Timestamp: 1552844003426 || Data: Sun Mar 17 18:33:23 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2606     98482   3% /var/fs
+
+Timestamp: 1552844603935 || Data: Sun Mar 17 18:43:23 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2605     98483   3% /var/fs
+
+Timestamp: 1552845204248 || Data: Sun Mar 17 18:53:23 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2605     98483   3% /var/fs
+
+Timestamp: 1552845804385 || Data: Sun Mar 17 19:03:24 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2605     98483   3% /var/fs
+
+Timestamp: 1552846404500 || Data: Sun Mar 17 19:13:24 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2605     98483   3% /var/fs
+
+Timestamp: 1552847004655 || Data: Sun Mar 17 19:23:24 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2606     98482   3% /var/fs
+
+Timestamp: 1552847604907 || Data: Sun Mar 17 19:33:24 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2605     98483   3% /var/fs
+
+Timestamp: 1552848205036 || Data: Sun Mar 17 19:43:24 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2605     98483   3% /var/fs
+
+Timestamp: 1552848805160 || Data: Sun Mar 17 19:53:25 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2605     98483   3% /var/fs
+
+Timestamp: 1552849405529 || Data: Sun Mar 17 20:03:25 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2605     98483   3% /var/fs
+
+Timestamp: 1552850005656 || Data: Sun Mar 17 20:13:25 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2605     98483   3% /var/fs
+
+Timestamp: 1552850605934 || Data: Sun Mar 17 20:23:25 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2605     98483   3% /var/fs
+
+Timestamp: 1552851206135 || Data: Sun Mar 17 20:33:25 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2605     98483   3% /var/fs
+
+Timestamp: 1552851806558 || Data: Sun Mar 17 20:43:26 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2607     98481   3% /var/fs
+
+Timestamp: 1552852406721 || Data: Sun Mar 17 20:53:26 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2607     98481   3% /var/fs
+
+Timestamp: 1552853006835 || Data: Sun Mar 17 21:03:26 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2608     98480   3% /var/fs
+
+Timestamp: 1552853606944 || Data: Sun Mar 17 21:13:26 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2608     98480   3% /var/fs
+
+Timestamp: 1552854207137 || Data: Sun Mar 17 21:23:26 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2607     98481   3% /var/fs
+
+Timestamp: 1552854807306 || Data: Sun Mar 17 21:33:27 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2607     98481   3% /var/fs
+
+Timestamp: 1552855407527 || Data: Sun Mar 17 21:43:27 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2607     98481   3% /var/fs
+
+Timestamp: 1552856007645 || Data: Sun Mar 17 21:53:27 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2607     98481   3% /var/fs
+
+Timestamp: 1552856607834 || Data: Sun Mar 17 22:03:27 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2608     98480   3% /var/fs
+
+Timestamp: 1552857208007 || Data: Sun Mar 17 22:13:27 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2607     98481   3% /var/fs
+
+Timestamp: 1552857808167 || Data: Sun Mar 17 22:23:28 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2607     98481   3% /var/fs
+
+Timestamp: 1552858408418 || Data: Sun Mar 17 22:33:28 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2607     98481   3% /var/fs
+
+Timestamp: 1552859008678 || Data: Sun Mar 17 22:43:28 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2607     98481   3% /var/fs
+
+Timestamp: 1552859608922 || Data: Sun Mar 17 22:53:28 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2608     98480   3% /var/fs
+
+Timestamp: 1552860209108 || Data: Sun Mar 17 23:03:28 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2607     98481   3% /var/fs
+
+Timestamp: 1552860809346 || Data: Sun Mar 17 23:13:29 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2607     98481   3% /var/fs
+
+Timestamp: 1552861409718 || Data: Sun Mar 17 23:23:29 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2607     98481   3% /var/fs
+
+Timestamp: 1552862009825 || Data: Sun Mar 17 23:33:29 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2607     98481   3% /var/fs
+
+Timestamp: 1552862609982 || Data: Sun Mar 17 23:43:29 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2607     98481   3% /var/fs
+
+Timestamp: 1552863210094 || Data: Sun Mar 17 23:53:29 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2608     98480   3% /var/fs
+
+Timestamp: 1552863810329 || Data: Mon Mar 18 00:03:30 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2605     98483   3% /var/fs
+
+Timestamp: 1552864410444 || Data: Mon Mar 18 00:13:30 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2605     98483   3% /var/fs
+
+Timestamp: 1552865010655 || Data: Mon Mar 18 00:23:30 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2605     98483   3% /var/fs
+
+Timestamp: 1552865610774 || Data: Mon Mar 18 00:33:30 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2605     98483   3% /var/fs
+
+Timestamp: 1552866211089 || Data: Mon Mar 18 00:43:30 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2605     98483   3% /var/fs
+
+Timestamp: 1552866811372 || Data: Mon Mar 18 00:53:31 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2605     98483   3% /var/fs
+
+Timestamp: 1552867411564 || Data: Mon Mar 18 01:03:31 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2605     98483   3% /var/fs
+
+Timestamp: 1552868011916 || Data: Mon Mar 18 01:13:31 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2605     98483   3% /var/fs
+
+Timestamp: 1552868612082 || Data: Mon Mar 18 01:23:31 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2605     98483   3% /var/fs
+
+Timestamp: 1552869212195 || Data: Mon Mar 18 01:33:32 CET 2019
+Filesystem              Inodes      Used Available Use% Mounted on
+/dev/sda3               101088      2605     98483   3% /var/fs

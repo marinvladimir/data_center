@@ -1,0 +1,3160 @@
+Timestamp: 1552782222936 || Data: Sun Mar 17 01:23:01 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+Warning: Permanently added '10.27.28.11' (RSA) to the list of known hosts.
+
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+
+We trust you have received the usual lecture from the local System
+Administrator. It usually boils down to these three things:
+
+    #1) Respect the privacy of others.
+    #2) Think before you type.
+    #3) With great power comes great responsibility.
+
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     111
+# 
+
+Timestamp: 1552782863872 || Data: Sun Mar 17 01:33:42 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     111
+# 
+
+Timestamp: 1552783504798 || Data: Sun Mar 17 01:44:23 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     112
+# 
+
+Timestamp: 1552784145676 || Data: Sun Mar 17 01:55:04 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     111
+# 
+
+Timestamp: 1552784786560 || Data: Sun Mar 17 02:05:45 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     111
+# 
+
+Timestamp: 1552785427476 || Data: Sun Mar 17 02:16:26 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     111
+# 
+
+Timestamp: 1552786068351 || Data: Sun Mar 17 02:27:07 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     111
+# 
+
+Timestamp: 1552786708261 || Data: Sun Mar 17 02:37:48 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     111
+# 
+
+Timestamp: 1552787349121 || Data: Sun Mar 17 02:48:28 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     111
+# 
+
+Timestamp: 1552787989077 || Data: Sun Mar 17 02:59:09 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     111
+# 
+
+Timestamp: 1552788629017 || Data: Sun Mar 17 03:09:49 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     115
+# 
+
+Timestamp: 1552789269949 || Data: Sun Mar 17 03:20:29 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     114
+# 
+
+Timestamp: 1552789910850 || Data: Sun Mar 17 03:31:09 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     111
+# 
+
+Timestamp: 1552790551792 || Data: Sun Mar 17 03:41:50 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     114
+# 
+
+Timestamp: 1552791192720 || Data: Sun Mar 17 03:52:31 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     111
+# 
+
+Timestamp: 1552791833659 || Data: Sun Mar 17 04:03:12 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     112
+# 
+
+Timestamp: 1552792474544 || Data: Sun Mar 17 04:13:53 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     114
+# 
+
+Timestamp: 1552793115419 || Data: Sun Mar 17 04:24:34 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     114
+# 
+
+Timestamp: 1552793755313 || Data: Sun Mar 17 04:35:15 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     115
+# 
+
+Timestamp: 1552794395135 || Data: Sun Mar 17 04:45:55 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     114
+# 
+
+Timestamp: 1552795035010 || Data: Sun Mar 17 04:56:35 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     111
+# 
+
+Timestamp: 1552795675936 || Data: Sun Mar 17 05:07:15 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     111
+# 
+
+Timestamp: 1552796316790 || Data: Sun Mar 17 05:17:55 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     111
+# 
+
+Timestamp: 1552796957681 || Data: Sun Mar 17 05:28:36 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     111
+# 
+
+Timestamp: 1552797598591 || Data: Sun Mar 17 05:39:17 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     112
+# 
+
+Timestamp: 1552798239512 || Data: Sun Mar 17 05:49:58 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     111
+# 
+
+Timestamp: 1552798880428 || Data: Sun Mar 17 06:00:39 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     114
+# 
+
+Timestamp: 1552799520337 || Data: Sun Mar 17 06:11:20 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     114
+# 
+
+Timestamp: 1552800160230 || Data: Sun Mar 17 06:22:00 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     114
+# 
+
+Timestamp: 1552800800084 || Data: Sun Mar 17 06:32:40 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     111
+# 
+
+Timestamp: 1552801440964 || Data: Sun Mar 17 06:43:20 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     111
+# 
+
+Timestamp: 1552802081861 || Data: Sun Mar 17 06:54:00 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     111
+# 
+
+Timestamp: 1552802722773 || Data: Sun Mar 17 07:04:41 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     111
+# 
+
+Timestamp: 1552803363671 || Data: Sun Mar 17 07:15:22 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     112
+# 
+
+Timestamp: 1552804004579 || Data: Sun Mar 17 07:26:03 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     111
+# 
+
+Timestamp: 1552804645468 || Data: Sun Mar 17 07:36:44 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     114
+# 
+
+Timestamp: 1552805285373 || Data: Sun Mar 17 07:47:25 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     111
+# 
+
+Timestamp: 1552805925266 || Data: Sun Mar 17 07:58:05 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     114
+# 
+
+Timestamp: 1552806566138 || Data: Sun Mar 17 08:08:45 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     111
+# 
+
+Timestamp: 1552807206039 || Data: Sun Mar 17 08:19:26 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     111
+# 
+
+Timestamp: 1552807846967 || Data: Sun Mar 17 08:30:06 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     111
+# 
+
+Timestamp: 1552808487868 || Data: Sun Mar 17 08:40:46 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     111
+# 
+
+Timestamp: 1552809128771 || Data: Sun Mar 17 08:51:27 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     111
+# 
+
+Timestamp: 1552809769678 || Data: Sun Mar 17 09:02:08 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     112
+# 
+
+Timestamp: 1552810410567 || Data: Sun Mar 17 09:12:49 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     112
+# 
+
+Timestamp: 1552811051449 || Data: Sun Mar 17 09:23:30 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     111
+# 
+
+Timestamp: 1552811691350 || Data: Sun Mar 17 09:34:11 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     111
+# 
+
+Timestamp: 1552812331254 || Data: Sun Mar 17 09:44:51 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     111
+# 
+
+Timestamp: 1552812971164 || Data: Sun Mar 17 09:55:31 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     111
+# 
+
+Timestamp: 1552813611087 || Data: Sun Mar 17 10:06:11 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     111
+# 
+
+Timestamp: 1552814251035 || Data: Sun Mar 17 10:16:51 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     111
+# 
+
+Timestamp: 1552814891954 || Data: Sun Mar 17 10:27:31 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     111
+# 
+
+Timestamp: 1552815532868 || Data: Sun Mar 17 10:38:11 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     111
+# 
+
+Timestamp: 1552816173748 || Data: Sun Mar 17 10:48:52 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     112
+# 
+
+Timestamp: 1552816814632 || Data: Sun Mar 17 10:59:33 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     111
+# 
+
+Timestamp: 1552817455534 || Data: Sun Mar 17 11:10:14 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     114
+# 
+
+Timestamp: 1552818096425 || Data: Sun Mar 17 11:20:55 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     111
+# 
+
+Timestamp: 1552818737383 || Data: Sun Mar 17 11:31:36 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     111
+# 
+
+Timestamp: 1552819377245 || Data: Sun Mar 17 11:42:17 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     111
+# 
+
+Timestamp: 1552820017146 || Data: Sun Mar 17 11:52:57 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     111
+# 
+
+Timestamp: 1552820657015 || Data: Sun Mar 17 12:03:37 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     111
+# 
+
+Timestamp: 1552821297937 || Data: Sun Mar 17 12:14:17 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     111
+# 
+
+Timestamp: 1552821938851 || Data: Sun Mar 17 12:24:57 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     111
+# 
+
+Timestamp: 1552822579765 || Data: Sun Mar 17 12:35:38 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     120
+# 
+
+Timestamp: 1552823220729 || Data: Sun Mar 17 12:46:19 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     111
+# 
+
+Timestamp: 1552823861638 || Data: Sun Mar 17 12:57:00 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     111
+# 
+
+Timestamp: 1552824502550 || Data: Sun Mar 17 13:07:41 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     111
+# 
+
+Timestamp: 1552825143413 || Data: Sun Mar 17 13:18:22 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     111
+# 
+
+Timestamp: 1552825783359 || Data: Sun Mar 17 13:29:03 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     111
+# 
+
+Timestamp: 1552826423192 || Data: Sun Mar 17 13:39:43 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     111
+# 
+
+Timestamp: 1552827063127 || Data: Sun Mar 17 13:50:23 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     111
+# 
+
+Timestamp: 1552827703038 || Data: Sun Mar 17 14:01:03 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     111
+# 
+
+Timestamp: 1552828343986 || Data: Sun Mar 17 14:11:43 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     111
+# 
+
+Timestamp: 1552828984902 || Data: Sun Mar 17 14:22:23 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     112
+# 
+
+Timestamp: 1552829625737 || Data: Sun Mar 17 14:33:04 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     111
+# 
+
+Timestamp: 1552830266687 || Data: Sun Mar 17 14:43:45 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     113
+# 
+
+Timestamp: 1552830907573 || Data: Sun Mar 17 14:54:26 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     111
+# 
+
+Timestamp: 1552831548494 || Data: Sun Mar 17 15:05:07 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     111
+# 
+
+Timestamp: 1552832189387 || Data: Sun Mar 17 15:15:48 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     111
+# 
+
+Timestamp: 1552832829281 || Data: Sun Mar 17 15:26:29 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     111
+# 
+
+Timestamp: 1552833469176 || Data: Sun Mar 17 15:37:09 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     111
+# 
+
+Timestamp: 1552834109082 || Data: Sun Mar 17 15:47:49 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     111
+# 
+
+Timestamp: 1552834749968 || Data: Sun Mar 17 15:58:29 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     114
+# 
+
+Timestamp: 1552835390873 || Data: Sun Mar 17 16:09:09 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     111
+# 
+
+Timestamp: 1552836031800 || Data: Sun Mar 17 16:19:50 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     111
+# 
+
+Timestamp: 1552836672708 || Data: Sun Mar 17 16:30:31 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     111
+# 
+
+Timestamp: 1552837313608 || Data: Sun Mar 17 16:41:12 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     112
+# 
+
+Timestamp: 1552837954482 || Data: Sun Mar 17 16:51:53 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     111
+# 
+
+Timestamp: 1552838595408 || Data: Sun Mar 17 17:02:34 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     114
+# 
+
+Timestamp: 1552839235288 || Data: Sun Mar 17 17:13:15 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     111
+# 
+
+Timestamp: 1552839875151 || Data: Sun Mar 17 17:23:55 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     111
+# 
+
+Timestamp: 1552840515057 || Data: Sun Mar 17 17:34:35 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     114
+# 
+
+Timestamp: 1552841155930 || Data: Sun Mar 17 17:45:15 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     111
+# 
+
+Timestamp: 1552841796852 || Data: Sun Mar 17 17:55:55 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     111
+# 
+
+Timestamp: 1552842437762 || Data: Sun Mar 17 18:06:36 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     111
+# 
+
+Timestamp: 1552843078705 || Data: Sun Mar 17 18:17:17 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     112
+# 
+
+Timestamp: 1552843719628 || Data: Sun Mar 17 18:27:58 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     111
+# 
+
+Timestamp: 1552844360501 || Data: Sun Mar 17 18:38:39 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     114
+# 
+
+Timestamp: 1552845001371 || Data: Sun Mar 17 18:49:20 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     111
+# 
+
+Timestamp: 1552845641329 || Data: Sun Mar 17 19:00:01 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     111
+# 
+
+Timestamp: 1552846281281 || Data: Sun Mar 17 19:10:41 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     112
+# 
+
+Timestamp: 1552846921120 || Data: Sun Mar 17 19:21:21 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     111
+# 
+
+Timestamp: 1552847561042 || Data: Sun Mar 17 19:32:01 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     111
+# 
+
+Timestamp: 1552848201962 || Data: Sun Mar 17 19:42:41 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     111
+# 
+
+Timestamp: 1552848842890 || Data: Sun Mar 17 19:53:21 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     111
+# 
+
+Timestamp: 1552849483836 || Data: Sun Mar 17 20:04:02 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     111
+# 
+
+Timestamp: 1552850124748 || Data: Sun Mar 17 20:14:43 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     112
+# 
+
+Timestamp: 1552850765643 || Data: Sun Mar 17 20:25:24 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     111
+# 
+
+Timestamp: 1552851406597 || Data: Sun Mar 17 20:36:05 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     111
+# 
+
+Timestamp: 1552852047471 || Data: Sun Mar 17 20:46:46 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     111
+# 
+
+Timestamp: 1552852688427 || Data: Sun Mar 17 20:57:27 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     111
+# 
+
+Timestamp: 1552853328301 || Data: Sun Mar 17 21:08:08 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     111
+# 
+
+Timestamp: 1552853968176 || Data: Sun Mar 17 21:18:48 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     111
+# 
+
+Timestamp: 1552854608060 || Data: Sun Mar 17 21:29:28 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     111
+# 
+
+Timestamp: 1552855248032 || Data: Sun Mar 17 21:40:08 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     111
+# 
+
+Timestamp: 1552855888977 || Data: Sun Mar 17 21:50:48 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     111
+# 
+
+Timestamp: 1552856529917 || Data: Sun Mar 17 22:01:28 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     112
+# 
+
+Timestamp: 1552857170785 || Data: Sun Mar 17 22:12:09 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     111
+# 
+
+Timestamp: 1552857811663 || Data: Sun Mar 17 22:22:50 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     111
+# 
+
+Timestamp: 1552858452588 || Data: Sun Mar 17 22:33:31 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     111
+# 
+
+Timestamp: 1552859093480 || Data: Sun Mar 17 22:44:12 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     111
+# 
+
+Timestamp: 1552859734438 || Data: Sun Mar 17 22:54:53 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     111
+# 
+
+Timestamp: 1552860375340 || Data: Sun Mar 17 23:05:34 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     114
+# 
+
+Timestamp: 1552861015240 || Data: Sun Mar 17 23:16:15 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     114
+# 
+
+Timestamp: 1552861656106 || Data: Sun Mar 17 23:26:55 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     111
+# 
+
+Timestamp: 1552862296055 || Data: Sun Mar 17 23:37:36 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     111
+# 
+
+Timestamp: 1552862937000 || Data: Sun Mar 17 23:48:16 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     111
+# 
+
+Timestamp: 1552863577925 || Data: Sun Mar 17 23:58:57 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     111
+# 
+
+Timestamp: 1552864218838 || Data: Mon Mar 18 00:09:37 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     111
+# 
+
+Timestamp: 1552864859748 || Data: Mon Mar 18 00:20:18 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     112
+# 
+
+Timestamp: 1552865500659 || Data: Mon Mar 18 00:30:59 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     111
+# 
+
+Timestamp: 1552866141561 || Data: Mon Mar 18 00:41:40 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     111
+# 
+
+Timestamp: 1552866782455 || Data: Mon Mar 18 00:52:21 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     111
+# 
+
+Timestamp: 1552867422361 || Data: Mon Mar 18 01:03:02 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     111
+# 
+
+Timestamp: 1552868062303 || Data: Mon Mar 18 01:13:42 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     112
+# 
+
+Timestamp: 1552868702216 || Data: Mon Mar 18 01:24:22 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     111
+# 
+
+Timestamp: 1552869343127 || Data: Mon Mar 18 01:35:02 CET 2019
+spawn ssh -o StrictHostKeyChecking=no -o CheckHostIP=no network-admin@10.27.28.11
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Password: 
+* Welcome to Pluribus Networks Inc. Netvisor(R). This is a monitored system.   *
+*                ACCESS RESTRICTED TO AUTHORIZED USERS ONLY                    *
+* By using the Netvisor(R) CLI,you agree to the terms of the Pluribus Networks *
+* End User License Agreement (EULA). The EULA can be accessed via              *
+* http://www.pluribusnetworks.com/eula or by using the command "eula-show"     *
+Netvisor OS Command Line Interface 2.6
+Connected to Switch 27-Leaf-01; nvOS Identifier:0xe0001fe; Ver: 2.6.2060112225
+CLI (network-admin@27-Leaf-01) > role-modify name network-admin shell
+CLI (network-admin@27-Leaf-01) > shell
+bash-4.2$ sudo su
+Password: 
+# ls -l /proc/`pgrep nvOSd`/fd | wc -l
+     111
+# 

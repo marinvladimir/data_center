@@ -1,0 +1,104 @@
+.center{
+    color: #416e81;
+}
+
+.Thunder-logo1{
+    top: 0px;
+    left: -20px;
+    position: relative;
+    animation-name: transition1;
+    /*animation-duration: 4s;
+    animation-iteration-count: infinite;*/
+
+}
+.Thunder-logo2{
+    top: 0px;
+    right: 140px;
+    position: relative;
+    animation-name: transition2;}
+
+#container_low{
+    margin-top: 150px;
+    right: 85px;
+    position: absolute;
+    width: 120px;
+    height: 300px;
+    border-style: solid; 
+    border-width: 5px;
+    border-color: rgb(133, 163, 219);
+    border-style: inset;
+    background-color: rgb(74, 76, 180);
+}
+
+#text{
+    margin-top: 120px;
+    position: absolute;
+    right: 90px;
+    color: rgba(150, 178, 204, 0.658);
+    font-size: 18px;
+    text-shadow: 2px 1px rgb(0, 38, 255);
+        }
+#Btn1{
+    margin-top: 50px;
+    color: rgb(215, 228, 235);
+    background-color: rgb(150, 191, 218);
+    border-color: rgb(158, 168, 172);
+    width: 120px;
+    height: 60px;}
+#Btn2{
+    margin-top: 0px;
+    color: rgb(215, 228, 235);
+    background-color: rgb(150, 191, 218);
+    border-color: rgb(158, 168, 172);
+    width: 120px;
+    height: 60px;}
+#Btn3{
+    margin-top: 0px;
+    color: rgb(215, 228, 235);
+    background-color: rgb(150, 191, 218);
+    border-color: rgb(158, 168, 172);
+    width: 120px;
+    height: 60px;}
+
+#LU{
+    margin-top: 120px;
+    position: absolute;
+    left: 100px;
+    height: 180px;
+    width: 240px;
+    color: rgba(150, 178, 204, 0.658);
+    font-size: 18px;
+    border-style: solid; 
+    text-shadow: 2px 1px rgb(0, 38, 255);
+    border-width: 5px;
+    border-color: rgb(133, 163, 219);
+    border-style: inset;
+    background-color: rgb(74, 76, 180);
+}
+
+#result{
+    margin-top: 10px;
+    width: 220px;
+    color: rgb(173, 202, 230);
+}
+
+#result2{
+    margin-top: 10px;
+    width: 220px;
+    color: rgb(173, 202, 230);
+}
+  /*  animation-duration: 4s;
+    animation-iteration-count: infinite;*/
+
+/*
+@keyframes transition1 {
+    25% { top: 40px}
+    50% { left: 40px}
+    75% {  transform: rotateZ(30deg); }
+}
+
+@keyframes transition2 {
+    25% { top: -570px}
+    50% { right: 40px}
+    75% {  transform: rotateZ(30deg); }
+}*/

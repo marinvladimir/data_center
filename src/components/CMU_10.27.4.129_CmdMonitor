@@ -1,0 +1,584 @@
+Timestamp: 1552782181723 || Data: Sun Mar 17 01:23:01 CET 2019
+Warning: Permanently added '10.27.4.129' (ECDSA) to the list of known hosts.
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    150496   1310008  10% /var/fs
+
+Timestamp: 1552782782048 || Data: Sun Mar 17 01:33:01 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    151884   1308620  10% /var/fs
+
+Timestamp: 1552783382167 || Data: Sun Mar 17 01:43:02 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    153360   1307144  11% /var/fs
+
+Timestamp: 1552783982527 || Data: Sun Mar 17 01:53:02 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    154804   1305700  11% /var/fs
+
+Timestamp: 1552784582694 || Data: Sun Mar 17 02:03:02 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    156176   1304328  11% /var/fs
+
+Timestamp: 1552785182899 || Data: Sun Mar 17 02:13:02 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    157600   1302904  11% /var/fs
+
+Timestamp: 1552785783016 || Data: Sun Mar 17 02:23:02 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    159024   1301480  11% /var/fs
+
+Timestamp: 1552786383434 || Data: Sun Mar 17 02:33:03 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    160440   1300064  11% /var/fs
+
+Timestamp: 1552786983575 || Data: Sun Mar 17 02:43:03 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    161808   1298696  11% /var/fs
+
+Timestamp: 1552787583747 || Data: Sun Mar 17 02:53:03 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    163244   1297260  11% /var/fs
+
+Timestamp: 1552788183905 || Data: Sun Mar 17 03:03:03 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    164704   1295800  11% /var/fs
+
+Timestamp: 1552788784095 || Data: Sun Mar 17 03:13:03 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    166104   1294400  11% /var/fs
+
+Timestamp: 1552789384229 || Data: Sun Mar 17 03:23:04 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    167504   1293000  11% /var/fs
+
+Timestamp: 1552789984452 || Data: Sun Mar 17 03:33:04 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    168828   1291676  12% /var/fs
+
+Timestamp: 1552790584580 || Data: Sun Mar 17 03:43:04 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    170312   1290192  12% /var/fs
+
+Timestamp: 1552791184792 || Data: Sun Mar 17 03:53:04 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    171728   1288776  12% /var/fs
+
+Timestamp: 1552791785005 || Data: Sun Mar 17 04:03:04 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    173044   1287460  12% /var/fs
+
+Timestamp: 1552792385179 || Data: Sun Mar 17 04:13:05 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    174460   1286044  12% /var/fs
+
+Timestamp: 1552792985360 || Data: Sun Mar 17 04:23:05 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    175936   1284568  12% /var/fs
+
+Timestamp: 1552793585626 || Data: Sun Mar 17 04:33:05 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    177348   1283156  12% /var/fs
+
+Timestamp: 1552794185821 || Data: Sun Mar 17 04:43:05 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    178744   1281760  12% /var/fs
+
+Timestamp: 1552794786427 || Data: Sun Mar 17 04:53:05 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    180092   1280412  12% /var/fs
+
+Timestamp: 1552795386606 || Data: Sun Mar 17 05:03:06 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    181496   1279008  12% /var/fs
+
+Timestamp: 1552795986724 || Data: Sun Mar 17 05:13:06 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    182932   1277572  13% /var/fs
+
+Timestamp: 1552796586904 || Data: Sun Mar 17 05:23:06 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    184284   1276220  13% /var/fs
+
+Timestamp: 1552797187113 || Data: Sun Mar 17 05:33:06 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    185720   1274784  13% /var/fs
+
+Timestamp: 1552797787223 || Data: Sun Mar 17 05:43:07 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    187180   1273324  13% /var/fs
+
+Timestamp: 1552798387335 || Data: Sun Mar 17 05:53:07 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    188572   1271932  13% /var/fs
+
+Timestamp: 1552798987734 || Data: Sun Mar 17 06:03:07 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    189976   1270528  13% /var/fs
+
+Timestamp: 1552799587855 || Data: Sun Mar 17 06:13:07 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    191364   1269140  13% /var/fs
+
+Timestamp: 1552800188019 || Data: Sun Mar 17 06:23:07 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    192804   1267700  13% /var/fs
+
+Timestamp: 1552800788260 || Data: Sun Mar 17 06:33:08 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    194260   1266244  13% /var/fs
+
+Timestamp: 1552801388374 || Data: Sun Mar 17 06:43:08 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    195672   1264832  13% /var/fs
+
+Timestamp: 1552801988574 || Data: Sun Mar 17 06:53:08 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    197072   1263432  13% /var/fs
+
+Timestamp: 1552802588719 || Data: Sun Mar 17 07:03:08 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    198384   1262120  14% /var/fs
+
+Timestamp: 1552803188834 || Data: Sun Mar 17 07:13:08 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    199864   1260640  14% /var/fs
+
+Timestamp: 1552803788960 || Data: Sun Mar 17 07:23:08 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    201264   1259240  14% /var/fs
+
+Timestamp: 1552804389227 || Data: Sun Mar 17 07:33:08 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    202676   1257828  14% /var/fs
+
+Timestamp: 1552804989416 || Data: Sun Mar 17 07:43:09 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    204048   1256456  14% /var/fs
+
+Timestamp: 1552805589615 || Data: Sun Mar 17 07:53:09 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    205500   1255004  14% /var/fs
+
+Timestamp: 1552806189779 || Data: Sun Mar 17 08:03:09 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    206836   1253668  14% /var/fs
+
+Timestamp: 1552806789969 || Data: Sun Mar 17 08:13:09 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    208192   1252312  14% /var/fs
+
+Timestamp: 1552807390110 || Data: Sun Mar 17 08:23:09 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    209640   1250864  14% /var/fs
+
+Timestamp: 1552807990314 || Data: Sun Mar 17 08:33:10 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    211120   1249384  14% /var/fs
+
+Timestamp: 1552808590471 || Data: Sun Mar 17 08:43:10 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    212564   1247940  15% /var/fs
+
+Timestamp: 1552809190678 || Data: Sun Mar 17 08:53:10 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    214016   1246488  15% /var/fs
+
+Timestamp: 1552809790814 || Data: Sun Mar 17 09:03:10 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    215420   1245084  15% /var/fs
+
+Timestamp: 1552810390972 || Data: Sun Mar 17 09:13:10 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    216820   1243684  15% /var/fs
+
+Timestamp: 1552810991209 || Data: Sun Mar 17 09:23:10 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    218228   1242276  15% /var/fs
+
+Timestamp: 1552811591347 || Data: Sun Mar 17 09:33:11 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    219696   1240808  15% /var/fs
+
+Timestamp: 1552812191457 || Data: Sun Mar 17 09:43:11 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    221084   1239420  15% /var/fs
+
+Timestamp: 1552812791664 || Data: Sun Mar 17 09:53:11 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    222500   1238004  15% /var/fs
+
+Timestamp: 1552813391805 || Data: Sun Mar 17 10:03:11 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    223852   1236652  15% /var/fs
+
+Timestamp: 1552813992017 || Data: Sun Mar 17 10:13:11 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    225312   1235192  15% /var/fs
+
+Timestamp: 1552814592184 || Data: Sun Mar 17 10:23:12 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    226712   1233792  16% /var/fs
+
+Timestamp: 1552815192294 || Data: Sun Mar 17 10:33:12 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    228056   1232448  16% /var/fs
+
+Timestamp: 1552815792466 || Data: Sun Mar 17 10:43:12 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    229512   1230992  16% /var/fs
+
+Timestamp: 1552816392617 || Data: Sun Mar 17 10:53:12 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    230920   1229584  16% /var/fs
+
+Timestamp: 1552816993078 || Data: Sun Mar 17 11:03:12 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    232400   1228104  16% /var/fs
+
+Timestamp: 1552817593251 || Data: Sun Mar 17 11:13:13 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    233652   1226852  16% /var/fs
+
+Timestamp: 1552818193549 || Data: Sun Mar 17 11:23:13 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    235060   1225444  16% /var/fs
+
+Timestamp: 1552818793737 || Data: Sun Mar 17 11:33:13 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    236528   1223976  16% /var/fs
+
+Timestamp: 1552819393848 || Data: Sun Mar 17 11:43:13 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    237900   1222604  16% /var/fs
+
+Timestamp: 1552819994096 || Data: Sun Mar 17 11:53:13 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    239292   1221212  16% /var/fs
+
+Timestamp: 1552820594205 || Data: Sun Mar 17 12:03:14 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    240744   1219760  16% /var/fs
+
+Timestamp: 1552821194336 || Data: Sun Mar 17 12:13:14 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    242164   1218340  17% /var/fs
+
+Timestamp: 1552821794551 || Data: Sun Mar 17 12:23:14 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    243576   1216928  17% /var/fs
+
+Timestamp: 1552822394666 || Data: Sun Mar 17 12:33:14 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    244976   1215528  17% /var/fs
+
+Timestamp: 1552822994798 || Data: Sun Mar 17 12:43:14 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    246320   1214184  17% /var/fs
+
+Timestamp: 1552823594973 || Data: Sun Mar 17 12:53:14 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    247720   1212784  17% /var/fs
+
+Timestamp: 1552824195217 || Data: Sun Mar 17 13:03:14 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    249124   1211380  17% /var/fs
+
+Timestamp: 1552824795407 || Data: Sun Mar 17 13:13:15 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    250520   1209984  17% /var/fs
+
+Timestamp: 1552825395525 || Data: Sun Mar 17 13:23:15 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    251936   1208568  17% /var/fs
+
+Timestamp: 1552825995655 || Data: Sun Mar 17 13:33:15 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    253356   1207148  17% /var/fs
+
+Timestamp: 1552826595930 || Data: Sun Mar 17 13:43:15 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    254760   1205744  17% /var/fs
+
+Timestamp: 1552827196071 || Data: Sun Mar 17 13:53:15 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    256124   1204380  18% /var/fs
+
+Timestamp: 1552827796223 || Data: Sun Mar 17 14:03:16 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    257564   1202940  18% /var/fs
+
+Timestamp: 1552828396341 || Data: Sun Mar 17 14:13:16 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    259036   1201468  18% /var/fs
+
+Timestamp: 1552828996512 || Data: Sun Mar 17 14:23:16 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    109608   1350896   8% /var/fs
+
+Timestamp: 1552829596797 || Data: Sun Mar 17 14:33:16 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    111028   1349476   8% /var/fs
+
+Timestamp: 1552830196916 || Data: Sun Mar 17 14:43:16 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    112428   1348076   8% /var/fs
+
+Timestamp: 1552830797284 || Data: Sun Mar 17 14:53:16 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    113876   1346628   8% /var/fs
+
+Timestamp: 1552831397482 || Data: Sun Mar 17 15:03:17 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    115296   1345208   8% /var/fs
+
+Timestamp: 1552831997816 || Data: Sun Mar 17 15:13:17 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    116704   1343800   8% /var/fs
+
+Timestamp: 1552832597966 || Data: Sun Mar 17 15:23:17 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    118152   1342352   8% /var/fs
+
+Timestamp: 1552833198295 || Data: Sun Mar 17 15:33:17 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    119584   1340920   8% /var/fs
+
+Timestamp: 1552833798526 || Data: Sun Mar 17 15:43:18 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    120956   1339548   8% /var/fs
+
+Timestamp: 1552834398747 || Data: Sun Mar 17 15:53:18 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    122344   1338160   8% /var/fs
+
+Timestamp: 1552834998928 || Data: Sun Mar 17 16:03:18 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    123720   1336784   8% /var/fs
+
+Timestamp: 1552835599234 || Data: Sun Mar 17 16:13:18 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    125132   1335372   9% /var/fs
+
+Timestamp: 1552836199524 || Data: Sun Mar 17 16:23:19 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    126536   1333968   9% /var/fs
+
+Timestamp: 1552836799757 || Data: Sun Mar 17 16:33:19 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    128008   1332496   9% /var/fs
+
+Timestamp: 1552837399873 || Data: Sun Mar 17 16:43:19 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    129420   1331084   9% /var/fs
+
+Timestamp: 1552838000147 || Data: Sun Mar 17 16:53:19 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    130820   1329684   9% /var/fs
+
+Timestamp: 1552838600363 || Data: Sun Mar 17 17:03:20 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    132200   1328304   9% /var/fs
+
+Timestamp: 1552839200475 || Data: Sun Mar 17 17:13:20 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    133636   1326868   9% /var/fs
+
+Timestamp: 1552839800640 || Data: Sun Mar 17 17:23:20 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    135048   1325456   9% /var/fs
+
+Timestamp: 1552840400837 || Data: Sun Mar 17 17:33:20 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    136388   1324116   9% /var/fs
+
+Timestamp: 1552841000943 || Data: Sun Mar 17 17:43:20 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    137800   1322704   9% /var/fs
+
+Timestamp: 1552841601275 || Data: Sun Mar 17 17:53:20 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    139252   1321252  10% /var/fs
+
+Timestamp: 1552842201510 || Data: Sun Mar 17 18:03:21 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    140720   1319784  10% /var/fs
+
+Timestamp: 1552842801685 || Data: Sun Mar 17 18:13:21 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    142104   1318400  10% /var/fs
+
+Timestamp: 1552843401804 || Data: Sun Mar 17 18:23:21 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    143396   1317108  10% /var/fs
+
+Timestamp: 1552844001926 || Data: Sun Mar 17 18:33:21 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    144856   1315648  10% /var/fs
+
+Timestamp: 1552844602223 || Data: Sun Mar 17 18:43:21 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    146224   1314280  10% /var/fs
+
+Timestamp: 1552845202334 || Data: Sun Mar 17 18:53:22 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    147604   1312900  10% /var/fs
+
+Timestamp: 1552845802569 || Data: Sun Mar 17 19:03:22 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    149016   1311488  10% /var/fs
+
+Timestamp: 1552846402684 || Data: Sun Mar 17 19:13:22 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    150488   1310016  10% /var/fs
+
+Timestamp: 1552847002924 || Data: Sun Mar 17 19:23:22 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    151896   1308608  10% /var/fs
+
+Timestamp: 1552847603141 || Data: Sun Mar 17 19:33:22 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    153308   1307196  10% /var/fs
+
+Timestamp: 1552848203301 || Data: Sun Mar 17 19:43:23 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    154668   1305836  11% /var/fs
+
+Timestamp: 1552848803506 || Data: Sun Mar 17 19:53:23 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    156092   1304412  11% /var/fs
+
+Timestamp: 1552849403706 || Data: Sun Mar 17 20:03:23 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    157504   1303000  11% /var/fs
+
+Timestamp: 1552850003914 || Data: Sun Mar 17 20:13:23 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    158944   1301560  11% /var/fs
+
+Timestamp: 1552850604133 || Data: Sun Mar 17 20:23:23 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    160392   1300112  11% /var/fs
+
+Timestamp: 1552851204322 || Data: Sun Mar 17 20:33:24 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    161792   1298712  11% /var/fs
+
+Timestamp: 1552851804639 || Data: Sun Mar 17 20:43:24 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    163228   1297276  11% /var/fs
+
+Timestamp: 1552852404842 || Data: Sun Mar 17 20:53:24 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    164664   1295840  11% /var/fs
+
+Timestamp: 1552853004967 || Data: Sun Mar 17 21:03:24 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    166080   1294424  11% /var/fs
+
+Timestamp: 1552853605087 || Data: Sun Mar 17 21:13:24 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    167396   1293108  11% /var/fs
+
+Timestamp: 1552854205248 || Data: Sun Mar 17 21:23:25 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    168816   1291688  12% /var/fs
+
+Timestamp: 1552854805420 || Data: Sun Mar 17 21:33:25 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    170292   1290212  12% /var/fs
+
+Timestamp: 1552855405594 || Data: Sun Mar 17 21:43:25 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    171708   1288796  12% /var/fs
+
+Timestamp: 1552856005706 || Data: Sun Mar 17 21:53:25 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    173184   1287320  12% /var/fs
+
+Timestamp: 1552856605988 || Data: Sun Mar 17 22:03:25 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    174512   1285992  12% /var/fs
+
+Timestamp: 1552857206150 || Data: Sun Mar 17 22:13:25 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    175920   1284584  12% /var/fs
+
+Timestamp: 1552857806285 || Data: Sun Mar 17 22:23:26 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    177336   1283168  12% /var/fs
+
+Timestamp: 1552858406639 || Data: Sun Mar 17 22:33:26 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    178632   1281872  12% /var/fs
+
+Timestamp: 1552859006809 || Data: Sun Mar 17 22:43:26 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    180064   1280440  12% /var/fs
+
+Timestamp: 1552859606986 || Data: Sun Mar 17 22:53:26 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    181464   1279040  12% /var/fs
+
+Timestamp: 1552860207094 || Data: Sun Mar 17 23:03:26 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    182780   1277724  13% /var/fs
+
+Timestamp: 1552860807303 || Data: Sun Mar 17 23:13:27 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    184216   1276288  13% /var/fs
+
+Timestamp: 1552861407601 || Data: Sun Mar 17 23:23:27 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    185636   1274868  13% /var/fs
+
+Timestamp: 1552862007714 || Data: Sun Mar 17 23:33:27 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    187096   1273408  13% /var/fs
+
+Timestamp: 1552862607970 || Data: Sun Mar 17 23:43:27 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    188508   1271996  13% /var/fs
+
+Timestamp: 1552863208152 || Data: Sun Mar 17 23:53:27 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    189896   1270608  13% /var/fs
+
+Timestamp: 1552863808428 || Data: Mon Mar 18 00:03:28 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    191296   1269208  13% /var/fs
+
+Timestamp: 1552864408664 || Data: Mon Mar 18 00:13:28 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    192716   1267788  13% /var/fs
+
+Timestamp: 1552865008874 || Data: Mon Mar 18 00:23:28 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    194116   1266388  13% /var/fs
+
+Timestamp: 1552865608990 || Data: Mon Mar 18 00:33:28 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    195456   1265048  13% /var/fs
+
+Timestamp: 1552866209209 || Data: Mon Mar 18 00:43:28 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    196928   1263576  13% /var/fs
+
+Timestamp: 1552866809370 || Data: Mon Mar 18 00:53:29 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    198400   1262104  14% /var/fs
+
+Timestamp: 1552867409622 || Data: Mon Mar 18 01:03:29 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    199136   1261368  14% /var/fs
+
+Timestamp: 1552868009786 || Data: Mon Mar 18 01:13:29 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    200504   1260000  14% /var/fs
+
+Timestamp: 1552868609938 || Data: Mon Mar 18 01:23:29 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    201928   1258576  14% /var/fs
+
+Timestamp: 1552869210055 || Data: Mon Mar 18 01:33:29 CET 2019
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              1557680    203400   1257104  14% /var/fs

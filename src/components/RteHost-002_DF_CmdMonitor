@@ -1,0 +1,1481 @@
+Timestamp: 1552782179187 || Data: Sun Mar 17 01:22:59 CET 2019
+Filesystem                               1K-blocks    Used Available Use% Mounted on
+udev                                     197935640       0 197935640   0% /dev
+tmpfs                                     39592892   42744  39550148   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088 1681588  11587200  13% /
+tmpfs                                    197964448   39216 197925232   1% /dev/shm
+tmpfs                                         5120       0      5120   0% /run/lock
+tmpfs                                    197964448       0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036   72842    374823  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912   20088   7923556   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880  469536  66886620   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912   21604   7922040   1% /home
+/dev/mapper/HDS--vg--rte-var_log          71175880   60136  67296020   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644   22232   8703112   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   53012  67303144   1% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912   29156   7914488   1% /var/log/audit
+cgmfs                                          100       0       100   0% /run/cgmanager/fs
+tmpfs                                     39592892       0  39592892   0% /run/user/1000
+
+Timestamp: 1552782779193 || Data: Sun Mar 17 01:32:59 CET 2019
+Filesystem                               1K-blocks    Used Available Use% Mounted on
+udev                                     197935640       0 197935640   0% /dev
+tmpfs                                     39592892   42576  39550316   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088 1681588  11587200  13% /
+tmpfs                                    197964448   39216 197925232   1% /dev/shm
+tmpfs                                         5120       0      5120   0% /run/lock
+tmpfs                                    197964448       0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036   72842    374823  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912   20088   7923556   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880  469536  66886620   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912   21604   7922040   1% /home
+/dev/mapper/HDS--vg--rte-var_log          71175880   60148  67296008   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644   22232   8703112   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   53012  67303144   1% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912   29180   7914464   1% /var/log/audit
+cgmfs                                          100       0       100   0% /run/cgmanager/fs
+tmpfs                                     39592892       0  39592892   0% /run/user/1000
+
+Timestamp: 1552783379198 || Data: Sun Mar 17 01:42:59 CET 2019
+Filesystem                               1K-blocks    Used Available Use% Mounted on
+udev                                     197935640       0 197935640   0% /dev
+tmpfs                                     39592892   42576  39550316   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088 1681588  11587200  13% /
+tmpfs                                    197964448   39216 197925232   1% /dev/shm
+tmpfs                                         5120       0      5120   0% /run/lock
+tmpfs                                    197964448       0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036   72842    374823  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912   20088   7923556   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880  469536  66886620   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912   21604   7922040   1% /home
+/dev/mapper/HDS--vg--rte-var_log          71175880   60152  67296004   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644   22232   8703112   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   53012  67303144   1% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912   29180   7914464   1% /var/log/audit
+cgmfs                                          100       0       100   0% /run/cgmanager/fs
+tmpfs                                     39592892       0  39592892   0% /run/user/1000
+
+Timestamp: 1552783979203 || Data: Sun Mar 17 01:52:59 CET 2019
+Filesystem                               1K-blocks    Used Available Use% Mounted on
+udev                                     197935640       0 197935640   0% /dev
+tmpfs                                     39592892   42576  39550316   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088 1681588  11587200  13% /
+tmpfs                                    197964448   39216 197925232   1% /dev/shm
+tmpfs                                         5120       0      5120   0% /run/lock
+tmpfs                                    197964448       0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036   72842    374823  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912   20088   7923556   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880  469536  66886620   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912   21604   7922040   1% /home
+/dev/mapper/HDS--vg--rte-var_log          71175880   60152  67296004   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644   22232   8703112   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   53012  67303144   1% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912   29184   7914460   1% /var/log/audit
+cgmfs                                          100       0       100   0% /run/cgmanager/fs
+tmpfs                                     39592892       0  39592892   0% /run/user/1000
+
+Timestamp: 1552784579208 || Data: Sun Mar 17 02:02:59 CET 2019
+Filesystem                               1K-blocks    Used Available Use% Mounted on
+udev                                     197935640       0 197935640   0% /dev
+tmpfs                                     39592892   42576  39550316   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088 1681588  11587200  13% /
+tmpfs                                    197964448   39216 197925232   1% /dev/shm
+tmpfs                                         5120       0      5120   0% /run/lock
+tmpfs                                    197964448       0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036   72842    374823  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912   20088   7923556   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880  469536  66886620   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912   21604   7922040   1% /home
+/dev/mapper/HDS--vg--rte-var_log          71175880   60156  67296000   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644   22232   8703112   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   53012  67303144   1% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912   29184   7914460   1% /var/log/audit
+cgmfs                                          100       0       100   0% /run/cgmanager/fs
+tmpfs                                     39592892       0  39592892   0% /run/user/1000
+
+Timestamp: 1552785179213 || Data: Sun Mar 17 02:12:59 CET 2019
+Filesystem                               1K-blocks    Used Available Use% Mounted on
+udev                                     197935640       0 197935640   0% /dev
+tmpfs                                     39592892   42576  39550316   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088 1681588  11587200  13% /
+tmpfs                                    197964448   39216 197925232   1% /dev/shm
+tmpfs                                         5120       0      5120   0% /run/lock
+tmpfs                                    197964448       0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036   72842    374823  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912   20088   7923556   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880  469536  66886620   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912   21604   7922040   1% /home
+/dev/mapper/HDS--vg--rte-var_log          71175880   60156  67296000   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644   22232   8703112   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   53012  67303144   1% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912   29184   7914460   1% /var/log/audit
+cgmfs                                          100       0       100   0% /run/cgmanager/fs
+tmpfs                                     39592892       0  39592892   0% /run/user/1000
+
+Timestamp: 1552785779218 || Data: Sun Mar 17 02:22:59 CET 2019
+Filesystem                               1K-blocks    Used Available Use% Mounted on
+udev                                     197935640       0 197935640   0% /dev
+tmpfs                                     39592892   42576  39550316   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088 1681588  11587200  13% /
+tmpfs                                    197964448   39216 197925232   1% /dev/shm
+tmpfs                                         5120       0      5120   0% /run/lock
+tmpfs                                    197964448       0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036   72842    374823  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912   20088   7923556   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880  469536  66886620   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912   21604   7922040   1% /home
+/dev/mapper/HDS--vg--rte-var_log          71175880   60156  67296000   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644   22232   8703112   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   53012  67303144   1% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912   29188   7914456   1% /var/log/audit
+cgmfs                                          100       0       100   0% /run/cgmanager/fs
+tmpfs                                     39592892       0  39592892   0% /run/user/1000
+
+Timestamp: 1552786379224 || Data: Sun Mar 17 02:32:59 CET 2019
+Filesystem                               1K-blocks    Used Available Use% Mounted on
+udev                                     197935640       0 197935640   0% /dev
+tmpfs                                     39592892   42576  39550316   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088 1681588  11587200  13% /
+tmpfs                                    197964448   39216 197925232   1% /dev/shm
+tmpfs                                         5120       0      5120   0% /run/lock
+tmpfs                                    197964448       0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036   72842    374823  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912   20088   7923556   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880  469536  66886620   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912   21604   7922040   1% /home
+/dev/mapper/HDS--vg--rte-var_log          71175880   60156  67296000   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644   22232   8703112   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   53012  67303144   1% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912   29188   7914456   1% /var/log/audit
+cgmfs                                          100       0       100   0% /run/cgmanager/fs
+tmpfs                                     39592892       0  39592892   0% /run/user/1000
+
+Timestamp: 1552786979229 || Data: Sun Mar 17 02:42:59 CET 2019
+Filesystem                               1K-blocks    Used Available Use% Mounted on
+udev                                     197935640       0 197935640   0% /dev
+tmpfs                                     39592892   42576  39550316   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088 1681588  11587200  13% /
+tmpfs                                    197964448   39216 197925232   1% /dev/shm
+tmpfs                                         5120       0      5120   0% /run/lock
+tmpfs                                    197964448       0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036   72842    374823  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912   20088   7923556   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880  469536  66886620   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912   21604   7922040   1% /home
+/dev/mapper/HDS--vg--rte-var_log          71175880   60156  67296000   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644   22232   8703112   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   53012  67303144   1% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912   29192   7914452   1% /var/log/audit
+cgmfs                                          100       0       100   0% /run/cgmanager/fs
+tmpfs                                     39592892       0  39592892   0% /run/user/1000
+
+Timestamp: 1552787579234 || Data: Sun Mar 17 02:52:59 CET 2019
+Filesystem                               1K-blocks    Used Available Use% Mounted on
+udev                                     197935640       0 197935640   0% /dev
+tmpfs                                     39592892   42576  39550316   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088 1681588  11587200  13% /
+tmpfs                                    197964448   39216 197925232   1% /dev/shm
+tmpfs                                         5120       0      5120   0% /run/lock
+tmpfs                                    197964448       0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036   72842    374823  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912   20088   7923556   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880  469536  66886620   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912   21604   7922040   1% /home
+/dev/mapper/HDS--vg--rte-var_log          71175880   60160  67295996   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644   22232   8703112   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   53012  67303144   1% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912   29192   7914452   1% /var/log/audit
+cgmfs                                          100       0       100   0% /run/cgmanager/fs
+tmpfs                                     39592892       0  39592892   0% /run/user/1000
+
+Timestamp: 1552788179239 || Data: Sun Mar 17 03:02:59 CET 2019
+Filesystem                               1K-blocks    Used Available Use% Mounted on
+udev                                     197935640       0 197935640   0% /dev
+tmpfs                                     39592892   42576  39550316   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088 1681588  11587200  13% /
+tmpfs                                    197964448   39216 197925232   1% /dev/shm
+tmpfs                                         5120       0      5120   0% /run/lock
+tmpfs                                    197964448       0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036   72842    374823  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912   20088   7923556   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880  469536  66886620   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912   21604   7922040   1% /home
+/dev/mapper/HDS--vg--rte-var_log          71175880   60160  67295996   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644   22232   8703112   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   53012  67303144   1% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912   29196   7914448   1% /var/log/audit
+cgmfs                                          100       0       100   0% /run/cgmanager/fs
+tmpfs                                     39592892       0  39592892   0% /run/user/1000
+
+Timestamp: 1552788779244 || Data: Sun Mar 17 03:12:59 CET 2019
+Filesystem                               1K-blocks    Used Available Use% Mounted on
+udev                                     197935640       0 197935640   0% /dev
+tmpfs                                     39592892   42576  39550316   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088 1681588  11587200  13% /
+tmpfs                                    197964448   39216 197925232   1% /dev/shm
+tmpfs                                         5120       0      5120   0% /run/lock
+tmpfs                                    197964448       0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036   72842    374823  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912   20088   7923556   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880  469536  66886620   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912   21604   7922040   1% /home
+/dev/mapper/HDS--vg--rte-var_log          71175880   60160  67295996   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644   22232   8703112   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   53012  67303144   1% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912   29196   7914448   1% /var/log/audit
+cgmfs                                          100       0       100   0% /run/cgmanager/fs
+tmpfs                                     39592892       0  39592892   0% /run/user/1000
+
+Timestamp: 1552789379249 || Data: Sun Mar 17 03:22:59 CET 2019
+Filesystem                               1K-blocks    Used Available Use% Mounted on
+udev                                     197935640       0 197935640   0% /dev
+tmpfs                                     39592892   42576  39550316   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088 1681588  11587200  13% /
+tmpfs                                    197964448   39216 197925232   1% /dev/shm
+tmpfs                                         5120       0      5120   0% /run/lock
+tmpfs                                    197964448       0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036   72842    374823  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912   20088   7923556   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880  469536  66886620   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912   21604   7922040   1% /home
+/dev/mapper/HDS--vg--rte-var_log          71175880   60164  67295992   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644   22232   8703112   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   53012  67303144   1% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912   29196   7914448   1% /var/log/audit
+cgmfs                                          100       0       100   0% /run/cgmanager/fs
+tmpfs                                     39592892       0  39592892   0% /run/user/1000
+
+Timestamp: 1552789979254 || Data: Sun Mar 17 03:32:59 CET 2019
+Filesystem                               1K-blocks    Used Available Use% Mounted on
+udev                                     197935640       0 197935640   0% /dev
+tmpfs                                     39592892   42576  39550316   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088 1681588  11587200  13% /
+tmpfs                                    197964448   39216 197925232   1% /dev/shm
+tmpfs                                         5120       0      5120   0% /run/lock
+tmpfs                                    197964448       0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036   72842    374823  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912   20088   7923556   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880  469536  66886620   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912   21604   7922040   1% /home
+/dev/mapper/HDS--vg--rte-var_log          71175880   60164  67295992   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644   22232   8703112   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   53012  67303144   1% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912   29200   7914444   1% /var/log/audit
+cgmfs                                          100       0       100   0% /run/cgmanager/fs
+tmpfs                                     39592892       0  39592892   0% /run/user/1000
+
+Timestamp: 1552790579260 || Data: Sun Mar 17 03:42:59 CET 2019
+Filesystem                               1K-blocks    Used Available Use% Mounted on
+udev                                     197935640       0 197935640   0% /dev
+tmpfs                                     39592892   42576  39550316   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088 1681588  11587200  13% /
+tmpfs                                    197964448   39744 197924704   1% /dev/shm
+tmpfs                                         5120       0      5120   0% /run/lock
+tmpfs                                    197964448       0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036   72842    374823  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912   20088   7923556   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880  469536  66886620   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912   21604   7922040   1% /home
+/dev/mapper/HDS--vg--rte-var_log          71175880   60164  67295992   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644   22232   8703112   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   53012  67303144   1% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912   29200   7914444   1% /var/log/audit
+cgmfs                                          100       0       100   0% /run/cgmanager/fs
+tmpfs                                     39592892       0  39592892   0% /run/user/1000
+
+Timestamp: 1552791179265 || Data: Sun Mar 17 03:52:59 CET 2019
+Filesystem                               1K-blocks    Used Available Use% Mounted on
+udev                                     197935640       0 197935640   0% /dev
+tmpfs                                     39592892   42576  39550316   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088 1681588  11587200  13% /
+tmpfs                                    197964448   39216 197925232   1% /dev/shm
+tmpfs                                         5120       0      5120   0% /run/lock
+tmpfs                                    197964448       0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036   72842    374823  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912   20088   7923556   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880  469536  66886620   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912   21604   7922040   1% /home
+/dev/mapper/HDS--vg--rte-var_log          71175880   60168  67295988   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644   22232   8703112   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   53012  67303144   1% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912   29200   7914444   1% /var/log/audit
+cgmfs                                          100       0       100   0% /run/cgmanager/fs
+tmpfs                                     39592892       0  39592892   0% /run/user/1000
+
+Timestamp: 1552791779270 || Data: Sun Mar 17 04:02:59 CET 2019
+Filesystem                               1K-blocks    Used Available Use% Mounted on
+udev                                     197935640       0 197935640   0% /dev
+tmpfs                                     39592892   42576  39550316   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088 1681588  11587200  13% /
+tmpfs                                    197964448   39216 197925232   1% /dev/shm
+tmpfs                                         5120       0      5120   0% /run/lock
+tmpfs                                    197964448       0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036   72842    374823  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912   20088   7923556   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880  469536  66886620   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912   21604   7922040   1% /home
+/dev/mapper/HDS--vg--rte-var_log          71175880   60168  67295988   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644   22232   8703112   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   53012  67303144   1% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912   29204   7914440   1% /var/log/audit
+cgmfs                                          100       0       100   0% /run/cgmanager/fs
+tmpfs                                     39592892       0  39592892   0% /run/user/1000
+
+Timestamp: 1552792379275 || Data: Sun Mar 17 04:12:59 CET 2019
+Filesystem                               1K-blocks    Used Available Use% Mounted on
+udev                                     197935640       0 197935640   0% /dev
+tmpfs                                     39592892   42576  39550316   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088 1681588  11587200  13% /
+tmpfs                                    197964448   39216 197925232   1% /dev/shm
+tmpfs                                         5120       0      5120   0% /run/lock
+tmpfs                                    197964448       0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036   72842    374823  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912   20088   7923556   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880  469536  66886620   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912   21604   7922040   1% /home
+/dev/mapper/HDS--vg--rte-var_log          71175880   60168  67295988   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644   22232   8703112   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   53012  67303144   1% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912   29204   7914440   1% /var/log/audit
+cgmfs                                          100       0       100   0% /run/cgmanager/fs
+tmpfs                                     39592892       0  39592892   0% /run/user/1000
+
+Timestamp: 1552792979280 || Data: Sun Mar 17 04:22:59 CET 2019
+Filesystem                               1K-blocks    Used Available Use% Mounted on
+udev                                     197935640       0 197935640   0% /dev
+tmpfs                                     39592892   42576  39550316   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088 1681588  11587200  13% /
+tmpfs                                    197964448   39216 197925232   1% /dev/shm
+tmpfs                                         5120       0      5120   0% /run/lock
+tmpfs                                    197964448       0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036   72842    374823  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912   20088   7923556   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880  469536  66886620   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912   21604   7922040   1% /home
+/dev/mapper/HDS--vg--rte-var_log          71175880   60168  67295988   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644   22232   8703112   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   53012  67303144   1% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912   29204   7914440   1% /var/log/audit
+cgmfs                                          100       0       100   0% /run/cgmanager/fs
+tmpfs                                     39592892       0  39592892   0% /run/user/1000
+
+Timestamp: 1552793579285 || Data: Sun Mar 17 04:32:59 CET 2019
+Filesystem                               1K-blocks    Used Available Use% Mounted on
+udev                                     197935640       0 197935640   0% /dev
+tmpfs                                     39592892   42576  39550316   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088 1681588  11587200  13% /
+tmpfs                                    197964448   39216 197925232   1% /dev/shm
+tmpfs                                         5120       0      5120   0% /run/lock
+tmpfs                                    197964448       0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036   72842    374823  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912   20088   7923556   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880  469536  66886620   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912   21604   7922040   1% /home
+/dev/mapper/HDS--vg--rte-var_log          71175880   60168  67295988   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644   22232   8703112   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   53012  67303144   1% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912   29208   7914436   1% /var/log/audit
+cgmfs                                          100       0       100   0% /run/cgmanager/fs
+tmpfs                                     39592892       0  39592892   0% /run/user/1000
+
+Timestamp: 1552794179291 || Data: Sun Mar 17 04:42:59 CET 2019
+Filesystem                               1K-blocks    Used Available Use% Mounted on
+udev                                     197935640       0 197935640   0% /dev
+tmpfs                                     39592892   42576  39550316   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088 1681588  11587200  13% /
+tmpfs                                    197964448   39216 197925232   1% /dev/shm
+tmpfs                                         5120       0      5120   0% /run/lock
+tmpfs                                    197964448       0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036   72842    374823  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912   20088   7923556   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880  469536  66886620   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912   21604   7922040   1% /home
+/dev/mapper/HDS--vg--rte-var_log          71175880   60172  67295984   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644   22232   8703112   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   53012  67303144   1% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912   29208   7914436   1% /var/log/audit
+cgmfs                                          100       0       100   0% /run/cgmanager/fs
+tmpfs                                     39592892       0  39592892   0% /run/user/1000
+
+Timestamp: 1552794779296 || Data: Sun Mar 17 04:52:59 CET 2019
+Filesystem                               1K-blocks    Used Available Use% Mounted on
+udev                                     197935640       0 197935640   0% /dev
+tmpfs                                     39592892   42576  39550316   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088 1681588  11587200  13% /
+tmpfs                                    197964448   39216 197925232   1% /dev/shm
+tmpfs                                         5120       0      5120   0% /run/lock
+tmpfs                                    197964448       0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036   72842    374823  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912   20088   7923556   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880  469536  66886620   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912   21604   7922040   1% /home
+/dev/mapper/HDS--vg--rte-var_log          71175880   60172  67295984   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644   22232   8703112   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   53012  67303144   1% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912   29208   7914436   1% /var/log/audit
+cgmfs                                          100       0       100   0% /run/cgmanager/fs
+tmpfs                                     39592892       0  39592892   0% /run/user/1000
+
+Timestamp: 1552796579311 || Data: Sun Mar 17 05:22:59 CET 2019
+Filesystem                               1K-blocks    Used Available Use% Mounted on
+udev                                     197935640       0 197935640   0% /dev
+tmpfs                                     39592892   42576  39550316   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088 1681588  11587200  13% /
+tmpfs                                    197964448   39216 197925232   1% /dev/shm
+tmpfs                                         5120       0      5120   0% /run/lock
+tmpfs                                    197964448       0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036   72842    374823  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912   20088   7923556   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880  469536  66886620   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912   21604   7922040   1% /home
+/dev/mapper/HDS--vg--rte-var_log          71175880   60172  67295984   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644   22232   8703112   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   53012  67303144   1% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912   29216   7914428   1% /var/log/audit
+cgmfs                                          100       0       100   0% /run/cgmanager/fs
+tmpfs                                     39592892       0  39592892   0% /run/user/1000
+
+Timestamp: 1552797179316 || Data: Sun Mar 17 05:32:59 CET 2019
+Filesystem                               1K-blocks    Used Available Use% Mounted on
+udev                                     197935640       0 197935640   0% /dev
+tmpfs                                     39592892   42576  39550316   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088 1681588  11587200  13% /
+tmpfs                                    197964448   39216 197925232   1% /dev/shm
+tmpfs                                         5120       0      5120   0% /run/lock
+tmpfs                                    197964448       0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036   72842    374823  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912   20088   7923556   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880  469536  66886620   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912   21604   7922040   1% /home
+/dev/mapper/HDS--vg--rte-var_log          71175880   60172  67295984   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644   22232   8703112   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   53012  67303144   1% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912   29216   7914428   1% /var/log/audit
+cgmfs                                          100       0       100   0% /run/cgmanager/fs
+tmpfs                                     39592892       0  39592892   0% /run/user/1000
+
+Timestamp: 1552797779321 || Data: Sun Mar 17 05:42:59 CET 2019
+Filesystem                               1K-blocks    Used Available Use% Mounted on
+udev                                     197935640       0 197935640   0% /dev
+tmpfs                                     39592892   42576  39550316   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088 1681588  11587200  13% /
+tmpfs                                    197964448   39216 197925232   1% /dev/shm
+tmpfs                                         5120       0      5120   0% /run/lock
+tmpfs                                    197964448       0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036   72842    374823  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912   20088   7923556   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880  469536  66886620   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912   21604   7922040   1% /home
+/dev/mapper/HDS--vg--rte-var_log          71175880   60180  67295976   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644   22232   8703112   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   53012  67303144   1% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912   29216   7914428   1% /var/log/audit
+cgmfs                                          100       0       100   0% /run/cgmanager/fs
+tmpfs                                     39592892       0  39592892   0% /run/user/1000
+
+Timestamp: 1552798379325 || Data: Sun Mar 17 05:52:59 CET 2019
+Filesystem                               1K-blocks    Used Available Use% Mounted on
+udev                                     197935640       0 197935640   0% /dev
+tmpfs                                     39592892   42576  39550316   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088 1681588  11587200  13% /
+tmpfs                                    197964448   39216 197925232   1% /dev/shm
+tmpfs                                         5120       0      5120   0% /run/lock
+tmpfs                                    197964448       0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036   72842    374823  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912   20088   7923556   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880  469536  66886620   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912   21604   7922040   1% /home
+/dev/mapper/HDS--vg--rte-var_log          71175880   60180  67295976   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644   22232   8703112   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   53012  67303144   1% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912   29220   7914424   1% /var/log/audit
+cgmfs                                          100       0       100   0% /run/cgmanager/fs
+tmpfs                                     39592892       0  39592892   0% /run/user/1000
+
+Timestamp: 1552801379350 || Data: Sun Mar 17 06:42:59 CET 2019
+Filesystem                               1K-blocks    Used Available Use% Mounted on
+udev                                     197935640       0 197935640   0% /dev
+tmpfs                                     39592892   42576  39550316   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088 1680912  11587876  13% /
+tmpfs                                    197964448   39216 197925232   1% /dev/shm
+tmpfs                                         5120       0      5120   0% /run/lock
+tmpfs                                    197964448       0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036   72842    374823  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912   20088   7923556   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880  470196  66885960   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912   21604   7922040   1% /home
+/dev/mapper/HDS--vg--rte-var_log          71175880   60204  67295952   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644   22232   8703112   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   53012  67303144   1% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912   29228   7914416   1% /var/log/audit
+cgmfs                                          100       0       100   0% /run/cgmanager/fs
+tmpfs                                     39592892       0  39592892   0% /run/user/1000
+
+Timestamp: 1552801979355 || Data: Sun Mar 17 06:52:59 CET 2019
+Filesystem                               1K-blocks    Used Available Use% Mounted on
+udev                                     197935640       0 197935640   0% /dev
+tmpfs                                     39592892   42576  39550316   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088 1680912  11587876  13% /
+tmpfs                                    197964448   39216 197925232   1% /dev/shm
+tmpfs                                         5120       0      5120   0% /run/lock
+tmpfs                                    197964448       0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036   72842    374823  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912   20088   7923556   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880  469944  66886212   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912   21604   7922040   1% /home
+/dev/mapper/HDS--vg--rte-var_log          71175880   60204  67295952   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644   22232   8703112   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   53012  67303144   1% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912   29228   7914416   1% /var/log/audit
+cgmfs                                          100       0       100   0% /run/cgmanager/fs
+tmpfs                                     39592892       0  39592892   0% /run/user/1000
+
+Timestamp: 1552802579360 || Data: Sun Mar 17 07:02:59 CET 2019
+Filesystem                               1K-blocks    Used Available Use% Mounted on
+udev                                     197935640       0 197935640   0% /dev
+tmpfs                                     39592892   42576  39550316   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088 1680912  11587876  13% /
+tmpfs                                    197964448   39216 197925232   1% /dev/shm
+tmpfs                                         5120       0      5120   0% /run/lock
+tmpfs                                    197964448       0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036   72842    374823  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912   20088   7923556   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880  469944  66886212   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912   21604   7922040   1% /home
+/dev/mapper/HDS--vg--rte-var_log          71175880   60204  67295952   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644   22232   8703112   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   53012  67303144   1% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912   29232   7914412   1% /var/log/audit
+cgmfs                                          100       0       100   0% /run/cgmanager/fs
+tmpfs                                     39592892       0  39592892   0% /run/user/1000
+
+Timestamp: 1552806179389 || Data: Sun Mar 17 08:02:59 CET 2019
+Filesystem                               1K-blocks    Used Available Use% Mounted on
+udev                                     197935640       0 197935640   0% /dev
+tmpfs                                     39592892   42576  39550316   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088 1680912  11587876  13% /
+tmpfs                                    197964448   39216 197925232   1% /dev/shm
+tmpfs                                         5120       0      5120   0% /run/lock
+tmpfs                                    197964448       0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036   72842    374823  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912   20088   7923556   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880  469944  66886212   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912   21604   7922040   1% /home
+/dev/mapper/HDS--vg--rte-var_log          71175880   60212  67295944   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644   22232   8703112   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   53012  67303144   1% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912   29240   7914404   1% /var/log/audit
+cgmfs                                          100       0       100   0% /run/cgmanager/fs
+tmpfs                                     39592892       0  39592892   0% /run/user/1000
+
+Timestamp: 1552806779394 || Data: Sun Mar 17 08:12:59 CET 2019
+Filesystem                               1K-blocks    Used Available Use% Mounted on
+udev                                     197935640       0 197935640   0% /dev
+tmpfs                                     39592892   42576  39550316   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088 1680912  11587876  13% /
+tmpfs                                    197964448   39216 197925232   1% /dev/shm
+tmpfs                                         5120       0      5120   0% /run/lock
+tmpfs                                    197964448       0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036   72842    374823  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912   20088   7923556   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880  469944  66886212   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912   21604   7922040   1% /home
+/dev/mapper/HDS--vg--rte-var_log          71175880   60212  67295944   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644   22232   8703112   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   53012  67303144   1% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912   29240   7914404   1% /var/log/audit
+cgmfs                                          100       0       100   0% /run/cgmanager/fs
+tmpfs                                     39592892       0  39592892   0% /run/user/1000
+
+Timestamp: 1552807379400 || Data: Sun Mar 17 08:22:59 CET 2019
+Filesystem                               1K-blocks    Used Available Use% Mounted on
+udev                                     197935640       0 197935640   0% /dev
+tmpfs                                     39592892   42576  39550316   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088 1680912  11587876  13% /
+tmpfs                                    197964448   39216 197925232   1% /dev/shm
+tmpfs                                         5120       0      5120   0% /run/lock
+tmpfs                                    197964448       0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036   72842    374823  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912   20088   7923556   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880  469944  66886212   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912   21604   7922040   1% /home
+/dev/mapper/HDS--vg--rte-var_log          71175880   60216  67295940   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644   22232   8703112   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   53012  67303144   1% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912   29244   7914400   1% /var/log/audit
+cgmfs                                          100       0       100   0% /run/cgmanager/fs
+tmpfs                                     39592892       0  39592892   0% /run/user/1000
+
+Timestamp: 1552811579436 || Data: Sun Mar 17 09:32:59 CET 2019
+Filesystem                               1K-blocks    Used Available Use% Mounted on
+udev                                     197935640       0 197935640   0% /dev
+tmpfs                                     39592892   42576  39550316   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088 1680912  11587876  13% /
+tmpfs                                    197964448   39216 197925232   1% /dev/shm
+tmpfs                                         5120       0      5120   0% /run/lock
+tmpfs                                    197964448       0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036   72842    374823  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912   20088   7923556   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880  469944  66886212   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912   21604   7922040   1% /home
+/dev/mapper/HDS--vg--rte-var_log          71175880   60220  67295936   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644   22232   8703112   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   53012  67303144   1% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912   29252   7914392   1% /var/log/audit
+cgmfs                                          100       0       100   0% /run/cgmanager/fs
+tmpfs                                     39592892       0  39592892   0% /run/user/1000
+
+Timestamp: 1552812179441 || Data: Sun Mar 17 09:42:59 CET 2019
+Filesystem                               1K-blocks    Used Available Use% Mounted on
+udev                                     197935640       0 197935640   0% /dev
+tmpfs                                     39592892   42576  39550316   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088 1680912  11587876  13% /
+tmpfs                                    197964448   39216 197925232   1% /dev/shm
+tmpfs                                         5120       0      5120   0% /run/lock
+tmpfs                                    197964448       0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036   72842    374823  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912   20088   7923556   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880  469944  66886212   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912   21604   7922040   1% /home
+/dev/mapper/HDS--vg--rte-var_log          71175880   60220  67295936   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644   22232   8703112   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   53012  67303144   1% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912   29256   7914388   1% /var/log/audit
+cgmfs                                          100       0       100   0% /run/cgmanager/fs
+tmpfs                                     39592892       0  39592892   0% /run/user/1000
+
+Timestamp: 1552812779446 || Data: Sun Mar 17 09:52:59 CET 2019
+Filesystem                               1K-blocks    Used Available Use% Mounted on
+udev                                     197935640       0 197935640   0% /dev
+tmpfs                                     39592892   42576  39550316   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088 1680912  11587876  13% /
+tmpfs                                    197964448   39216 197925232   1% /dev/shm
+tmpfs                                         5120       0      5120   0% /run/lock
+tmpfs                                    197964448       0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036   72842    374823  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912   20088   7923556   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880  469944  66886212   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912   21604   7922040   1% /home
+/dev/mapper/HDS--vg--rte-var_log          71175880   60224  67295932   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644   22232   8703112   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   53012  67303144   1% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912   29256   7914388   1% /var/log/audit
+cgmfs                                          100       0       100   0% /run/cgmanager/fs
+tmpfs                                     39592892       0  39592892   0% /run/user/1000
+
+Timestamp: 1552817579486 || Data: Sun Mar 17 11:12:59 CET 2019
+Filesystem                               1K-blocks    Used Available Use% Mounted on
+udev                                     197935640       0 197935640   0% /dev
+tmpfs                                     39592892   42576  39550316   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088 1680912  11587876  13% /
+tmpfs                                    197964448   39216 197925232   1% /dev/shm
+tmpfs                                         5120       0      5120   0% /run/lock
+tmpfs                                    197964448       0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036   72842    374823  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912   20088   7923556   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880  469944  66886212   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912   21604   7922040   1% /home
+/dev/mapper/HDS--vg--rte-var_log          71175880   60236  67295920   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644   22232   8703112   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   53012  67303144   1% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912   29292   7914352   1% /var/log/audit
+cgmfs                                          100       0       100   0% /run/cgmanager/fs
+tmpfs                                     39592892       0  39592892   0% /run/user/1000
+
+Timestamp: 1552818179490 || Data: Sun Mar 17 11:22:59 CET 2019
+Filesystem                               1K-blocks    Used Available Use% Mounted on
+udev                                     197935640       0 197935640   0% /dev
+tmpfs                                     39592892   42576  39550316   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088 1680912  11587876  13% /
+tmpfs                                    197964448   39216 197925232   1% /dev/shm
+tmpfs                                         5120       0      5120   0% /run/lock
+tmpfs                                    197964448       0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036   72842    374823  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912   20088   7923556   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880  469944  66886212   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912   21604   7922040   1% /home
+/dev/mapper/HDS--vg--rte-var_log          71175880   60240  67295916   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644   22232   8703112   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   53012  67303144   1% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912   29292   7914352   1% /var/log/audit
+cgmfs                                          100       0       100   0% /run/cgmanager/fs
+tmpfs                                     39592892       0  39592892   0% /run/user/1000
+
+Timestamp: 1552818779496 || Data: Sun Mar 17 11:32:59 CET 2019
+Filesystem                               1K-blocks    Used Available Use% Mounted on
+udev                                     197935640       0 197935640   0% /dev
+tmpfs                                     39592892   42576  39550316   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088 1680912  11587876  13% /
+tmpfs                                    197964448   39216 197925232   1% /dev/shm
+tmpfs                                         5120       0      5120   0% /run/lock
+tmpfs                                    197964448       0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036   72842    374823  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912   20088   7923556   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880  469944  66886212   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912   21604   7922040   1% /home
+/dev/mapper/HDS--vg--rte-var_log          71175880   60240  67295916   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644   22232   8703112   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   53012  67303144   1% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912   29296   7914348   1% /var/log/audit
+cgmfs                                          100       0       100   0% /run/cgmanager/fs
+tmpfs                                     39592892       0  39592892   0% /run/user/1000
+
+Timestamp: 1552824179551 || Data: Sun Mar 17 13:02:59 CET 2019
+Filesystem                               1K-blocks    Used Available Use% Mounted on
+udev                                     197935640       0 197935640   0% /dev
+tmpfs                                     39592892   42576  39550316   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088 1680912  11587876  13% /
+tmpfs                                    197964448   39216 197925232   1% /dev/shm
+tmpfs                                         5120       0      5120   0% /run/lock
+tmpfs                                    197964448       0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036   72842    374823  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912   20088   7923556   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880  469944  66886212   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912   21604   7922040   1% /home
+/dev/mapper/HDS--vg--rte-var_log          71175880   60248  67295908   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644   22232   8703112   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   53012  67303144   1% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912   29308   7914336   1% /var/log/audit
+cgmfs                                          100       0       100   0% /run/cgmanager/fs
+tmpfs                                     39592892       0  39592892   0% /run/user/1000
+
+Timestamp: 1552824779556 || Data: Sun Mar 17 13:12:59 CET 2019
+Filesystem                               1K-blocks    Used Available Use% Mounted on
+udev                                     197935640       0 197935640   0% /dev
+tmpfs                                     39592892   50768  39542124   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088 1680912  11587876  13% /
+tmpfs                                    197964448   39216 197925232   1% /dev/shm
+tmpfs                                         5120       0      5120   0% /run/lock
+tmpfs                                    197964448       0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036   72842    374823  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912   20088   7923556   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880  469944  66886212   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912   21604   7922040   1% /home
+/dev/mapper/HDS--vg--rte-var_log          71175880   60252  67295904   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644   22232   8703112   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   53012  67303144   1% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912   29308   7914336   1% /var/log/audit
+cgmfs                                          100       0       100   0% /run/cgmanager/fs
+tmpfs                                     39592892       0  39592892   0% /run/user/1000
+
+Timestamp: 1552825379561 || Data: Sun Mar 17 13:22:59 CET 2019
+Filesystem                               1K-blocks    Used Available Use% Mounted on
+udev                                     197935640       0 197935640   0% /dev
+tmpfs                                     39592892   50768  39542124   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088 1680912  11587876  13% /
+tmpfs                                    197964448   39216 197925232   1% /dev/shm
+tmpfs                                         5120       0      5120   0% /run/lock
+tmpfs                                    197964448       0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036   72842    374823  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912   20088   7923556   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880  469944  66886212   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912   21604   7922040   1% /home
+/dev/mapper/HDS--vg--rte-var_log          71175880   60252  67295904   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644   22232   8703112   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   53012  67303144   1% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912   29312   7914332   1% /var/log/audit
+cgmfs                                          100       0       100   0% /run/cgmanager/fs
+tmpfs                                     39592892       0  39592892   0% /run/user/1000
+
+Timestamp: 1552831379611 || Data: Sun Mar 17 15:02:59 CET 2019
+Filesystem                               1K-blocks    Used Available Use% Mounted on
+udev                                     197935640       0 197935640   0% /dev
+tmpfs                                     39592892   50768  39542124   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088 1680912  11587876  13% /
+tmpfs                                    197964448   39216 197925232   1% /dev/shm
+tmpfs                                         5120       0      5120   0% /run/lock
+tmpfs                                    197964448       0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036   72842    374823  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912   20088   7923556   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880  469944  66886212   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912   21604   7922040   1% /home
+/dev/mapper/HDS--vg--rte-var_log          71175880   60268  67295888   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644   22232   8703112   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   53012  67303144   1% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912   29324   7914320   1% /var/log/audit
+cgmfs                                          100       0       100   0% /run/cgmanager/fs
+tmpfs                                     39592892       0  39592892   0% /run/user/1000
+
+Timestamp: 1552831979616 || Data: Sun Mar 17 15:12:59 CET 2019
+Filesystem                               1K-blocks    Used Available Use% Mounted on
+udev                                     197935640       0 197935640   0% /dev
+tmpfs                                     39592892   50768  39542124   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088 1680912  11587876  13% /
+tmpfs                                    197964448   39216 197925232   1% /dev/shm
+tmpfs                                         5120       0      5120   0% /run/lock
+tmpfs                                    197964448       0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036   72842    374823  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912   20088   7923556   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880  469944  66886212   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912   21604   7922040   1% /home
+/dev/mapper/HDS--vg--rte-var_log          71175880   60268  67295888   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644   22232   8703112   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   53012  67303144   1% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912   29324   7914320   1% /var/log/audit
+cgmfs                                          100       0       100   0% /run/cgmanager/fs
+tmpfs                                     39592892       0  39592892   0% /run/user/1000
+
+Timestamp: 1552832579621 || Data: Sun Mar 17 15:22:59 CET 2019
+Filesystem                               1K-blocks    Used Available Use% Mounted on
+udev                                     197935640       0 197935640   0% /dev
+tmpfs                                     39592892   50768  39542124   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088 1680912  11587876  13% /
+tmpfs                                    197964448   39216 197925232   1% /dev/shm
+tmpfs                                         5120       0      5120   0% /run/lock
+tmpfs                                    197964448       0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036   72842    374823  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912   20088   7923556   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880  469944  66886212   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912   21604   7922040   1% /home
+/dev/mapper/HDS--vg--rte-var_log          71175880   60268  67295888   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644   22232   8703112   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   53012  67303144   1% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912   29328   7914316   1% /var/log/audit
+cgmfs                                          100       0       100   0% /run/cgmanager/fs
+tmpfs                                     39592892       0  39592892   0% /run/user/1000
+
+Timestamp: 1552833179626 || Data: Sun Mar 17 15:32:59 CET 2019
+Filesystem                               1K-blocks    Used Available Use% Mounted on
+udev                                     197935640       0 197935640   0% /dev
+tmpfs                                     39592892   50768  39542124   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088 1680912  11587876  13% /
+tmpfs                                    197964448   39216 197925232   1% /dev/shm
+tmpfs                                         5120       0      5120   0% /run/lock
+tmpfs                                    197964448       0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036   72842    374823  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912   20088   7923556   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880  469944  66886212   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912   21604   7922040   1% /home
+/dev/mapper/HDS--vg--rte-var_log          71175880   60268  67295888   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644   22232   8703112   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   53012  67303144   1% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912   29328   7914316   1% /var/log/audit
+cgmfs                                          100       0       100   0% /run/cgmanager/fs
+tmpfs                                     39592892       0  39592892   0% /run/user/1000
+
+Timestamp: 1552834379636 || Data: Sun Mar 17 15:52:59 CET 2019
+Filesystem                               1K-blocks    Used Available Use% Mounted on
+udev                                     197935640       0 197935640   0% /dev
+tmpfs                                     39592892   50768  39542124   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088 1680912  11587876  13% /
+tmpfs                                    197964448   39216 197925232   1% /dev/shm
+tmpfs                                         5120       0      5120   0% /run/lock
+tmpfs                                    197964448       0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036   72842    374823  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912   20088   7923556   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880  469944  66886212   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912   21604   7922040   1% /home
+/dev/mapper/HDS--vg--rte-var_log          71175880   60272  67295884   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644   22232   8703112   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   53012  67303144   1% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912   29332   7914312   1% /var/log/audit
+cgmfs                                          100       0       100   0% /run/cgmanager/fs
+tmpfs                                     39592892       0  39592892   0% /run/user/1000
+
+Timestamp: 1552834979641 || Data: Sun Mar 17 16:02:59 CET 2019
+Filesystem                               1K-blocks    Used Available Use% Mounted on
+udev                                     197935640       0 197935640   0% /dev
+tmpfs                                     39592892   50768  39542124   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088 1680912  11587876  13% /
+tmpfs                                    197964448   39216 197925232   1% /dev/shm
+tmpfs                                         5120       0      5120   0% /run/lock
+tmpfs                                    197964448       0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036   72842    374823  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912   20088   7923556   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880  469944  66886212   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912   21604   7922040   1% /home
+/dev/mapper/HDS--vg--rte-var_log          71175880   60272  67295884   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644   22232   8703112   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   53012  67303144   1% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912   29332   7914312   1% /var/log/audit
+cgmfs                                          100       0       100   0% /run/cgmanager/fs
+tmpfs                                     39592892       0  39592892   0% /run/user/1000
+
+Timestamp: 1552835579646 || Data: Sun Mar 17 16:12:59 CET 2019
+Filesystem                               1K-blocks    Used Available Use% Mounted on
+udev                                     197935640       0 197935640   0% /dev
+tmpfs                                     39592892   50768  39542124   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088 1680912  11587876  13% /
+tmpfs                                    197964448   39216 197925232   1% /dev/shm
+tmpfs                                         5120       0      5120   0% /run/lock
+tmpfs                                    197964448       0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036   72842    374823  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912   20088   7923556   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880  469944  66886212   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912   21604   7922040   1% /home
+/dev/mapper/HDS--vg--rte-var_log          71175880   60272  67295884   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644   22232   8703112   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   53012  67303144   1% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912   29332   7914312   1% /var/log/audit
+cgmfs                                          100       0       100   0% /run/cgmanager/fs
+tmpfs                                     39592892       0  39592892   0% /run/user/1000
+
+Timestamp: 1552836179651 || Data: Sun Mar 17 16:22:59 CET 2019
+Filesystem                               1K-blocks    Used Available Use% Mounted on
+udev                                     197935640       0 197935640   0% /dev
+tmpfs                                     39592892   50768  39542124   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088 1680912  11587876  13% /
+tmpfs                                    197964448   39216 197925232   1% /dev/shm
+tmpfs                                         5120       0      5120   0% /run/lock
+tmpfs                                    197964448       0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036   72842    374823  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912   20088   7923556   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880  469944  66886212   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912   21604   7922040   1% /home
+/dev/mapper/HDS--vg--rte-var_log          71175880   60272  67295884   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644   22232   8703112   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   53012  67303144   1% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912   29336   7914308   1% /var/log/audit
+cgmfs                                          100       0       100   0% /run/cgmanager/fs
+tmpfs                                     39592892       0  39592892   0% /run/user/1000
+
+Timestamp: 1552836779656 || Data: Sun Mar 17 16:32:59 CET 2019
+Filesystem                               1K-blocks    Used Available Use% Mounted on
+udev                                     197935640       0 197935640   0% /dev
+tmpfs                                     39592892   50768  39542124   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088 1680912  11587876  13% /
+tmpfs                                    197964448   39216 197925232   1% /dev/shm
+tmpfs                                         5120       0      5120   0% /run/lock
+tmpfs                                    197964448       0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036   72842    374823  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912   20088   7923556   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880  469944  66886212   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912   21604   7922040   1% /home
+/dev/mapper/HDS--vg--rte-var_log          71175880   60272  67295884   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644   22232   8703112   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   53012  67303144   1% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912   29336   7914308   1% /var/log/audit
+cgmfs                                          100       0       100   0% /run/cgmanager/fs
+tmpfs                                     39592892       0  39592892   0% /run/user/1000
+
+Timestamp: 1552837379661 || Data: Sun Mar 17 16:42:59 CET 2019
+Filesystem                               1K-blocks    Used Available Use% Mounted on
+udev                                     197935640       0 197935640   0% /dev
+tmpfs                                     39592892   50768  39542124   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088 1680912  11587876  13% /
+tmpfs                                    197964448   39216 197925232   1% /dev/shm
+tmpfs                                         5120       0      5120   0% /run/lock
+tmpfs                                    197964448       0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036   72842    374823  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912   20088   7923556   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880  469944  66886212   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912   21604   7922040   1% /home
+/dev/mapper/HDS--vg--rte-var_log          71175880   60272  67295884   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644   22232   8703112   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   53012  67303144   1% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912   29336   7914308   1% /var/log/audit
+cgmfs                                          100       0       100   0% /run/cgmanager/fs
+tmpfs                                     39592892       0  39592892   0% /run/user/1000
+
+Timestamp: 1552837979666 || Data: Sun Mar 17 16:52:59 CET 2019
+Filesystem                               1K-blocks    Used Available Use% Mounted on
+udev                                     197935640       0 197935640   0% /dev
+tmpfs                                     39592892   50768  39542124   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088 1680912  11587876  13% /
+tmpfs                                    197964448   39216 197925232   1% /dev/shm
+tmpfs                                         5120       0      5120   0% /run/lock
+tmpfs                                    197964448       0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036   72842    374823  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912   20088   7923556   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880  469944  66886212   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912   21604   7922040   1% /home
+/dev/mapper/HDS--vg--rte-var_log          71175880   60276  67295880   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644   22232   8703112   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   53012  67303144   1% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912   29340   7914304   1% /var/log/audit
+cgmfs                                          100       0       100   0% /run/cgmanager/fs
+tmpfs                                     39592892       0  39592892   0% /run/user/1000
+
+Timestamp: 1552838579671 || Data: Sun Mar 17 17:02:59 CET 2019
+Filesystem                               1K-blocks    Used Available Use% Mounted on
+udev                                     197935640       0 197935640   0% /dev
+tmpfs                                     39592892   50768  39542124   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088 1680912  11587876  13% /
+tmpfs                                    197964448   39216 197925232   1% /dev/shm
+tmpfs                                         5120       0      5120   0% /run/lock
+tmpfs                                    197964448       0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036   72842    374823  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912   20088   7923556   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880  469944  66886212   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912   21604   7922040   1% /home
+/dev/mapper/HDS--vg--rte-var_log          71175880   60276  67295880   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644   22232   8703112   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   53012  67303144   1% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912   29340   7914304   1% /var/log/audit
+cgmfs                                          100       0       100   0% /run/cgmanager/fs
+tmpfs                                     39592892       0  39592892   0% /run/user/1000
+
+Timestamp: 1552839179676 || Data: Sun Mar 17 17:12:59 CET 2019
+Filesystem                               1K-blocks    Used Available Use% Mounted on
+udev                                     197935640       0 197935640   0% /dev
+tmpfs                                     39592892   50768  39542124   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088 1680912  11587876  13% /
+tmpfs                                    197964448   39216 197925232   1% /dev/shm
+tmpfs                                         5120       0      5120   0% /run/lock
+tmpfs                                    197964448       0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036   72842    374823  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912   20088   7923556   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880  469944  66886212   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912   21604   7922040   1% /home
+/dev/mapper/HDS--vg--rte-var_log          71175880   60280  67295876   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644   22232   8703112   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   53012  67303144   1% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912   29340   7914304   1% /var/log/audit
+cgmfs                                          100       0       100   0% /run/cgmanager/fs
+tmpfs                                     39592892       0  39592892   0% /run/user/1000
+
+Timestamp: 1552839779681 || Data: Sun Mar 17 17:22:59 CET 2019
+Filesystem                               1K-blocks    Used Available Use% Mounted on
+udev                                     197935640       0 197935640   0% /dev
+tmpfs                                     39592892   50768  39542124   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088 1680912  11587876  13% /
+tmpfs                                    197964448   39216 197925232   1% /dev/shm
+tmpfs                                         5120       0      5120   0% /run/lock
+tmpfs                                    197964448       0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036   72842    374823  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912   20088   7923556   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880  469948  66886208   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912   21604   7922040   1% /home
+/dev/mapper/HDS--vg--rte-var_log          71175880   60280  67295876   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644   22232   8703112   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   53012  67303144   1% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912   29344   7914300   1% /var/log/audit
+cgmfs                                          100       0       100   0% /run/cgmanager/fs
+tmpfs                                     39592892       0  39592892   0% /run/user/1000
+
+Timestamp: 1552840379686 || Data: Sun Mar 17 17:32:59 CET 2019
+Filesystem                               1K-blocks    Used Available Use% Mounted on
+udev                                     197935640       0 197935640   0% /dev
+tmpfs                                     39592892   50768  39542124   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088 1680912  11587876  13% /
+tmpfs                                    197964448   39216 197925232   1% /dev/shm
+tmpfs                                         5120       0      5120   0% /run/lock
+tmpfs                                    197964448       0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036   72842    374823  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912   20088   7923556   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880  469948  66886208   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912   21604   7922040   1% /home
+/dev/mapper/HDS--vg--rte-var_log          71175880   60280  67295876   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644   22232   8703112   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   53012  67303144   1% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912   29344   7914300   1% /var/log/audit
+cgmfs                                          100       0       100   0% /run/cgmanager/fs
+tmpfs                                     39592892       0  39592892   0% /run/user/1000
+
+Timestamp: 1552840979690 || Data: Sun Mar 17 17:42:59 CET 2019
+Filesystem                               1K-blocks    Used Available Use% Mounted on
+udev                                     197935640       0 197935640   0% /dev
+tmpfs                                     39592892   50768  39542124   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088 1680912  11587876  13% /
+tmpfs                                    197964448   39216 197925232   1% /dev/shm
+tmpfs                                         5120       0      5120   0% /run/lock
+tmpfs                                    197964448       0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036   72842    374823  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912   20088   7923556   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880  469948  66886208   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912   21604   7922040   1% /home
+/dev/mapper/HDS--vg--rte-var_log          71175880   60284  67295872   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644   22232   8703112   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   53012  67303144   1% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912   29344   7914300   1% /var/log/audit
+cgmfs                                          100       0       100   0% /run/cgmanager/fs
+tmpfs                                     39592892       0  39592892   0% /run/user/1000
+
+Timestamp: 1552841579695 || Data: Sun Mar 17 17:52:59 CET 2019
+Filesystem                               1K-blocks    Used Available Use% Mounted on
+udev                                     197935640       0 197935640   0% /dev
+tmpfs                                     39592892   50768  39542124   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088 1680912  11587876  13% /
+tmpfs                                    197964448   39216 197925232   1% /dev/shm
+tmpfs                                         5120       0      5120   0% /run/lock
+tmpfs                                    197964448       0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036   72842    374823  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912   20088   7923556   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880  469948  66886208   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912   21604   7922040   1% /home
+/dev/mapper/HDS--vg--rte-var_log          71175880   60284  67295872   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644   22232   8703112   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   53012  67303144   1% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912   29348   7914296   1% /var/log/audit
+cgmfs                                          100       0       100   0% /run/cgmanager/fs
+tmpfs                                     39592892       0  39592892   0% /run/user/1000
+
+Timestamp: 1552842179700 || Data: Sun Mar 17 18:02:59 CET 2019
+Filesystem                               1K-blocks    Used Available Use% Mounted on
+udev                                     197935640       0 197935640   0% /dev
+tmpfs                                     39592892   50768  39542124   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088 1680912  11587876  13% /
+tmpfs                                    197964448   39216 197925232   1% /dev/shm
+tmpfs                                         5120       0      5120   0% /run/lock
+tmpfs                                    197964448       0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036   72842    374823  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912   20088   7923556   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880  469948  66886208   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912   21604   7922040   1% /home
+/dev/mapper/HDS--vg--rte-var_log          71175880   60284  67295872   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644   22232   8703112   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   53012  67303144   1% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912   29348   7914296   1% /var/log/audit
+cgmfs                                          100       0       100   0% /run/cgmanager/fs
+tmpfs                                     39592892       0  39592892   0% /run/user/1000
+
+Timestamp: 1552842779705 || Data: Sun Mar 17 18:12:59 CET 2019
+Filesystem                               1K-blocks    Used Available Use% Mounted on
+udev                                     197935640       0 197935640   0% /dev
+tmpfs                                     39592892   50768  39542124   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088 1680912  11587876  13% /
+tmpfs                                    197964448   39216 197925232   1% /dev/shm
+tmpfs                                         5120       0      5120   0% /run/lock
+tmpfs                                    197964448       0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036   72842    374823  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912   20088   7923556   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880  469948  66886208   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912   21604   7922040   1% /home
+/dev/mapper/HDS--vg--rte-var_log          71175880   60284  67295872   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644   22232   8703112   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   53012  67303144   1% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912   29348   7914296   1% /var/log/audit
+cgmfs                                          100       0       100   0% /run/cgmanager/fs
+tmpfs                                     39592892       0  39592892   0% /run/user/1000
+
+Timestamp: 1552843379710 || Data: Sun Mar 17 18:22:59 CET 2019
+Filesystem                               1K-blocks    Used Available Use% Mounted on
+udev                                     197935640       0 197935640   0% /dev
+tmpfs                                     39592892   50768  39542124   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088 1680912  11587876  13% /
+tmpfs                                    197964448   39216 197925232   1% /dev/shm
+tmpfs                                         5120       0      5120   0% /run/lock
+tmpfs                                    197964448       0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036   72842    374823  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912   20088   7923556   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880  469948  66886208   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912   21604   7922040   1% /home
+/dev/mapper/HDS--vg--rte-var_log          71175880   60284  67295872   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644   22232   8703112   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   53012  67303144   1% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912   29352   7914292   1% /var/log/audit
+cgmfs                                          100       0       100   0% /run/cgmanager/fs
+tmpfs                                     39592892       0  39592892   0% /run/user/1000
+
+Timestamp: 1552843979715 || Data: Sun Mar 17 18:32:59 CET 2019
+Filesystem                               1K-blocks    Used Available Use% Mounted on
+udev                                     197935640       0 197935640   0% /dev
+tmpfs                                     39592892   50768  39542124   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088 1680912  11587876  13% /
+tmpfs                                    197964448   39216 197925232   1% /dev/shm
+tmpfs                                         5120       0      5120   0% /run/lock
+tmpfs                                    197964448       0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036   72842    374823  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912   20088   7923556   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880  469948  66886208   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912   21604   7922040   1% /home
+/dev/mapper/HDS--vg--rte-var_log          71175880   60284  67295872   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644   22232   8703112   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   53012  67303144   1% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912   29352   7914292   1% /var/log/audit
+cgmfs                                          100       0       100   0% /run/cgmanager/fs
+tmpfs                                     39592892       0  39592892   0% /run/user/1000
+
+Timestamp: 1552844579720 || Data: Sun Mar 17 18:42:59 CET 2019
+Filesystem                               1K-blocks    Used Available Use% Mounted on
+udev                                     197935640       0 197935640   0% /dev
+tmpfs                                     39592892   50768  39542124   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088 1680912  11587876  13% /
+tmpfs                                    197964448   39216 197925232   1% /dev/shm
+tmpfs                                         5120       0      5120   0% /run/lock
+tmpfs                                    197964448       0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036   72842    374823  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912   20088   7923556   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880  469948  66886208   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912   21604   7922040   1% /home
+/dev/mapper/HDS--vg--rte-var_log          71175880   60288  67295868   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644   22232   8703112   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   53012  67303144   1% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912   29356   7914288   1% /var/log/audit
+cgmfs                                          100       0       100   0% /run/cgmanager/fs
+tmpfs                                     39592892       0  39592892   0% /run/user/1000
+
+Timestamp: 1552845779736 || Data: Sun Mar 17 19:02:59 CET 2019
+Filesystem                               1K-blocks    Used Available Use% Mounted on
+udev                                     197935640       0 197935640   0% /dev
+tmpfs                                     39592892   50768  39542124   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088 1680912  11587876  13% /
+tmpfs                                    197964448   39216 197925232   1% /dev/shm
+tmpfs                                         5120       0      5120   0% /run/lock
+tmpfs                                    197964448       0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036   72842    374823  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912   20088   7923556   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880  469948  66886208   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912   21604   7922040   1% /home
+/dev/mapper/HDS--vg--rte-var_log          71175880   60288  67295868   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644   22232   8703112   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   53012  67303144   1% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912   29356   7914288   1% /var/log/audit
+cgmfs                                          100       0       100   0% /run/cgmanager/fs
+tmpfs                                     39592892       0  39592892   0% /run/user/1000
+
+Timestamp: 1552846379741 || Data: Sun Mar 17 19:12:59 CET 2019
+Filesystem                               1K-blocks    Used Available Use% Mounted on
+udev                                     197935640       0 197935640   0% /dev
+tmpfs                                     39592892   50768  39542124   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088 1680912  11587876  13% /
+tmpfs                                    197964448   39216 197925232   1% /dev/shm
+tmpfs                                         5120       0      5120   0% /run/lock
+tmpfs                                    197964448       0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036   72842    374823  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912   20088   7923556   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880  469948  66886208   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912   21604   7922040   1% /home
+/dev/mapper/HDS--vg--rte-var_log          71175880   60288  67295868   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644   22232   8703112   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   53012  67303144   1% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912   29360   7914284   1% /var/log/audit
+cgmfs                                          100       0       100   0% /run/cgmanager/fs
+tmpfs                                     39592892       0  39592892   0% /run/user/1000
+
+Timestamp: 1552846979746 || Data: Sun Mar 17 19:22:59 CET 2019
+Filesystem                               1K-blocks    Used Available Use% Mounted on
+udev                                     197935640       0 197935640   0% /dev
+tmpfs                                     39592892   50768  39542124   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088 1680912  11587876  13% /
+tmpfs                                    197964448   39216 197925232   1% /dev/shm
+tmpfs                                         5120       0      5120   0% /run/lock
+tmpfs                                    197964448       0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036   72842    374823  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912   20088   7923556   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880  469948  66886208   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912   21604   7922040   1% /home
+/dev/mapper/HDS--vg--rte-var_log          71175880   60296  67295860   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644   22232   8703112   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   53012  67303144   1% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912   29360   7914284   1% /var/log/audit
+cgmfs                                          100       0       100   0% /run/cgmanager/fs
+tmpfs                                     39592892       0  39592892   0% /run/user/1000
+
+Timestamp: 1552849379766 || Data: Sun Mar 17 20:02:59 CET 2019
+Filesystem                               1K-blocks    Used Available Use% Mounted on
+udev                                     197935640       0 197935640   0% /dev
+tmpfs                                     39592892   50768  39542124   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088 1680912  11587876  13% /
+tmpfs                                    197964448   39216 197925232   1% /dev/shm
+tmpfs                                         5120       0      5120   0% /run/lock
+tmpfs                                    197964448       0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036   72842    374823  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912   20088   7923556   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880  469948  66886208   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912   21604   7922040   1% /home
+/dev/mapper/HDS--vg--rte-var_log          71175880   60300  67295856   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644   22232   8703112   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   53012  67303144   1% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912   29364   7914280   1% /var/log/audit
+cgmfs                                          100       0       100   0% /run/cgmanager/fs
+tmpfs                                     39592892       0  39592892   0% /run/user/1000
+
+Timestamp: 1552849979770 || Data: Sun Mar 17 20:12:59 CET 2019
+Filesystem                               1K-blocks    Used Available Use% Mounted on
+udev                                     197935640       0 197935640   0% /dev
+tmpfs                                     39592892   50768  39542124   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088 1680912  11587876  13% /
+tmpfs                                    197964448   39216 197925232   1% /dev/shm
+tmpfs                                         5120       0      5120   0% /run/lock
+tmpfs                                    197964448       0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036   72842    374823  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912   20088   7923556   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880  469948  66886208   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912   21604   7922040   1% /home
+/dev/mapper/HDS--vg--rte-var_log          71175880   60300  67295856   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644   22232   8703112   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   53012  67303144   1% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912   29368   7914276   1% /var/log/audit
+cgmfs                                          100       0       100   0% /run/cgmanager/fs
+tmpfs                                     39592892       0  39592892   0% /run/user/1000
+
+Timestamp: 1552850579775 || Data: Sun Mar 17 20:22:59 CET 2019
+Filesystem                               1K-blocks    Used Available Use% Mounted on
+udev                                     197935640       0 197935640   0% /dev
+tmpfs                                     39592892   50768  39542124   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088 1680912  11587876  13% /
+tmpfs                                    197964448   39216 197925232   1% /dev/shm
+tmpfs                                         5120       0      5120   0% /run/lock
+tmpfs                                    197964448       0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036   72842    374823  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912   20088   7923556   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880  469948  66886208   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912   21604   7922040   1% /home
+/dev/mapper/HDS--vg--rte-var_log          71175880   60300  67295856   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644   22232   8703112   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   53012  67303144   1% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912   29368   7914276   1% /var/log/audit
+cgmfs                                          100       0       100   0% /run/cgmanager/fs
+tmpfs                                     39592892       0  39592892   0% /run/user/1000
+
+Timestamp: 1552853579800 || Data: Sun Mar 17 21:12:59 CET 2019
+Filesystem                               1K-blocks    Used Available Use% Mounted on
+udev                                     197935640       0 197935640   0% /dev
+tmpfs                                     39592892   50768  39542124   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088 1680912  11587876  13% /
+tmpfs                                    197964448   39216 197925232   1% /dev/shm
+tmpfs                                         5120       0      5120   0% /run/lock
+tmpfs                                    197964448       0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036   72842    374823  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912   20088   7923556   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880  469948  66886208   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912   21604   7922040   1% /home
+/dev/mapper/HDS--vg--rte-var_log          71175880   60304  67295852   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644   22232   8703112   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   53012  67303144   1% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912   29376   7914268   1% /var/log/audit
+cgmfs                                          100       0       100   0% /run/cgmanager/fs
+tmpfs                                     39592892       0  39592892   0% /run/user/1000
+
+Timestamp: 1552854179805 || Data: Sun Mar 17 21:22:59 CET 2019
+Filesystem                               1K-blocks    Used Available Use% Mounted on
+udev                                     197935640       0 197935640   0% /dev
+tmpfs                                     39592892   50768  39542124   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088 1680912  11587876  13% /
+tmpfs                                    197964448   39216 197925232   1% /dev/shm
+tmpfs                                         5120       0      5120   0% /run/lock
+tmpfs                                    197964448       0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036   72842    374823  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912   20088   7923556   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880  469948  66886208   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912   21604   7922040   1% /home
+/dev/mapper/HDS--vg--rte-var_log          71175880   60308  67295848   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644   22232   8703112   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   53012  67303144   1% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912   29376   7914268   1% /var/log/audit
+cgmfs                                          100       0       100   0% /run/cgmanager/fs
+tmpfs                                     39592892       0  39592892   0% /run/user/1000
+
+Timestamp: 1552854779810 || Data: Sun Mar 17 21:32:59 CET 2019
+Filesystem                               1K-blocks    Used Available Use% Mounted on
+udev                                     197935640       0 197935640   0% /dev
+tmpfs                                     39592892   50768  39542124   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088 1680912  11587876  13% /
+tmpfs                                    197964448   39216 197925232   1% /dev/shm
+tmpfs                                         5120       0      5120   0% /run/lock
+tmpfs                                    197964448       0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036   72842    374823  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912   20088   7923556   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880  469948  66886208   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912   21604   7922040   1% /home
+/dev/mapper/HDS--vg--rte-var_log          71175880   60308  67295848   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644   22232   8703112   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   53012  67303144   1% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912   29380   7914264   1% /var/log/audit
+cgmfs                                          100       0       100   0% /run/cgmanager/fs
+tmpfs                                     39592892       0  39592892   0% /run/user/1000
+
+Timestamp: 1552855379814 || Data: Sun Mar 17 21:42:59 CET 2019
+Filesystem                               1K-blocks    Used Available Use% Mounted on
+udev                                     197935640       0 197935640   0% /dev
+tmpfs                                     39592892   50768  39542124   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088 1680912  11587876  13% /
+tmpfs                                    197964448   39216 197925232   1% /dev/shm
+tmpfs                                         5120       0      5120   0% /run/lock
+tmpfs                                    197964448       0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036   72842    374823  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912   20088   7923556   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880  469948  66886208   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912   21604   7922040   1% /home
+/dev/mapper/HDS--vg--rte-var_log          71175880   60308  67295848   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644   22232   8703112   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   53012  67303144   1% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912   29380   7914264   1% /var/log/audit
+cgmfs                                          100       0       100   0% /run/cgmanager/fs
+tmpfs                                     39592892       0  39592892   0% /run/user/1000
+
+Timestamp: 1552858979843 || Data: Sun Mar 17 22:42:59 CET 2019
+Filesystem                               1K-blocks    Used Available Use% Mounted on
+udev                                     197935640       0 197935640   0% /dev
+tmpfs                                     39592892   50768  39542124   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088 1680912  11587876  13% /
+tmpfs                                    197964448   39216 197925232   1% /dev/shm
+tmpfs                                         5120       0      5120   0% /run/lock
+tmpfs                                    197964448       0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036   72842    374823  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912   20088   7923556   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880  469948  66886208   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912   21604   7922040   1% /home
+/dev/mapper/HDS--vg--rte-var_log          71175880   60316  67295840   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644   22232   8703112   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   53012  67303144   1% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912   29400   7914244   1% /var/log/audit
+cgmfs                                          100       0       100   0% /run/cgmanager/fs
+tmpfs                                     39592892       0  39592892   0% /run/user/1000
+
+Timestamp: 1552859579848 || Data: Sun Mar 17 22:52:59 CET 2019
+Filesystem                               1K-blocks    Used Available Use% Mounted on
+udev                                     197935640       0 197935640   0% /dev
+tmpfs                                     39592892   50768  39542124   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088 1680912  11587876  13% /
+tmpfs                                    197964448   39216 197925232   1% /dev/shm
+tmpfs                                         5120       0      5120   0% /run/lock
+tmpfs                                    197964448       0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036   72842    374823  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912   20088   7923556   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880  469948  66886208   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912   21604   7922040   1% /home
+/dev/mapper/HDS--vg--rte-var_log          71175880   60324  67295832   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644   22232   8703112   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   53012  67303144   1% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912   29412   7914232   1% /var/log/audit
+cgmfs                                          100       0       100   0% /run/cgmanager/fs
+tmpfs                                     39592892       0  39592892   0% /run/user/1000
+
+Timestamp: 1552860179853 || Data: Sun Mar 17 23:02:59 CET 2019
+Filesystem                               1K-blocks    Used Available Use% Mounted on
+udev                                     197935640       0 197935640   0% /dev
+tmpfs                                     39592892   50768  39542124   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088 1680912  11587876  13% /
+tmpfs                                    197964448   39216 197925232   1% /dev/shm
+tmpfs                                         5120       0      5120   0% /run/lock
+tmpfs                                    197964448       0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036   72842    374823  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912   20088   7923556   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880  469948  66886208   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912   21604   7922040   1% /home
+/dev/mapper/HDS--vg--rte-var_log          71175880   60324  67295832   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644   22232   8703112   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   53012  67303144   1% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912   29416   7914228   1% /var/log/audit
+cgmfs                                          100       0       100   0% /run/cgmanager/fs
+tmpfs                                     39592892       0  39592892   0% /run/user/1000
+
+Timestamp: 1552864379887 || Data: Mon Mar 18 00:12:59 CET 2019
+Filesystem                               1K-blocks    Used Available Use% Mounted on
+udev                                     197935640       0 197935640   0% /dev
+tmpfs                                     39592892   50768  39542124   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088 1680912  11587876  13% /
+tmpfs                                    197964448   39216 197925232   1% /dev/shm
+tmpfs                                         5120       0      5120   0% /run/lock
+tmpfs                                    197964448       0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036   72842    374823  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912   20088   7923556   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880  469948  66886208   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912   21604   7922040   1% /home
+/dev/mapper/HDS--vg--rte-var_log          71175880   60340  67295816   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644   22232   8703112   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   53012  67303144   1% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912   29424   7914220   1% /var/log/audit
+cgmfs                                          100       0       100   0% /run/cgmanager/fs
+tmpfs                                     39592892       0  39592892   0% /run/user/1000
+
+Timestamp: 1552864979892 || Data: Mon Mar 18 00:22:59 CET 2019
+Filesystem                               1K-blocks    Used Available Use% Mounted on
+udev                                     197935640       0 197935640   0% /dev
+tmpfs                                     39592892   50768  39542124   1% /run
+/dev/mapper/HDS--vg--rte-root             14041088 1680912  11587876  13% /
+tmpfs                                    197964448   39216 197925232   1% /dev/shm
+tmpfs                                         5120       0      5120   0% /run/lock
+tmpfs                                    197964448       0 197964448   0% /sys/fs/cgroup
+/dev/sda1                                   472036   72842    374823  17% /boot
+/dev/mapper/HDS--vg--rte-tmp               8415912   20088   7923556   1% /tmp
+/dev/mapper/HDS--vg--rte-var              71175880  469948  66886208   1% /var
+/dev/mapper/HDS--vg--rte-home              8415912   21604   7922040   1% /home
+/dev/mapper/HDS--vg--rte-var_log          71175880   60340  67295816   1% /var/log
+/dev/mapper/HDS--vg--rte-var_tmp           9241644   22232   8703112   1% /var/tmp
+/dev/mapper/HDS--vg--rte-var_backups_hds  71175880   53012  67303144   1% /var/backups/hds
+/dev/mapper/HDS--vg--rte-var_log_audit     8415912   29428   7914216   1% /var/log/audit
+cgmfs                                          100       0       100   0% /run/cgmanager/fs
+tmpfs                                     39592892       0  39592892   0% /run/user/1000
