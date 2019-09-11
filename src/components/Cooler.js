@@ -173,7 +173,7 @@ function getData8(){
 getData8();
 
 //this is where i get my log text
-class NRU extends Component{
+class Cooler extends Component{
 
 constructor(props){
     // eslint-disable-next-line no-this-before-super
@@ -6277,4 +6277,4 @@ if(Leaf_27_04_all_drops[i].includes("K")){
                           zoomEnabled: true,
                           animationEnabled: true}}/>          
         </div></div></div>)}}
-export default NRU;
+export default Cooler;

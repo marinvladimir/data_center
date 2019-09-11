@@ -73,13 +73,13 @@ var z = document.getElementsByClassName("link1")[12];
             [],
         datasets:
             [{
-                label:'ccmCmuResponseTime',
+                label:'Machine1RestResponse',
                 data: [],
                 backgroundColor:[],
                 fill: 'none',           
             },
             {
-              label:'ccmEacResponseTime',
+              label:'Machine1Power',
               data: [],
               backgroundColor:[],
               fill: 'none', 
@@ -269,7 +269,7 @@ render(){
           <button id="Btn_Leg4" onClick={Change4}>Move Right</button>
           </div>
           <div id="legendCtrl"> Legend Control
-          <button id="Btn_Leg5" onClick={Change5}>Show/Hide CCM</button>
+          <button id="Btn_Leg5" onClick={Change5}>Show/Hide Machine1</button>
           <button id="Btn_Leg6" onClick={Change6}>Show/Hide CMU</button>
           <button id="Btn_Leg7" onClick={Change7}>Show/Hide EAC</button>
           <button id="Btn_Leg8" onClick={Change8}>Show/Hide ALL</button>

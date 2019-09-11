@@ -376,7 +376,7 @@ getData33();
 
 //this is where i get my log text
 
-class CMU extends Component{
+class Machine3 extends Component{
 
     constructor(props){
         // eslint-disable-next-line no-this-before-super
@@ -3233,4 +3233,4 @@ chartData33:{
                   animationEnabled: true}}/>
                 </div></div>
                 </div>)}}
-export default CMU;
+export default Machine3;

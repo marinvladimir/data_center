@@ -75,7 +75,7 @@ function getData8(){
   }
 getData8();
 //this is where i get my log text
-class Rte_Host extends Component{
+class Generator extends Component{
 
 constructor(props){
     // eslint-disable-next-line no-this-before-super
@@ -978,4 +978,4 @@ render(){
                         zoomEnabled: true,
                         animationEnabled: true}}/>
            </div></div></div>)}}
-export default Rte_Host;
+export default Generator;

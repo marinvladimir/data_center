@@ -1,10 +1,9 @@
 import React, {Component} from 'react';
 import {Bar , Line} from 'react-chartjs-2';
 import './Chart.css';
-import myText from './27-CCM_CPU_LOAD_CmdMonitor';
-import myText2 from './27-CCM_DF_CmdMonitor';
-import myText3 from './27-CCM_INODES_HDS--vg--ccm-root_CmdMonitor';
-import myText5 from './27-CCM_RAM_USAGE_CmdMonitor';
+import myText from './Info/Machine_1_info_10_9.txt';
+import myText2 from './Info/Machine_1_info_df_10_9.txt';
+import myText5 from './Info/Machine-1_info_ram_10_9.txt';
 import zoom from 'chartjs-plugin-zoom';
 
 var myHTML = document.getElementById('hello');
@@ -40,19 +39,8 @@ function getData2(){
   }
 getData2();
 
-var myHTML4 = document.getElementById('inodes');
-function getData3(){
-    var myRequest = new Request(myText3);
-    fetch(myRequest).then(function(reponse){
-  return reponse.text().then(function(text){
-    myHTML4.innerHTML=text;
-  });
-    });
-  }
-getData3();
-
 //this is where i get my log text
-class CCM extends Component{
+class Machine1 extends Component{
 
 constructor(props){
     // eslint-disable-next-line no-this-before-super
@@ -75,7 +63,6 @@ componentWillUpdate(){
   // eslint-disable-next-line react/no-direct-mutation-state
   this.state.chartData2.labels=[];
   // eslint-disable-next-line react/no-direct-mutation-state
-  this.state.chartData3.labels=[];
 var z = document.getElementsByClassName("link1")[1];
 
 function zzz(){
@@ -132,97 +119,97 @@ if(document.getElementsByClassName("App")[0] != null){
             [],
         datasets:
             [{
-                label:'/run/user/1000',
+                label:'Main_Folder/Utility',
                 data: [],
                 backgroundColor:[],
                 fill: 'none'
             },
             {
-                label:'/var/lib/hds/inventory',
+                label:'Main_Folder/ProgFiles',
                 data: [],
                 backgroundColor:[],
                 fill: 'none'
             },
             {
-                label:'/var/lib/hds/repo',
+                label:'Main_Folder/Basic',
                 data: [],
                 backgroundColor:[],
                 fill: 'none'
             },
             {
-                 label:'/var/lib/hds/config',
+                 label:'Main_Folder/AllDocs/Sheets',
                  data: [],
                  backgroundColor:[],
                  fill: 'none'
           },
           {
-                  label:'/var/lib/hds',
+                  label:'Main_Folder/Audio',
                   data: [],
                   backgroundColor:[],
                   fill: 'none'
           },
           {
-                  label:'/var/log/audit',
+                  label:'Main_Folder/Video',
                   data: [],
                   backgroundColor:[],
                   fill: 'none'
           },
           {
-                  label:'/home',
+                  label:'Main_Folder/Sequences',
                   data: [],
                   backgroundColor:[],
                   fill: 'none'
            },
            {
-                  label:'/var/backups/hds',
+                  label:'Main_Folder/BackupFiles',
                   data: [],
                   backgroundColor:[],
                   fill: 'none'
           },
           {
-                  label:'/var/tmp',
+                  label:'Main_Folder/Temp/Files',
                   data: [],
                   backgroundColor:[],
                   fill: 'none'
           },
           {
-                  label:'/var/log',
+                  label:'Main_Folder/Tour/Tour',
                   data: [],
                   backgroundColor:[],
                   fill: 'none'
          },
          {
-                  label:'/var',
+                  label:'Main_Folder/Sets/SetA',
                   data: [],
                   backgroundColor:[],
                   fill: 'none'
         },
         {
-                  label:'/tmp',
+                  label:'Main_Folder/SetsSetB',
                   data: [],
                   backgroundColor:[],
                   fill: 'none'
         },
         {
-                  label:'/boot',
+                  label:'Main_Folder/BootSystem',
                   data: [],
                   backgroundColor:[],
                   fill: 'none'
         },
         {
-                  label:'/sys/fs/cgroup',
+                  label:'Main_Folder',
                   data: [],
                   backgroundColor:[],
                   fill: 'none'
         },
         {
-                  label:'/run/lock',
+                  label:'Dev',
                   data: [],
                   backgroundColor:[],
                   fill: 'none'
         },
         {
-                  label:'/dev/shm',
+                  label:'Dev/Prior',
                   data: [],
                   backgroundColor:[],
                   fill: 'none'
@@ -234,13 +221,13 @@ if(document.getElementsByClassName("App")[0] != null){
                   fill: 'none'
         },
         {
-                  label:'/run',
+                  label:'/RunnableAc',
                   data: [],
                   backgroundColor:[],
                   fill: 'none'
         },
         {
-                  label:'/dev',
+                  label:'/Acc',
                   data: [],
                   backgroundColor:[],
                   fill: 'none'
@@ -249,17 +236,6 @@ if(document.getElementsByClassName("App")[0] != null){
           
         ]         
       },
-      chartData3:{
-        labels:
-        [],
-        datasets:
-        [{
-            label:'IUse%',
-            data: [],
-            backgroundColor:[],
-            fill: 'none',
-        }]
-      }
     });
   }
 
@@ -268,35 +244,27 @@ render(){
 
   var myHTML = document.getElementById('hello');
   var textoutput = myHTML.innerHTML;
-  var regex_date = /(?<=Timestamp: )\d*/g;
+  var regex_date = /(?<=Time: )\d*/g;
   var regex_CPU = /(\d*[.|]\d)|\d{2}\s\s|\d{1}\s\s/g;
   var date = textoutput.match(regex_date);
   var cpu = textoutput.match(regex_CPU);
 
   var myHTML22 = document.getElementById('ram2');
   var textoutput22 = myHTML22.innerHTML;
-  var regex_date22 = /(?<=Timestamp: )\d*/g;
-  var regex_RAM2 = /[\n\r][ \t]*16040\s[ \t]*([^\n\r]*)/g;
+  var regex_date22 = /(?<=Time: )\d*/g;
+  var regex_RAM2 = /4086\s[ \t]*([^\n\r]*)/g;
   var date22 = textoutput22.match(regex_date22);
   var ram2 = textoutput22.match(regex_RAM2);
   var ram_split2 = [];
 
   var myHTML2 = document.getElementById('diskfr');
   var textoutput2 = myHTML2.innerHTML;
-  var regex_date2 = /(?<=Timestamp: )\d*/g;
-  var regex_DF_udev = /\d{1,3}[%]/g;
+  var regex_date2 = /(?<=Time: )\d*/g;
+  var regex_DF = /\d{1,3}[%]/g;
   var date2 = textoutput2.match(regex_date2);
-  var df = textoutput2.match(regex_DF_udev);
+  var df = textoutput2.match(regex_DF);
   var num_reg = /\d{1,3}/g;
   var num = [];
-
-  var myHTML3 = document.getElementById('inodes');
-  var textoutput3 = myHTML3.innerHTML;
-  var regex_date3 = /(?<=Timestamp: )\d*/g;
-  var regex_inodes = /(\d.*)\//g;
-  var date3 = textoutput3.match(regex_date3);
-  var regind = textoutput3.match(regex_inodes);
-  var IUse = [];
 
   var parse = [];
   var parse2 = [];
@@ -418,11 +386,11 @@ render(){
     if(document.getElementsByClassName("bar")[0].style.display === "none"){
       document.getElementsByClassName("bar")[0].style.display = "block";
       document.getElementsByClassName("chart")[1].style.marginTop = "30px";
-      document.getElementById("ClickMe1").innerHTML="Hide CPU";}
+      document.getElementById("ClickMe1").innerHTML="Off CPU";}
     else{
       document.getElementsByClassName("bar")[0].style.display = "none";
       document.getElementsByClassName("chart")[1].style.marginTop = "0px";
-      document.getElementById("ClickMe1").innerHTML="Show CPU";
+      document.getElementById("ClickMe1").innerHTML="On CPU";
     }
   }
 
@@ -432,13 +400,13 @@ render(){
       document.getElementsByClassName("bar")[2].style.display = "block";
       document.getElementsByClassName("chart")[2].style.marginTop = "30px";
       document.getElementsByClassName("chart")[3].style.marginTop = "30px";
-      document.getElementById("ClickMe2").innerHTML="Hide RAM";}
+      document.getElementById("ClickMe2").innerHTML="Off RAM";}
     else{
       document.getElementsByClassName("bar")[1].style.display = "none";
       document.getElementsByClassName("bar")[2].style.display = "none";
       document.getElementsByClassName("chart")[2].style.marginTop = "0px";
       document.getElementsByClassName("chart")[3].style.marginTop = "0px";
-      document.getElementById("ClickMe2").innerHTML="Show RAM";
+      document.getElementById("ClickMe2").innerHTML="On RAM";
     }
   }
 
@@ -446,22 +414,11 @@ render(){
     if(document.getElementsByClassName("line")[0].style.display == "none"){
     document.getElementsByClassName("line")[0].style.display = "block";
     document.getElementsByClassName("chart")[4].style.marginTop = "30px";
-    document.getElementById("ClickMe3").innerHTML="Hide DF";}
+    document.getElementById("ClickMe3").innerHTML="Off DF";}
     else{
       document.getElementsByClassName("line")[0].style.display = "none";
       document.getElementsByClassName("chart")[4].style.marginTop = "0px";
-      document.getElementById("ClickMe3").innerHTML="Show DF";}
-  }
-
-  function HideGraph4(){
-    if(document.getElementsByClassName("line")[1].style.display == "none"){
-      document.getElementsByClassName("line")[1].style.display = "block";
-      document.getElementsByClassName("chart")[5].style.marginTop = "30px";
-      document.getElementById("ClickMe4").innerHTML="Hide inodes";}
-      else{
-        document.getElementsByClassName("line")[1].style.display = "none";
-        document.getElementsByClassName("chart")[5].style.marginTop = "0px";
-        document.getElementById("ClickMe4").innerHTML="Show inodes";}
+      document.getElementById("ClickMe3").innerHTML="On DF";}
   }
 
     if(cpu!=null){
@@ -475,13 +432,13 @@ render(){
 
 if(ram2!=null){
   for(var i5=0;i5<ram2.length;i5++){
-   ram_split2[i5] = ram2[i5].slice(6,ram2[i5].length);
+   ram_split2[i5] = ram2[i5].slice(4,ram2[i5].length);
    parse2[i5] = parseInt(date22[i5], 10);
    this.state.chartData5.labels.push(parse2[i5]);
    this.state.chartData6.labels.push(parse2[i5]);
    this.state.chartData5.datasets[0].data.push(ram_split2[i5]);
    this.state.chartData5.datasets[0].backgroundColor.push('rgba(29,55,172,0.8');
-   this.state.chartData6.datasets[0].data.push(ram_split2[i5]/16040*100);
+   this.state.chartData6.datasets[0].data.push(ram_split2[i5]/4086*100);
    this.state.chartData6.datasets[0].backgroundColor.push('rgba(59,15,152,0.8');
   }}
 
@@ -527,43 +484,33 @@ if(ram2!=null){
      this.state.chartData2.datasets[16].data.push(num[2+i3*19]);
      this.state.chartData2.datasets[17].data.push(num[1+i3*19]);
      this.state.chartData2.datasets[18].data.push(num[0+i3*19]);
-     this.state.chartData2.datasets[0].backgroundColor.push('rgba(225,199,82,0.6');
-     this.state.chartData2.datasets[1].backgroundColor.push('rgba(245,99,82,0.6');
-     this.state.chartData2.datasets[2].backgroundColor.push('rgba(135,125,22,0.6');
-     this.state.chartData2.datasets[3].backgroundColor.push('rgba(102,12,52,0.6');
-     this.state.chartData2.datasets[4].backgroundColor.push('rgba(82,105,82,0.6');
-     this.state.chartData2.datasets[5].backgroundColor.push('rgba(25,152,152,0.6');
-     this.state.chartData2.datasets[6].backgroundColor.push('rgba(55,192,135,0.6');
-     this.state.chartData2.datasets[7].backgroundColor.push('rgba(182,255,17,0.6');
-     this.state.chartData2.datasets[8].backgroundColor.push('rgba(18,14,225,0.6');
-     this.state.chartData2.datasets[9].backgroundColor.push('rgba(52,85,216,0.6');
-     this.state.chartData2.datasets[10].backgroundColor.push('rgba(85,122,74,0.6');
+     this.state.chartData2.datasets[0].backgroundColor.push('rgba(225,175,79,0.55');
+     this.state.chartData2.datasets[1].backgroundColor.push('rgba(215,109,52,0.55');
+     this.state.chartData2.datasets[2].backgroundColor.push('rgba(125,155,52,0.55');
+     this.state.chartData2.datasets[3].backgroundColor.push('rgba(55,36,112,0.55');
+     this.state.chartData2.datasets[4].backgroundColor.push('rgba(62,99,12,0.55');
+     this.state.chartData2.datasets[5].backgroundColor.push('rgba(77,172,52,0.6');
+     this.state.chartData2.datasets[6].backgroundColor.push('rgba(158,82,65,0.6');
+     this.state.chartData2.datasets[7].backgroundColor.push('rgba(112,45,57,0.6');
+     this.state.chartData2.datasets[8].backgroundColor.push('rgba(68,134,25,0.6');
+     this.state.chartData2.datasets[9].backgroundColor.push('rgba(52,135,16,0.6');
+     this.state.chartData2.datasets[10].backgroundColor.push('rgba(55,62,14,0.6');
      this.state.chartData2.datasets[11].backgroundColor.push('rgba(155,105,155,0.6');
      this.state.chartData2.datasets[12].backgroundColor.push('rgba(255,105,225,0.6');
      this.state.chartData2.datasets[13].backgroundColor.push('rgba(255,225,225,0.6');
      this.state.chartData2.datasets[14].backgroundColor.push('rgba(255,255,255,0.6');
      this.state.chartData2.datasets[15].backgroundColor.push('rgba(182,55,45,0.6');
-     this.state.chartData2.datasets[16].backgroundColor.push('rgba(28,225,55,0.6');
-     this.state.chartData2.datasets[17].backgroundColor.push('rgba(114,25,255,0.6');
-     this.state.chartData2.datasets[18].backgroundColor.push('rgba(185,95,25,0.6');
-    }}
-
-    if(regind!=null){
-      for(var i6=0;i6<date3.length;i6++){
-        IUse[i6] = regind[i6].slice(23,26);
-        parse4[i6] = parseInt(date3[i6], 10);
-        this.state.chartData3.labels.push(parse4[i6]);
-        this.state.chartData3.datasets[0].data.push(IUse[i6]);
-        this.state.chartData3.datasets[0].backgroundColor.push('rgba(145,149,82,0.6');
+     this.state.chartData2.datasets[16].backgroundColor.push('rgba(33,215,25,0.6');
+     this.state.chartData2.datasets[17].backgroundColor.push('rgba(111,35,245,0.6');
+     this.state.chartData2.datasets[18].backgroundColor.push('rgba(185,90,35,0.6');
     }}
 
     return(
         <div className="chart">
           <div id="showMenu">
-          <button id="ClickMe1" onClick={HideGraph}>Hide CPU</button>
-          <button id="ClickMe2" onClick={HideGraph2}>Hide RAM</button>
-          <button id="ClickMe3" onClick={HideGraph3}>Hide DF</button>
-          <button id="ClickMe4" onClick={HideGraph4}>Hide inodes</button>
+          <button id="ClickMe1" onClick={HideGraph}>Off CPU</button>
+          <button id="ClickMe2" onClick={HideGraph2}>Off RAM</button>
+          <button id="ClickMe3" onClick={HideGraph3}>Off DF</button>
           </div>
           <div className="chart">
           <div className="bar"> <Bar
@@ -571,7 +518,7 @@ if(ram2!=null){
                  options={{
                      title: {
                      display: this.state.displayTitle,
-                     text: '27-CCM: CPU ',
+                     text: 'Machine1: CPU ',
                      fontSize:25,},
             legend:
                         {display:this.state.displayLegend,
@@ -614,7 +561,7 @@ if(ram2!=null){
                      options={{
                          title: {
                          display: this.state.displayTitle,
-                         text: '27-CCM: RAM',
+                         text: 'Machine1: RAM',
                          fontSize:25,},
                 legend:
                             {display:this.state.displayLegend,
@@ -660,7 +607,7 @@ if(ram2!=null){
                      options={{
                          title: {
                          display: this.state.displayTitle,
-                         text: '27-CCM: RAM %',
+                         text: 'Machine1: RAM %',
                          fontSize:25,},
                 legend:
                             {display:this.state.displayLegend,
@@ -720,10 +667,10 @@ if(ram2!=null){
                  options={{
                      title: {
                      display: this.state.displayTitle,
-                     text: '27-CCM: DF',
+                     text: 'Machine1: DF',
                      fontSize:25,},
                  legend:{display:this.state.displayLegend,
-                         position:this.state.legendPosition,
+                         position:"bottom",
                          labels:{}},
             scales: {
               xAxes: [{
@@ -736,7 +683,7 @@ if(ram2!=null){
                         ticks:{beginAtZero:true},
                       scaleLabel: {
                         display: true,
-                        labelString: "Use% of 1K-blocks",
+                        labelString: "Use% of My Folders",
                         fontColor: '#C0C0C0'
                       }
                     }
@@ -760,57 +707,9 @@ if(ram2!=null){
                         animationEnabled: true
                     }}
             />
-        </div></div>
-        <div className="chart">
-        <div className="line"> <Line
-                 data={this.state.chartData3}
-                 options={{
-                     title: {
-                     display: this.state.displayTitle,
-                     text: '27-CCM: INODES ',
-                     fontSize:25,},
-            legend:
-                        {display:this.state.displayLegend,
-                         position:this.state.legendPosition},
-            scales: {
-              xAxes: [{
-                type: 'time',
-                displayFormats: {unit: 'second'},
-                distribution: 'linear',
-                scaleLabel: {display: true, labelString: "time"}}],
-                yAxes: [
-                    {
-                        ticks:{beginAtZero:true},
-                      scaleLabel: {
-                        display: true,
-                        labelString: "Use of Disk Space in MB/%",
-                      }
-                    }
-                  ]
-                },
-                pan: {
-                  enabled: true,
-                  mode: 'x',
-                  rangeMin: {x: null,y: null},
-                  rangeMax: {x: null,y: null},
-                  speed: 15,
-                  onPan: function({chart}) { }
-              },
-              zoom: {
-                  enabled: true,
-                  drag:false,            
-                  mode: 'x',
-                  speed: 0.1,
-                  onZoom: function({chart}) { }
-              },
-                        responsive: true,
-                        zoomEnabled: true,
-                        animationEnabled: true
-                    }}
-            />
+        </div></div>     
         </div>
-        </div></div>
     )
 }
 }
-export default CCM;
+export default Machine1;

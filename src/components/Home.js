@@ -1,7 +1,7 @@
 import React from 'react'
 import Monitor from '../giphy.gif';
 import './Home.css';
-import myText from './27-hds-eac-1_CPU_LOAD_CmdMonitor';
+import myText from './Machine_1_info_10_9.txt';
 import thunder from '../bubble.gif';
 import '../App.css';
 
