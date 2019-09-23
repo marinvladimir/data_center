@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 import {Line} from 'react-chartjs-2';
 import './Chart.css';
-import myText from './RestResponseTimes';
+import myText from './RestAPI.txt';
 import zoom from 'chartjs-plugin-zoom';
 
 var myHTML = document.getElementById('Rest');
@@ -44,20 +44,7 @@ componentWillUpdate(){
 //console.log(this.state.chartData.labels);
 // eslint-disable-next-line react/no-direct-mutation-state
 this.state.chartData.labels=[];
-var z = document.getElementsByClassName("link1")[12];
-  
-  function zzz(){
-    var img = document.createElement("img");
-    img.src = "https://i.imgur.com/GCNyjJY.gif";
-    img.setAttribute("class","img_part1");
-    img.style.position = "absolute";
-    img.style.width = "50px";
-    img.style.marginLeft = "-65px";
-    img.style.marginTop = "-160px";
-    z.appendChild(img);
-    setTimeout(function(){document.getElementsByClassName("img_part1")[0].parentNode.removeChild(document.getElementsByClassName("img_part1")[0]);}, 2000);
-  }
-  z.onclick=zzz();
+
   if(document.getElementsByClassName("App")[0] != null){
     document.getElementsByClassName("App")[0].style.height = "1100px";}
 }
@@ -73,29 +60,35 @@ var z = document.getElementsByClassName("link1")[12];
             [],
         datasets:
             [{
-                label:'Machine1RestResponse',
+                label:'REST_Fun1',
                 data: [],
                 backgroundColor:[],
                 fill: 'none',           
             },
             {
-              label:'Machine1Power',
-              data: [],
-              backgroundColor:[],
-              fill: 'none', 
+                label:'REST_Fun2',
+                data: [],
+                backgroundColor:[],
+                fill: 'none', 
             },
             {
-              label:'cmuResponseTime',
-              data: [],
-              backgroundColor:[],
-              fill: 'none',
+                label:'REST_Fun3',
+                data: [],
+                backgroundColor:[],
+                fill: 'none',
             },
             {
-              label:'eacResponseTime',
-              data: [],
-              backgroundColor:[],
-              fill: 'none',
+                label:'REST_Fun4',
+                data: [],
+                backgroundColor:[],
+                fill: 'none',
             },
+            {
+                label:'REST_Fun5',
+                data: [],
+                backgroundColor:[],
+                fill: 'none',
+           },
             ]
     }
     });
@@ -106,7 +99,7 @@ render(){
 
   var myHTML = document.getElementById('Rest');
   var textoutput = myHTML.innerHTML;
-  var regex_date = /(?<=Timestamp: ).*/g;
+  var regex_date = /(?<=Time: ).*/g;
   var regex_Rest = /[^T]*/g;
   var date = textoutput.match(regex_date);
   var Rest = textoutput.match(regex_Rest);
@@ -222,28 +215,32 @@ render(){
         ref.config.data.datasets[1].hidden = 0;
         ref.config.data.datasets[2].hidden = 0;
         ref.config.data.datasets[3].hidden = 0;
+        ref.config.data.datasets[4].hidden = 0;
         ref.update();}
       else{
         ref.config.data.datasets[0].hidden = 1;
         ref.config.data.datasets[1].hidden = 1;
         ref.config.data.datasets[2].hidden = 1;
         ref.config.data.datasets[3].hidden = 1;
+        ref.config.data.datasets[4].hidden = 0;
         ref.update();
   }}}
 
   if(Rest != null){
     for(var m=0; m< Rest.length; m++){
-      Rest_fix[m] = Rest[m].slice(23,Rest[m].length);
+      Rest_fix[m] = Rest[m].slice(17,Rest[m].length);
       Rest_min[m] = Rest_fix[m].match(/\d{3}/g);
       if(Rest_min[m]!==null){
         this.state.chartData.datasets[0].data.push(Rest_min[m][0]);
-        this.state.chartData.datasets[0].backgroundColor.push('rgba(255,15,15,0.7');
+        this.state.chartData.datasets[0].backgroundColor.push('rgba(128,175,69,0.6');
         this.state.chartData.datasets[1].data.push(Rest_min[m][1]);
-        this.state.chartData.datasets[1].backgroundColor.push('rgba(155,225,115,0.7');
+        this.state.chartData.datasets[1].backgroundColor.push('rgba(124,144,177,0.7');
         this.state.chartData.datasets[2].data.push(Rest_min[m][2]);
-        this.state.chartData.datasets[2].backgroundColor.push('rgba(185,125,185,0.7');
+        this.state.chartData.datasets[2].backgroundColor.push('rgba(135,225,215,0.7');
         this.state.chartData.datasets[3].data.push(Rest_min[m][3]);
-        this.state.chartData.datasets[3].backgroundColor.push('rgba(85,225,215,0.7');
+        this.state.chartData.datasets[3].backgroundColor.push('rgba(74,179,211,0.7');
+        this.state.chartData.datasets[4].data.push(Rest_min[m][4]);
+        this.state.chartData.datasets[4].backgroundColor.push('rgba(135,53,225,0.5');
       }
     }
   }
@@ -269,17 +266,17 @@ render(){
           <button id="Btn_Leg4" onClick={Change4}>Move Right</button>
           </div>
           <div id="legendCtrl"> Legend Control
-          <button id="Btn_Leg5" onClick={Change5}>Show/Hide Machine1</button>
-          <button id="Btn_Leg6" onClick={Change6}>Show/Hide CMU</button>
-          <button id="Btn_Leg7" onClick={Change7}>Show/Hide EAC</button>
-          <button id="Btn_Leg8" onClick={Change8}>Show/Hide ALL</button>
+          <button id="Btn_Leg5" onClick={Change5}>On/Off Machine1</button>
+          <button id="Btn_Leg6" onClick={Change6}>On/Off Machine2</button>
+          <button id="Btn_Leg7" onClick={Change7}>On/Off Machine3</button>
+          <button id="Btn_Leg8" onClick={Change8}>On/Off ALL</button>
           </div></div>
            <div className="line"> <Line ref={(reference) => this.chartReference = reference }
                  data={this.state.chartData}
                  options={{
                      title: {
                      display: this.state.displayTitle,
-                     text: 'Rest Response Times ',
+                     text: 'RestAPI',
                      fontSize:25,},
             legend:{display:true,
                    },

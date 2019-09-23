@@ -5,16 +5,22 @@
   height: 28000px;
 }
 
+.center{
+  margin-top: 100px;
+}
+
 .App-logo {
   margin-top: 50px;
  /* animation: App-Logo-spin infinite 20s linear;*/
   height: 40vmin;
   pointer-events: none;  
-  margin-bottom: 50px;
+  margin-bottom: 30px;
+  height: 100px;
+  width: 100px;
 }
 
 .App-header {
-  background-color:rgb(101, 150, 241);
+  background-color:rgb(80, 114, 177);
   height: 200px;
   width: auto;
   display: flex;
@@ -24,7 +30,7 @@
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   font-size: calc(5px + 2vmin);
   color: rgb(34, 75, 88);
-  text-shadow: 1px 1px 2px rgb(101, 150, 241), 0 0 35px rgb(206, 206, 255), 0 0 5px rgb(198, 198, 255);
+  text-shadow: 1px 1px 2px rgb(80, 114, 177), 0 0 35px rgb(206, 206, 255), 0 0 5px rgb(198, 198, 255);
   border-style: groove;
   border-color: rgb(68, 113, 153);
   border-width: 30px;

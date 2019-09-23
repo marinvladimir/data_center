@@ -1,9 +1,9 @@
 import React, {Component} from 'react';
 import {Bar , Line} from 'react-chartjs-2';
 import './Chart.css';
-import myText from './Info/Machine_1_info_10_9.txt';
-import myText2 from './Info/Machine_1_info_df_10_9.txt';
-import myText5 from './Info/Machine-1_info_ram_10_9.txt';
+import myText from './Machine_1_info_10_9.txt';
+import myText2 from './Machine_1_info_df_10_9.txt';
+import myText5 from './Machine-1_info_ram_10_9.txt';
 import zoom from 'chartjs-plugin-zoom';
 
 var myHTML = document.getElementById('hello');

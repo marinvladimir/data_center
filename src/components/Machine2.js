@@ -1,8 +1,8 @@
 import React, {Component} from 'react';
 import {Bar , Line} from 'react-chartjs-2';
 import './Chart.css';
-import myText2 from './Info/Machine_2_info_11_9.txt';
-import myText3 from './Info/Machine-2_info_ram_11_9.txt';
+import myText2 from './Machine_2_info_11_9.txt';
+import myText3 from './Machine-2_info_ram_11_9.txt';
 import zoom from 'chartjs-plugin-zoom';
 
 var myHTML2 = document.getElementById('ram');
@@ -111,23 +111,21 @@ render(){
 
   var myHTML2 = document.getElementById('cpu2');
   var textoutput2 = myHTML2.innerHTML;
-  var regex_date2 = /(?<=Timestamp: )\d*/g;
+  var regex_date2 = /(?<=Time: )\d*/g;
   var regex_CPU2 = /(\d*[.|]\d)|\d{2}\s\s|\d{1}\s\s/g;
   var date2 = textoutput2.match(regex_date2);
   var cpu2 = textoutput2.match(regex_CPU2);
 
   var myHTML3 = document.getElementById('ram');
   var textoutput3 = myHTML3.innerHTML;
-  var regex_date3 = /(?<=Timestamp: )\d*/g;
-  var regex_RAM = /[\n\r][ \t]*3944\s[ \t]*([^\n\r]*)/g;
+  var regex_date3 = /(?<=Time: )\d*/g;
+  var regex_RAM = /1024\s[ \t]*([^\n\r]*)/g;
   var date3 = textoutput3.match(regex_date3);
   var ram = textoutput3.match(regex_RAM);
   var ram_split = [];
 
   var parse = [];
   var parse2 = [];
-  var parse3 = [];
-  var parse4 = [];
 
   var ref;
   var ch = this.state.legend;
@@ -277,7 +275,7 @@ render(){
 
   if(ram!=null){
     for(var i3=0;i3<ram.length;i3++){
-     ram_split[i3] = ram[i3].slice(5,ram[i3].length);
+     ram_split[i3] = ram[i3].slice(4,ram[i3].length);
      parse2[i3] = parseInt(date3[i3], 10);
      this.state.chartData3.labels.push(parse2[i3]);
      this.state.chartData5.labels.push(parse2[i3]);
@@ -300,7 +298,7 @@ render(){
                  options={{
                      title: {
                      display: this.state.displayTitle,
-                     text: '27-Machine2-1: CPU LOAD',
+                     text: 'Machine2-1: CPU',
                      fontSize:25,},
             legend:
                         {display:this.state.displayLegend,
@@ -313,7 +311,8 @@ render(){
                 scaleLabel: {display: true, labelString: "time"}}],
                 yAxes: [
                     {
-                        ticks:{beginAtZero:true},
+                      ticks:{beginAtZero:true , min: 0, max: 100,
+                        stepSize: 100,},
                       scaleLabel: {
                         display: true,
                         labelString: "cpu"
@@ -346,7 +345,7 @@ render(){
                      options={{
                          title: {
                          display: this.state.displayTitle,
-                         text: '27-Machine2-1: RAM',
+                         text: 'Machine2-1: RAM',
                          fontSize:25,
     
                             },
@@ -395,7 +394,7 @@ render(){
                      options={{
                          title: {
                          display: this.state.displayTitle,
-                         text: '27-Machine2-1: RAM%',
+                         text: 'Machine2-1: RAM%',
                          fontSize:25,
     
                             },

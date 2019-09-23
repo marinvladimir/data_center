@@ -1,0 +1,7 @@
+Time: 1568712704000 || Percent_Of_Use:  2%
+
+Time: 1568719904000 || Percent_Of_Use:  3%
+
+Time: 1568727104000 || Percent_Of_Use:  3%
+
+Time: 1568734304000 || Percent_Of_Use:  4%
