@@ -1,0 +1,80 @@
+Time: 1569057320000
+
+MachnABC 4.02M     3     1841      
+MachnBCD 3.09M     1     34      
+EngnABC  7.51M     23    178      
+EngnBCD  3.33M     5     1.24M      
+EngnCDE  1.2M      3     354        
+EngnDEF  1.6M      3     1.43K      
+
+Time: 1569060920000
+
+MachnABC 3.33K     15    1.55K      
+MachnBCD 285       24    3.55K      
+EngnABC  1.50K     55    544      
+EngnBCD  955       1     1.15K      
+EngnCDE  11.4K     1     15.2K        
+EngnDEF  11K       3     562    
+
+Time: 1569064520000
+
+MachnABC 335       53    1.35M      
+MachnBCD 112       4     234      
+EngnABC  107       5     111      
+EngnBCD  0.5M      4     324      
+EngnCDE  3.6M      2     153        
+EngnDEF  1.7M      45    3.13K      
+
+Time: 1569068120000
+
+MachnABC 727       7     132      
+MachnBCD 7.1K      25    160      
+EngnABC  111       3     3.38M      
+EngnBCD  222       5     6.35K      
+EngnCDE  356       7     154        
+EngnDEF  563       9     97      
+
+Time: 1569071720000
+
+MachnABC 555       5     221      
+MachnBCD 3         4     577      
+EngnABC  32        7     998      
+EngnBCD  335       24    525      
+EngnCDE  172       32    1.54K        
+EngnDEF  33        87    63.9M      
+
+Time: 1569075320000
+
+MachnABC 874       1     4.31K      
+MachnBCD 8.80M     7     2.34K      
+EngnABC  14.4M     15    1.78K      
+EngnBCD  43        14    1.24K      
+EngnCDE  317       5     754        
+EngnDEF  19        53    11.3K      
+
+Time: 1569078920000
+
+MachnABC 157       15    755      
+MachnBCD 57        4     335      
+EngnABC  56        1     1.91K      
+EngnBCD  16        45    1.24K      
+EngnCDE  252       5     354        
+EngnDEF  20        35    11.4K      
+
+Time: 1569082520000
+
+MachnABC 100       5     174      
+MachnBCD 553       4     777      
+EngnABC  778       5     888      
+EngnBCD  11.8K     4     999      
+EngnCDE  5.5K      2     111        
+EngnDEF  2.1       95    551      
+
+Time: 1569086120000
+
+MachnABC 351       1     174      
+MachnBCD 511       9     174      
+EngnABC  780       15    1.38K      
+EngnBCD  111       11    1.56K      
+EngnCDE  13.2K     23    754        
+EngnDEF  212       1     2.5K      
