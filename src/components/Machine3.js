@@ -67,7 +67,7 @@ class Machine3 extends Component{
       componentWillMount(){
         this.getChartData();
         if(document.getElementsByClassName("App")[0] != null){
-          document.getElementsByClassName("App")[0].style.height = "27600px";}
+          document.getElementsByClassName("App")[0].style.height = "2600px";}
     }
 
     componentDidMount(){

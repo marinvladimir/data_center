@@ -43,7 +43,7 @@ constructor(props){
   componentWillMount(){
     this.getChartData();
     if(document.getElementsByClassName("App")[0] != null){
-      document.getElementsByClassName("App")[0].style.height = "4000px";}
+      document.getElementsByClassName("App")[0].style.height = "2500px";}
 }
 
 componentWillUpdate(){

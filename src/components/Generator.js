@@ -33,7 +33,7 @@ constructor(props){
   componentWillMount(){
     this.getChartData();
     if(document.getElementsByClassName("App")[0] != null){
-      document.getElementsByClassName("App")[0].style.height = "6100px";}
+      document.getElementsByClassName("App")[0].style.height = "2500px";}
 }
 
 componentWillUpdate(){
@@ -41,7 +41,7 @@ componentWillUpdate(){
 this.state.chartData3.labels = [];
     
   if(document.getElementsByClassName("App")[0] != null){
-    document.getElementsByClassName("App")[0].style.height = "6100px";}
+    document.getElementsByClassName("App")[0].style.height = "1100px";}
 }
 
   getChartData(){

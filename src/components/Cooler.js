@@ -49,7 +49,7 @@ constructor(props){
   componentWillMount(){
     this.getChartData();
     if(document.getElementsByClassName("App")[0] != null){
-    document.getElementsByClassName("App")[0].style.height = "23000px";}
+    document.getElementsByClassName("App")[0].style.height = "2600px";}
   /*  var button = document.getElementById('button1');
     button.style.display='block';
     button.style.position='absolute';
