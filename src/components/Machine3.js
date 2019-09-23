@@ -98,7 +98,7 @@ class Machine3 extends Component{
     z.onclick=zzz();
 
     if(document.getElementsByClassName("App")[0] != null){
-      document.getElementsByClassName("App")[0].style.height = "27600px";}
+      document.getElementsByClassName("App")[0].style.height = "5600px";}
     }
     
       getChartData(){
