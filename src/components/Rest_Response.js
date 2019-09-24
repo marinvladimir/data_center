@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import {Line} from 'react-chartjs-2';
+import {Line, Bubble} from 'react-chartjs-2';
 import './Chart.css';
 import myText from './RestAPI.txt';
 import zoom from 'chartjs-plugin-zoom';
@@ -31,7 +31,7 @@ constructor(props){
   componentWillMount(){
     this.getChartData();
     if(document.getElementsByClassName("App")[0] != null){
-      document.getElementsByClassName("App")[0].style.height = "1100px";}
+      document.getElementsByClassName("App")[0].style.height = "1600px";}
 }
 
 componentWillUpdate(){
@@ -46,7 +46,7 @@ componentWillUpdate(){
 this.state.chartData.labels=[];
 
   if(document.getElementsByClassName("App")[0] != null){
-    document.getElementsByClassName("App")[0].style.height = "1100px";}
+    document.getElementsByClassName("App")[0].style.height = "1600px";}
 }
 
   getChartData(){
@@ -309,8 +309,47 @@ render(){
                         zoomEnabled: true,
                         animationEnabled: true
                         }}
+                        /></div>
+            <div className="bubble"> <Bubble ref={(reference) => this.chartReference = reference }
+                 data={this.state.chartData}
+                 options={{
+                     title: {
+                     display: this.state.displayTitle,
+                     text: 'RestAPI',
+                     fontSize:25,},
+            legend:{display:true,
+                   },
+            scales: {
+                xAxes: [{
+                        type: 'time',
+                        displayFormats: {unit: 'second'},
+                        distribution: 'linear',
+                        scaleLabel: {display: true, labelString: "time"}}],
+                yAxes: [{
+                        ticks:{beginAtZero:true},
+                      scaleLabel: {
+                        display: true,
+                        labelString: "cpu"
+                      }}]},
+                        pan: {
+                            enabled: true,
+                            mode: 'x',
+                            speed: 0.1,
+                            onPan: function({chart}) { }
+                        },
+                        zoom: {
+                            enabled: true,
+                            drag:false,            
+                            mode: 'x',
+                            speed: 0.1,
+                            onZoom: function({chart}) { }
+                        },
+                        responsive: true,
+                        zoomEnabled: true,
+                        animationEnabled: true
+                        }}
                         /></div></div>
-      
+                              
     )
 }
 }

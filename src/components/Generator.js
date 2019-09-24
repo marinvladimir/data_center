@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import {Bar , Line} from 'react-chartjs-2';
+import {Bar , Pie, Polar} from 'react-chartjs-2';
 import './Chart.css';
 import myText3 from './Generator_Monitor.txt';
 import zoom from 'chartjs-plugin-zoom';
@@ -51,11 +51,34 @@ this.state.chartData3.labels = [];
             labels: [],
             datasets:
                 [{
-                    label:'CPU',
                     data: [],
                     backgroundColor:[]
                 }]
-        },
+                   },
+          chartData4:{
+              labels: ['Num_Gen1',
+              'Num_Gen2',
+              'Num_Gen3',
+              'Num_Gen4'],
+              datasets:
+                  [{
+                      data: [1,2,3,4],
+                      backgroundColor:['rgba(155,159,22,0.5','rgba(15,19,165,0.7','rgba(25,155,111,0.6','rgba(111,11,112,0.6']
+                  }]
+                   },
+          chartData4:{
+              labels: ['25C',
+              '30C',
+              '35C',
+              '40C',
+              '45C',
+              '50C',],
+              datasets:
+                  [{
+                      data: [100,120,335,425,155,385],
+                      backgroundColor:['rgba(155,159,22,0.5','rgba(15,19,165,0.7','rgba(225,155,111,0.6','rgba(111,11,112,0.6','rgba(141,243,92,0.6','rgba(84,241,182,0.8']
+                  }]
+                    },
         });
       }
 
@@ -80,7 +103,7 @@ render(){
   }
 
     return(
-        <div className="chart">
+        <div>
           <div className="chart">
            <div className="bar"> <Bar
                  data={this.state.chartData3}
@@ -118,5 +141,28 @@ render(){
                         zoomEnabled: true,
                         animationEnabled: true}}/>
         </div></div>
+        <div className="chart2">
+        <div className="pie"> <Pie
+                 data={this.state.chartData4}
+                 options={{
+                     title: {
+                     display: this.state.displayTitle,
+                     text: 'Gen: Rounds ',
+                     fontSize:25,},
+            scales: {},
+                 }}/>
+        </div>
+        <div className="chart2">
+        <div className="polarArea"> <Polar
+                 data={this.state.chartData4}
+                 options={{
+                     title: {
+                     display: this.state.displayTitle,
+                     text: 'Gen: Warmth Positioning ',
+                     fontSize:25,},
+            scales: {},
+                 }}/>
+        </div></div>
+        </div>
        </div>)}}
 export default Generator;
