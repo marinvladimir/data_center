@@ -22,14 +22,14 @@ class App extends Component {
           <h2 className="titleForm">Performance Monitoring App</h2>
           <Navbar />
           </div>
-            <Route exact path='/' component={Home} />
-            <Route path='/home' component={Home} />
-            <Route path='/Machine1' component={Machine1} />
-            <Route path='/Machine2' component={Machine2} />
-            <Route path='/Machine3' component={Machine3} />
-            <Route path='/Cooler' component={Cooler} />
-            <Route path='/Generator' component={Generator} />
-            <Route path='/Rest_Response' component={Rest_Response} />
+            <Route exact path='/data_center/' component={Home} />
+            <Route path='/data_center/Home/' component={Home} />
+            <Route path='/data_center/Machine1' component={Machine1} />
+            <Route path='/data_center/Machine2' component={Machine2} />
+            <Route path='/data_center/Machine3' component={Machine3} />
+            <Route path='/data_center/Cooler' component={Cooler} />
+            <Route path='/data_center/Generator' component={Generator} />
+            <Route path='/data_center/Rest_Response' component={Rest_Response} />
           </div>
           
           </BrowserRouter>
