@@ -48,7 +48,7 @@ this.state.chartData3.labels = [];
       //Ajax calls here
     this.setState({
         chartData3:{
-            labels: [],
+            labels: [Gen_Round],
             datasets:
                 [{
                     data: [],
